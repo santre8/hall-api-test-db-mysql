@@ -1,0 +1,26 @@
+version: "3.3"
+services:
+  db:
+    build: "./database-image"
+    image: "scikey-mysql-db"
+    container_name: "mysql-container-scikey"
+    command: --default-authentication-plugin=mysql_native_password
+    environment:
+      - MYSQL_ROOT_PASSWORD=S3cret
+      - MYSQL_PASSWORD=An0thrS3crt
+      - MYSQL_USER=citizix_user
+      - MYSQL_DATABASE=scikey
+    restart: unless-stopped
+    volumes:
+      - ./mysql-data:/var/lib/mysql
+    ports:
+      - "5326:3306"
+    cpus: 0.5
+    mem_limit: 512m
+    mem_reservation: 128m
+    networks:
+      - mybridge
+
+networks:
+  mybridge:
+    driver: bridge
