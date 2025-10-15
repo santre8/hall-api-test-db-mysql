@@ -8,7 +8,7 @@ CREATE TABLE IF NOT EXISTS documents (
   id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
   doc_id BIGINT NOT NULL,
   title VARCHAR(255),
-  abstract VARCHAR(1000),
+  abstract MEDIUMTEXT,
   PRIMARY KEY (id),
   UNIQUE KEY uk_documents_doc_id (doc_id)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

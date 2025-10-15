@@ -11,5 +11,5 @@ $ ./docker-compose up -d
 
 
 docker compose down --rmi all --volumes 
-dcoker rm -f mysql-container-scikey && docker rmi scikey-mysql-db
+docker rm -f mysql-container-scikey && docker rmi scikey-mysql-db
 ```

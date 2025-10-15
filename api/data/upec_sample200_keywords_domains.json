@@ -8,7 +8,34 @@
     "domain_codes":"shs.envir",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01002652",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Guido",
+      "José-Frédéric",
+      "Bruno"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Petrucci",
+      "Deroubaix",
+      "Tassin"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Stormwater management",
+      "Urban areas",
+      "Source control",
+      "Policy-making"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1006198",
@@ -19,7 +46,35 @@
     "domain_codes":"phys.meca.mefl; spi.meca.mefl",
     "discipline":"Chemical Engineering",
     "url_primary":"http:\/\/hal-upec-upem.archives-ouvertes.fr\/docs\/01\/00\/61\/98\/PDF\/Nicolas_Mergui_IJHMT2014_HAL.pdf",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Xavier",
+      "S."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Nicolas",
+      "Mergui"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Mixed convection",
+      "Poiseuille-Rayleigh-Bénard flow",
+      "Convective instability",
+      "Rectangular channel",
+      "Harmonic inlet excitation",
+      "CVD",
+      "3D numerical simulations",
+      "Design of experiments"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1015505",
@@ -30,7 +85,36 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/halshs-01015505",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Stéphanie",
+      "Stéphanie",
+      "Christine",
+      "Samuel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chatelain-Ponroy",
+      "Mignot-Gerard",
+      "Musselin",
+      "Sponem"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "France",
+      "University",
+      "Governance"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1015767",
@@ -41,7 +125,31 @@
     "domain_codes":"spi.meca; spi.meca.vibr; phys.meca.vibr",
     "discipline":"Civil Engineering",
     "url_primary":"http:\/\/society.kisti.re.kr\/sv\/SV_svpsbs03V.do?method=download&cn1=JAKO201423366169610",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Roger",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Ohayon",
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "crp"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Component mode synthesis",
+      "Dynamic substructuring",
+      "Flexible interface",
+      "Computational mechanics"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1021415",
@@ -52,7 +160,42 @@
     "domain_codes":"info.info-cy",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/hal-01021415",
-    "organismId_i":null
+    "organismId_i":[
+      300298
+    ],
+    "authFirstName_s":[
+      "Arnaud",
+      "Dominique",
+      "Nicolas",
+      "Mohamed"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Puret",
+      "Archambault",
+      "Monmarché",
+      "Slimane"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Université de Tours"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Tactile interface",
+      "Computer game",
+      "Game authoring tool",
+      "Blind",
+      "Visually disabled"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1023779",
@@ -63,7 +206,47 @@
     "domain_codes":"shs.geo",
     "discipline":"Political Science",
     "url_primary":"https:\/\/hal.science\/halshs-01023779",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Claire",
+      "Sophie",
+      "Elisabeth"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Bénit-Gbaffou",
+      "Didier",
+      "Peyroux"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "sad",
+      "sad",
+      "sad"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Security governance",
+      "Neoliberalization",
+      "Circulation of models",
+      "Road closures",
+      "Gated residential development",
+      "City Improvement District",
+      "Southern Africa",
+      "Johannesburg",
+      "Cape Town",
+      "Windhoek",
+      "Maputo",
+      "Néoliberalisation",
+      "Transfert de politiques",
+      "Sécurité",
+      "Mobilité des politiques urbaines",
+      "Renouvellement urbain",
+      "Business Improvement Districts"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1025697",
@@ -74,7 +257,41 @@
     "domain_codes":"chim.othe",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.archives-ouvertes.fr\/hal-01025697\/file\/Post-print_P1428.pdf",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "J.",
+      "H.",
+      "Suzanne",
+      "J.",
+      "M."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Monnier",
+      "Chen",
+      "Joiret",
+      "Bourgon",
+      "Latroche"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Corrosion",
+      "Ni-MH batteries",
+      "Raman micro spectroscopy",
+      "TEM",
+      "Combination of techniques"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1026130",
@@ -85,7 +302,37 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"http:\/\/americanae.aecid.es\/americanae\/es\/registros\/registro.do?tipoRegistro=MTD&idBib=565521",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Jorge Humberto",
+      "François",
+      "Georges"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Mejia-Morelos",
+      "Grima",
+      "Trepo"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Stability",
+      "Small firms",
+      "Mexico",
+      "ISO 9000 series",
+      "Change management",
+      "Change",
+      "Case studies"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1052672",
@@ -96,7 +343,37 @@
     "domain_codes":"shs.stat; info.info-ni",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/hal-01052672",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Mustapha Reda",
+      "Abdelhamid",
+      "Mohamed Abdelkrim",
+      "Latifa"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Senouci",
+      "Mellouk",
+      "Senouci",
+      "Oukhellou"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "THEORIE DES PROBABILITES",
+      "TELECOMMUNICATION",
+      "RESEAU DE TELECOMMUNICATIONS",
+      "INCERTITUDE"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1053257",
@@ -107,7 +384,36 @@
     "domain_codes":"info.info-ni",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/link.springer.com\/content\/pdf\/10.1007\/s12243-014-0425-8.pdf",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Abdelhamid",
+      "Latifa",
+      "Lei",
+      "Glenn"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Mellouk",
+      "Oukhellou",
+      "Shu",
+      "Shafer"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "TELECOMMUNICATION",
+      "INCERTITUDE",
+      "RESEAU DE TELECOMMUNICATIONS"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1059165",
@@ -118,7 +424,83 @@
     "domain_codes":"sdv.spee; sdv.bibs; info.info-bi",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/aac.asm.org\/content\/58\/9\/5332.full.pdf",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Cédric",
+      "Patrick",
+      "Martine",
+      "Feryel",
+      "Nathalie",
+      "Fabien",
+      "Lawrence",
+      "Jean-Pierre",
+      "Michelle",
+      "Olivier",
+      "Tarik",
+      "Céline",
+      "Christophe",
+      "Fabrice",
+      "Florence",
+      "Gilles",
+      "France",
+      "Jeremie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Laouénan",
+      "Marcellin",
+      "Lapalus",
+      "Khelifa-Mouri",
+      "Boyer",
+      "Zoulim",
+      "Serfaty",
+      "Bronowicki",
+      "Martinot-Peignoux",
+      "Lada",
+      "Asselah",
+      "Dorival",
+      "Hézode",
+      "Carrat",
+      "Nicot",
+      "Peytavin",
+      "Mentré",
+      "Guedj"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Pharmacokinetic",
+      "Mathematical modeling",
+      "Ribavirin",
+      "Pegylated-interferon",
+      "Protease inhibitor",
+      "Hepatitis C virus",
+      "Non-linear mixed effect models",
+      "Early viral kinetics"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1060481",
@@ -129,7 +511,65 @@
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01060481",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "M.",
+      "H.",
+      "J.",
+      "J.P.",
+      "A.",
+      "O.",
+      "D.",
+      "H.",
+      "D.L.",
+      "T.",
+      "Patrice",
+      "O.",
+      "S."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Jin",
+      "Hong",
+      "Xie",
+      "Malval",
+      "Spangenberg",
+      "Soppera",
+      "Wan",
+      "Pu",
+      "Versace",
+      "Leclerc",
+      "Baldeck",
+      "Poizat",
+      "Knopf"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "20902069",
+      "Nsfc",
+      "National natural science foundation of china",
+      "21074094",
+      "51173134"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1061949",
@@ -140,7 +580,34 @@
     "domain_codes":"spi.meca; spi.meca.vibr",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01061949",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "O.",
+      "Anas",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Ezvan",
+      "Batou",
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Reduced-order model",
+      "Structural dynamics",
+      "High modal density",
+      "ROM"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1064345",
@@ -151,7 +618,44 @@
     "domain_codes":"sde",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01064345",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Rachid",
+      "Anda",
+      "Olivier",
+      "Yves",
+      "Viorel",
+      "Lucille"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Ouaret",
+      "Ionescu",
+      "Ramalho",
+      "Candau",
+      "Petrehus",
+      "Labat"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Formaldehyde",
+      "Clustering",
+      "Forecasting",
+      "SOTA",
+      "SETAR"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1064711",
@@ -162,7 +666,32 @@
     "domain_codes":"info.info-dm; math.math-ds; info.info-lo",
     "discipline":"Computer Science",
     "url_primary":"http:\/\/arxiv.org\/pdf\/1408.6487",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Michael",
+      "Pascal"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Hochman",
+      "Vanier"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Minimal subshift",
+      "Spectra",
+      "Cone",
+      "Subshift",
+      "Turing degree"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1064801",
@@ -173,7 +702,34 @@
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01064801",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "D.",
+      "H.",
+      "Gilberte"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Khiri",
+      "Gritli",
+      "Chambaud"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Potential curves",
+      "Long range interactions",
+      "Ab-initio calculations",
+      "Hydrogen halides"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1065102",
@@ -184,7 +740,33 @@
     "domain_codes":"shs.socio; shs.scipo",
     "discipline":"Political Science",
     "url_primary":"https:\/\/hal.science\/halshs-01065102",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Hélène",
+      "Xavier"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Buisson-Fenet",
+      "Pons"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "School Evaluation",
+      "Education Policies",
+      "France",
+      "England",
+      "Scotland",
+      "Switzerland"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1066522",
@@ -195,7 +777,45 @@
     "domain_codes":"spi.meca; math.math-pr; math.math-st",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/hal-01066522",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "R.",
+      "B.-K.",
+      "X.Q.",
+      "M. C.",
+      "M. P.",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Murthy",
+      "Choi",
+      "Wang",
+      "Sipperley",
+      "Mignolet",
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Friction",
+      "Uncertainty",
+      "Microslip",
+      "Stochastic process",
+      "Maximum entropy",
+      "Simulation"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1067996",
@@ -206,7 +826,47 @@
     "domain_codes":"sdu.astr.ep; phys.astr.ep",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01067996",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Y.",
+      "Nathalie",
+      "Guy",
+      "M.",
+      "Ahmed",
+      "Cyril",
+      "M."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Benilan",
+      "Carrasco",
+      "Cernogora",
+      "Gazeau",
+      "Mahjoub",
+      "Szopa",
+      "Schwell"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "5210 PLANETARY SCIENCES ASTROBIOLOGY Planetary atmospheres",
+      "Clouds",
+      "And hazes",
+      "5405 PLANETARY SCIENCES SOLID SURFACE PLANETS Atmospheres",
+      "0305 ATMOSPHERIC COMPOSITION AND STRUCTURE Aerosols and particles"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1068081",
@@ -217,7 +877,34 @@
     "domain_codes":"math.math-st; stat.th",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/hal-01068081",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Didier",
+      "Pierre"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chauveau",
+      "Vandekerkhove"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Adaptive MCMC algorithms",
+      "Bayesian model",
+      "Entropy",
+      "Kullback divergence",
+      "Metropolis-Hastings algorithm",
+      "Nearest neighbor estimation",
+      "Nonparametric statistic"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1068317",
@@ -228,7 +915,43 @@
     "domain_codes":"spi.meca",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01068317",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "S.",
+      "Olivier",
+      "K.P.D.",
+      "S.",
+      "A."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Lartigue-Korinek",
+      "Hardouin Duparc",
+      "Lagerlof",
+      "Moulahem",
+      "Hallil"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Grain boundary",
+      "Alumina",
+      "Bicrystal",
+      "Plasticity",
+      "Dislocations",
+      "Dissociation",
+      "Transmission electron microscopy"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1075166",
@@ -239,7 +962,33 @@
     "domain_codes":"spi.meca; math.math-pr; math.math-st",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/hal-01075166",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Anas",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Batou",
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Accelerograms",
+      "Earthquake",
+      "Stochastic process",
+      "Information theory",
+      "Maximum Entropy",
+      "Generation of Accelerograms"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1076408",
@@ -250,7 +999,35 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/halshs-01076408",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Elisa",
+      "Fanny",
+      "Béatrice"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Monnot",
+      "Reniou",
+      "Parguel"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Overpackaging",
+      "Packaging",
+      "Private label",
+      "Product image",
+      "Consumer behaviour"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1078652",
@@ -261,7 +1038,37 @@
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01078652",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "David",
+      "Marius",
+      "Marie-Pierre"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Bonhommeau",
+      "Lewerenz",
+      "Gaigeot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Parallel Charging",
+      "Parallel Tempering",
+      "Electrospray ionisation",
+      "Charged droplets",
+      "Charged clusters",
+      "Coarse-grained models",
+      "Monte Carlo simulations"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1078896",
@@ -272,7 +1079,36 @@
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01078896\/file\/NCSm-article.pdf",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "D.",
+      "H.",
+      "K.",
+      "Gilberte"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Khiri",
+      "Gritli",
+      "Peterson",
+      "Chambaud"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Potential energy functions",
+      "Excited states",
+      "Molecular anions"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1081822",
@@ -283,7 +1119,32 @@
     "domain_codes":"sdu.stu.gm",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-3MFLQ21B-J\/fulltext.pdf?sid=hal",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Jean-Pierre",
+      "François"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peulvast",
+      "Bétard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Palaeolandforms",
+      "Topographic inversion",
+      "Denudation history",
+      "Soil distribution",
+      "Scarp retreat"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1081825",
@@ -294,7 +1155,34 @@
     "domain_codes":"sdu.stu.gm",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01081825",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Jean-Pierre",
+      "François"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peulvast",
+      "Bétard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Tropical geomorphology",
+      "Backwearing",
+      "Hillslope landforms and processes",
+      "Brazil",
+      "Morphological resistance",
+      "Downwearing",
+      "Mass wasting"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1082459",
@@ -305,7 +1193,38 @@
     "domain_codes":"sdu.stu.gm",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/www.tandfonline.com\/doi\/pdf\/10.3166\/ga.19.51-71?needAccess=true&role=button",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Jean-Pierre",
+      "Vanda",
+      "Francisco Hilario",
+      "Francois"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peulvast",
+      "Claudino Sales",
+      "Bezerra",
+      "Betard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Fault scarp",
+      "Neotectonics",
+      "Passive margin",
+      "Seismicity",
+      "Differential erosion"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1082502",
@@ -316,7 +1235,32 @@
     "domain_codes":"sdu.stu.gm",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01082502",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Jean-Pierre",
+      "François"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peulvast",
+      "Bétard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Soil distribution",
+      "Relief inversion",
+      "Denudation history",
+      "Scarp retreat",
+      "Palaeolandforms"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1082504",
@@ -327,7 +1271,35 @@
     "domain_codes":"sdu.stu.gm; sde.es",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01082504",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Alexsandra de Oliveira",
+      "Jean-Pierre",
+      "François"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Magalhães",
+      "Peulvast",
+      "Bétard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Northeast Brazil",
+      "Natural hazards",
+      "Mass movements",
+      "Floods",
+      "Hillslope dynamics"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1082513",
@@ -338,7 +1310,33 @@
     "domain_codes":"sdu.stu.gm",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01082513",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Jean-Pierre",
+      "Francois"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peulvast",
+      "Betard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Relief inversion",
+      "Tectonics",
+      "Denudation depths",
+      "Palaeolandforms",
+      "Laterites",
+      "Brazil"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1082533",
@@ -349,7 +1347,35 @@
     "domain_codes":"sdu.stu.gm",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01082533",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Jean-Pierre",
+      "Francois",
+      "Vanda"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peulvast",
+      "Betard",
+      "Claudino Sales"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Backwearing",
+      "Downwearing",
+      "Fault scarp",
+      "Marginal scarp",
+      "Neotectonics"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1082539",
@@ -360,7 +1386,35 @@
     "domain_codes":"sdu.stu.gm",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01082539",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Francois",
+      "Jean-Pierre",
+      "Vanda"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Betard",
+      "Peulvast",
+      "Claudino Sales"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "GIS",
+      "SRTM DEM",
+      "Structural geomorphology",
+      "Morphotectonic studies",
+      "Neotectonics"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1082540",
@@ -371,7 +1425,35 @@
     "domain_codes":"sdu.stu.gm",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01082540",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Jean-Pierre",
+      "Vanda",
+      "Francois"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peulvast",
+      "Claudino Sales",
+      "Betard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Denudation rates",
+      "Marginal scarp",
+      "Morphostratigraphy",
+      "Paleolandforms",
+      "Passive margin"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1083001",
@@ -382,7 +1464,37 @@
     "domain_codes":"chim.anal; sdv.bbm",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/api.istex.fr\/document\/6691CFECF2A230772693D6DFDE81EE4EE32E5AA7\/fulltext\/pdf?sid=hal",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Daniel",
+      "Robert",
+      "Pierre",
+      "Danièle"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot",
+      "Sternberg",
+      "Coulet",
+      "Gautheron"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Glocose oxidase",
+      "Amperometric biosensor",
+      "Collagen",
+      "Biosensors"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1083004",
@@ -393,7 +1505,36 @@
     "domain_codes":"chim.anal; sdv.bbm.bc",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01083004",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Daniel",
+      "Klara",
+      "Richard",
+      "George"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot",
+      "Toth",
+      "Durst",
+      "Wilson"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Electrochemical biosensor",
+      "Classification",
+      "Definition"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1083007",
@@ -404,7 +1545,28 @@
     "domain_codes":"chim.anal; sdv.bbm.bc",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01083007",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Daniel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Electrochemical biosensor",
+      "Implantable sensor",
+      "Glucose",
+      "Glucose oxidase"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1083014",
@@ -415,7 +1577,33 @@
     "domain_codes":"chim.anal; sdv.bbm.bc",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01083014",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Daniel",
+      "Robert",
+      "Pierre"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot",
+      "Sternberg",
+      "Coulet"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Electrochemical biosensor",
+      "Glucose",
+      "Glucose oxidase"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1083157",
@@ -426,7 +1614,26 @@
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01083157",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Gilberte"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chambaud"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Chemistry history",
+      "Chemical bond concepts"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1083160",
@@ -437,7 +1644,29 @@
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01083160",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Gilberte",
+      "D."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chambaud",
+      "Khiri"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Long range interactions",
+      "Potential energy functions"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1083743",
@@ -448,7 +1677,40 @@
     "domain_codes":"phys.meca.ther",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-KWG6N0X1-V\/fulltext.pdf?sid=hal",
-    "organismId_i":null
+    "organismId_i":[
+      441569
+    ],
+    "authFirstName_s":[
+      "F.",
+      "Cyril",
+      "Françoise",
+      "Guy"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Ordonez",
+      "Caliot",
+      "Bataille",
+      "Lauriat"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Centre National de la Recherche Scientifique"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Solar particle receiver",
+      "Receiver efficiency",
+      "High temperature"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1084520",
@@ -459,7 +1721,33 @@
     "domain_codes":"sde; chim.anal",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01084520",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Alain",
+      "Daniel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Heduit",
+      "Thevenot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Control",
+      "Instrumentation",
+      "Waste water treatment plant",
+      "Oxygen",
+      "Activated sludge",
+      "Redox potential"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1084536",
@@ -470,7 +1758,45 @@
     "domain_codes":"info.info-ti; info.info-cv",
     "discipline":"Computer Science",
     "url_primary":"http:\/\/hal.inria.fr\/docs\/00\/86\/97\/27\/PDF\/internalReport-DirectedConnectedOperators.pdf",
-    "organismId_i":null
+    "organismId_i":[
+      7569
+    ],
+    "authFirstName_s":[
+      "Benjamin",
+      "Jean",
+      "Olena",
+      "Hugues",
+      "Nicolas"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Perret",
+      "Cousty",
+      "Tankyevych",
+      "Talbot",
+      "Passat"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Université de Reims Champagne-Ardenne"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Mathematical morphology",
+      "Segmentation",
+      "Antiextensive filtering",
+      "Hierarchical image representation",
+      "Connected operators"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1084567",
@@ -481,7 +1807,38 @@
     "domain_codes":"sde",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01084567",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Julio",
+      "Anne-Laure",
+      "Daniel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Flores-Rodrîguez",
+      "Bussy",
+      "Thevenot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "crp"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Impact",
+      "Heavy metals",
+      "Pollution",
+      "Storm sewer overflow",
+      "Combined sewer overflow",
+      "Detention pond",
+      "Sediment",
+      "Speciation"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1084657",
@@ -492,7 +1849,32 @@
     "domain_codes":"chim.anal; sdv.bbm.bc",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-BJW07D28-5\/fulltext.pdf?sid=hal",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Nathalie",
+      "Daniel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Labat-Allietta",
+      "Thevenot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "crp"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Glucose sensor",
+      "Calcium",
+      "Hydrogen peroxide",
+      "Koutecky-Levich plots",
+      "Platinum"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1084678",
@@ -503,7 +1885,39 @@
     "domain_codes":"chim.anal; sdv.bbm.bc",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/kuscholarworks.ku.edu\/bitstream\/1808\/8413\/1\/Wilson_1999_Electrochemical%20Biosensors.pdf",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Daniel",
+      "Klara",
+      "Richard",
+      "George"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot",
+      "Toth",
+      "Durst",
+      "Wilson"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Electrochemical biosensor",
+      "Definition",
+      "Single use biosensor",
+      "Calibration characteristics",
+      "Performance criteria",
+      "Analytes"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1086746",
@@ -514,7 +1928,64 @@
     "domain_codes":"sde; chim.inor; chim.anal; sde.es; shs.envir",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal-enpc.archives-ouvertes.fr\/hal-01086746\/file\/Thevenot-STOTEN-Critical-Budget-2007-375-180-203.pdf",
-    "organismId_i":null
+    "organismId_i":[
+      0
+    ],
+    "authFirstName_s":[
+      "Daniel",
+      "Régis",
+      "Laurence",
+      "Marie-Christine",
+      "Vincent",
+      "Philippe",
+      "Philippe",
+      "Jean-Louis",
+      "Claire",
+      "Michel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot",
+      "Moilleron",
+      "Lestel",
+      "Gromaire",
+      "Rocher",
+      "Cambier",
+      "Bonté",
+      "Colin",
+      "de Pontevès",
+      "Meybeck"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Cr",
+      "Cu",
+      "Cd",
+      "Zn",
+      "Hg",
+      "Pb",
+      "Heavy metals",
+      "Budget",
+      "Seine",
+      "River",
+      "Ni"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1086752",
@@ -525,7 +1996,37 @@
     "domain_codes":"sde; chim.anal; sde.es; spi",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal-enpc.archives-ouvertes.fr\/hal-01086752\/file\/Azimi-Total-Atm-Deposition-STOTEN-2003-308-247-256.pdf",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Sam",
+      "Alexandre",
+      "Daniel",
+      "Jean-Louis"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Azimi",
+      "Ludwig",
+      "Thevenot",
+      "Colin"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "crp",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Anthropogenic impacts",
+      "Sampling procedures",
+      "Atmospheric fallout",
+      "Trace elements"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1087358",
@@ -536,7 +2037,36 @@
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-9RPVHCRF-K\/fulltext.pdf?sid=hal",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "V.",
+      "Frédéric",
+      "Céline"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Brites",
+      "Le Quéré",
+      "Léonard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Vibronic states",
+      "Spin–orbit coupling",
+      "MRCI+Q",
+      "Stable dication",
+      "CaO",
+      "Calcium monoxide"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1088019",
@@ -547,7 +2077,43 @@
     "domain_codes":"chim.poly; chim.mate",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/WNG-XS6VKPN7-F\/fulltext.pdf?sid=hal",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "A.",
+      "M.",
+      "Florent",
+      "Valérie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Bouaziz",
+      "Jaziri",
+      "Dalmas",
+      "Massardier"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "SILANE-GRAFTED POLYPROPYLENE",
+      "GAS BARRIER PROPERTIES",
+      "MECHANICAL-PROPERTIES",
+      "CLAY NANOCOMPOSITES",
+      "CARBON NANOTUBES",
+      "POLYMER",
+      "COMPOSITES",
+      "BLENDS",
+      "NANOPARTICLES",
+      "CRYSTALLIZATION"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1088866",
@@ -558,7 +2124,71 @@
     "domain_codes":"phys.phys.phys-ao-ph",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-40W07G3C-2\/fulltext.pdf?sid=hal",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Jean-Yves",
+      "Eric",
+      "Arnaud",
+      "Roland",
+      "Cyril",
+      "Nathalie",
+      "Guy",
+      "Nicolas",
+      "Hervé",
+      "Léna",
+      "Gilles",
+      "Emmanuel",
+      "Rosario",
+      "Cécile",
+      "Jean"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Bonnet",
+      "Quirico",
+      "Buch",
+      "Thissen",
+      "Szopa",
+      "Carrasco",
+      "Cernogora",
+      "Fray",
+      "Cottin",
+      "Le Roy",
+      "Montagnac",
+      "Dartois",
+      "Brunetto",
+      "Engrand",
+      "Duprat"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Cosmochemistry",
+      "Organic chemistry",
+      "Solar nebula",
+      "Comets",
+      "Interplanetary dust"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1090627",
@@ -569,7 +2199,39 @@
     "domain_codes":"info; info.info-ds; info.info-dc",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01090627\/file\/ManarQamhieh_RTNS2014.pdf",
-    "organismId_i":null
+    "organismId_i":[
+      302035
+    ],
+    "authFirstName_s":[
+      "Manar",
+      "Laurent",
+      "Serge"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Qamhieh",
+      "George",
+      "Midonnet"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "ESIEE Paris"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Speedup factor",
+      "Global EDF scheduling",
+      "Directed Acyclic Graphs",
+      "Parallel tasks",
+      "Real-time scheduling"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1090755",
@@ -580,7 +2242,34 @@
     "domain_codes":"math.math-dg; info.info-dm",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/hal-01090755",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Laurent",
+      "Pascal"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Najman",
+      "Romon"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "sad",
+      "sad"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Digital geometry",
+      "Integrable theory",
+      "Laplace-Beltrami operator",
+      "Optimal transport",
+      "Geometry",
+      "Discrete calculus",
+      "Discrete curvature"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1092881",
@@ -591,7 +2280,26 @@
     "domain_codes":"shs.class",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01092881",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Charles"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Guérin"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Rhetoric",
+      "Oratory"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1094204",
@@ -602,7 +2310,38 @@
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01094204",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "M.",
+      "Gilberte",
+      "M. Mogren",
+      "M"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Prakash",
+      "Chambaud",
+      "Al-Mogren",
+      "Hochlaf"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "crp"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Gold clusters",
+      "Biomolecules",
+      "NBO AIM",
+      "Ab initio",
+      "TDDFT"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1095274",
@@ -613,7 +2352,42 @@
     "domain_codes":"info.info-mo; info.info-ds; phys.meca.msmeca",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/hal-01095274",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Pierre",
+      "Arnaud",
+      "Olivier",
+      "Laurent",
+      "Marc",
+      "Eric"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Blanchard",
+      "Etcheverry",
+      "Coulaud",
+      "Dupuy",
+      "Bletry",
+      "Darve"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Dislocation Dynamics Simulations",
+      "Fast Multipole Method",
+      "Fast Fourier Transform"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1095322",
@@ -624,7 +2398,40 @@
     "domain_codes":"info.info-mo; info.info-ds; phys.meca.msmeca",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/hal-01095322",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Pierre",
+      "Arnaud",
+      "Olivier",
+      "Laurent",
+      "Marc"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Blanchard",
+      "Etcheverry",
+      "Coulaud",
+      "Dupuy",
+      "Bletry"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Spherical harmonics",
+      "Stroh formalism",
+      "Anisotropic elasticity",
+      "Dislocation Dynamics Simulations"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1095426",
@@ -635,7 +2442,37 @@
     "domain_codes":"chim.anal; sde.es",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01095426",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Emilie",
+      "Arnaud",
+      "Patrick",
+      "Jean-Philippe"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Caupos",
+      "Touffet",
+      "Mazellier",
+      "Croué"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "SPME",
+      "KDOM partition coefficient",
+      "Dissolved organic matter",
+      "Trifluralin"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1096239",
@@ -646,7 +2483,67 @@
     "domain_codes":"sde; sde.es; chim; chim.inor; shs.envir; sdu.envi",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal-enpc.archives-ouvertes.fr\/hal-00676422\/file\/STOTEN%20Metal-Trends-Meybecketal-2006-07-20.pdf",
-    "organismId_i":null
+    "organismId_i":[
+      93591,
+      108028
+    ],
+    "authFirstName_s":[
+      "Michel",
+      "Laurence",
+      "Philippe",
+      "Régis",
+      "Jean Louis",
+      "Olivier",
+      "Hervé",
+      "Claire",
+      "Cécile",
+      "Daniel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Meybeck",
+      "Lestel",
+      "Bonté",
+      "Moilleron",
+      "Colin",
+      "Rousselot",
+      "Daniel",
+      "de Pontevès",
+      "Grosbois",
+      "Thevenot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Université Pierre et Marie Curie - Paris 6",
+      "AGROCAMPUS OUEST"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Cu",
+      "Zn",
+      "Cr",
+      "Contamination",
+      "Hg",
+      "Pb",
+      "Cd",
+      "Seine River",
+      "DPSIR",
+      "Heavy metals"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1096583",
@@ -657,7 +2554,38 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/halshs-01096583",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Stéphanie",
+      "Stéphanie",
+      "Christine",
+      "Samuel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chatelain-Ponroy",
+      "Mignot-Gerard",
+      "Musselin",
+      "Sponem"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "University",
+      "Academics' values",
+      "Performance",
+      "Publicness",
+      "Higher education"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1100173",
@@ -668,7 +2596,31 @@
     "domain_codes":"math.math-pr; spi.meca",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01100173\/document",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "J.",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Guilleminot",
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Random field",
+      "Itô stochastic differential equation",
+      "Adaptive algorithm",
+      "Uncertainty quantification"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1105959",
@@ -679,7 +2631,28 @@
     "domain_codes":"math; math.math-pr; math.math-st; spi; spi.meca",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01105959\/file\/publi-2015-SIAM-ASA-JUQ-3%281%2934-60-soize-preprint.pdf",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Random vector",
+      "High dimension",
+      "Polynomial chaos",
+      "Multimodal probability distribution"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1107668",
@@ -690,7 +2663,41 @@
     "domain_codes":"info.info-ni",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-H1VNZDM3-N\/fulltext.pdf?sid=hal",
-    "organismId_i":null
+    "organismId_i":[
+      302035
+    ],
+    "authFirstName_s":[
+      "Laurent",
+      "Pierre",
+      "Yves"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "George",
+      "Courbin",
+      "Sorel"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "ESIEE Paris"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Semi-partitioned scheduling",
+      "Multiprocessor",
+      "Real-time",
+      "Portioned scheduling",
+      "EDF",
+      "Performance evaluation",
+      "Deadline assignment"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1111761",
@@ -701,7 +2708,39 @@
     "domain_codes":"phys",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01111761",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "S",
+      "L",
+      "G",
+      "N"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Khazzan",
+      "Bessais",
+      "van Tendeloo",
+      "Mliki"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "A Rare-earth intermetallics",
+      "B Magnetic property",
+      "C Mechanical alloying and milling",
+      "F Diffrac-tion",
+      "Electron microscopy transmission",
+      "G Magnetic application"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1111801",
@@ -712,7 +2751,28 @@
     "domain_codes":"spi.meca.solid",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01111230",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Q.-Z.",
+      "Julien"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Zhu",
+      "Yvonnet"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Incremental–iterative scheme · Lippmann–Schwinger equation · Tensile damage · Heterogeneous materials · Tomographic microstructures"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1118014",
@@ -723,7 +2783,28 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01118014",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Claire"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Edey Gamassou"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Perceived superior support",
+      "Organizational commitment",
+      "Public service motivation",
+      "Intention to quit"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1118026",
@@ -734,7 +2815,32 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"http:\/\/journals.sagepub.com\/doi\/pdf\/10.1177\/0020852313509553",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Céline",
+      "Claire"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Desmarais",
+      "Edey Gamassou"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Operatives",
+      "Public service motivation",
+      "Human resources management",
+      "Measurement scale of public service motivation",
+      "Managers"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1118039",
@@ -745,7 +2851,30 @@
     "domain_codes":"shs; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01118039",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Claire"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Edey Gamassou"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Identité",
+      "Implication",
+      "Motivation",
+      "Workaholism",
+      "Fatigue émotionnelle",
+      "Epuisement professionnel"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1119244",
@@ -756,7 +2885,28 @@
     "domain_codes":"shs.hist; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01119244",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Perfume",
+      "Perfumery",
+      "Parfum",
+      "Parfumerie"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1119263",
@@ -767,7 +2917,28 @@
     "domain_codes":"shs.hist; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01119263",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Luxury",
+      "Industrial heritage",
+      "Patrimoine industriel",
+      "Luxe"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1119266",
@@ -778,7 +2949,31 @@
     "domain_codes":"shs.hist; shs.gestion; shs.socio; shs.hisphilso",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01119266",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eugénie",
+      "Alain"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot",
+      "Quemin"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "History of ideas",
+      "Fashion",
+      "Mode",
+      "Histoire des idées"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1119281",
@@ -789,7 +2984,26 @@
     "domain_codes":"shs.hist; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01119281",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Perfumery",
+      "Parfumerie"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1119287",
@@ -800,7 +3014,26 @@
     "domain_codes":"shs.hisphilso; shs.hist; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01119287",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Industrial heritage",
+      "Patrimoine industriel"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1119298",
@@ -811,7 +3044,26 @@
     "domain_codes":"shs.hist; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01119298",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "History of marketing",
+      "Histoire du marketing"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1119300",
@@ -822,7 +3074,26 @@
     "domain_codes":"shs.hist; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01119300",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "History of marketing",
+      "Histoire du marketing"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1119721",
@@ -833,7 +3104,43 @@
     "domain_codes":"shs; shs.gestion; shs.info; shs.socio",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.archives-ouvertes.fr\/hal-01119721\/file\/Paraponaris%20VINE%20%20JIKMS%20%202012.pdf",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Claude",
+      "Jean-Louis",
+      "Claude",
+      "Pascal"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Paraponaris",
+      "Ermine",
+      "Guittard",
+      "Lièvre"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Situated learning",
+      "Knowledge engineering Paper type Conceptual paper",
+      "Activity theory-based approach",
+      "Knowing in action",
+      "Knowledge modelling",
+      "Knowing communities",
+      "Tacit knowledge",
+      "Business modelling",
+      "Knowledge management",
+      "Knowledge transfer"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1120299",
@@ -844,7 +3151,66 @@
     "domain_codes":"info.info-hc; sdv.mhep",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.sorbonne-universite.fr\/hal-01120299\/file\/Aim%C3%A9_Semantic.pdf",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Xavier",
+      "Lamine",
+      "Amina",
+      "Eric",
+      "David",
+      "Jean",
+      "Marie-Christine",
+      "Stefan",
+      "Nicolas",
+      "Florence",
+      "Lydia",
+      "Eric",
+      "Christel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Aimé",
+      "Traoré",
+      "Chniti",
+      "Sadou",
+      "Ouagne",
+      "Charlet",
+      "Jaulent",
+      "Darmoni",
+      "Griffon",
+      "Amardeilh",
+      "Bascarane",
+      "Lepage",
+      "Daniel"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Semantic interoperability",
+      "Health information systems",
+      "Information model",
+      "Reference terminology",
+      "Semantic web",
+      "Interface terminology"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1121520",
@@ -855,7 +3221,43 @@
     "domain_codes":"info.info-gr; info.info-ts; info.info-ti; info.info-cv; info.info-ai; math.math-ca",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.archives-ouvertes.fr\/hal-00798395v2\/file\/Abry_12603.pdf",
-    "organismId_i":null
+    "organismId_i":[
+      441569
+    ],
+    "authFirstName_s":[
+      "Patrice",
+      "Herwig",
+      "Stéphane"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Abry",
+      "Wendt",
+      "Jaffard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Centre National de la Recherche Scientifique"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Wavelet Leaders",
+      "Image Processing",
+      "Texture Classification",
+      "Regularity",
+      "Multifractal Analysis",
+      "Period Dating",
+      "Forgery Detection",
+      "Van Gogh",
+      "Paintings"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1122586",
@@ -866,7 +3268,36 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01122586",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Sylvie",
+      "Annick",
+      "Jeanne"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chevrier",
+      "Manco",
+      "Salem"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Cross-cultural teams",
+      "Global teams",
+      "Collaboration",
+      "Organizational learning",
+      "Distance",
+      "Languages"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1122937",
@@ -877,7 +3308,28 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01122937",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Sylvie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chevrier"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Multicultural teams",
+      "Typology",
+      "Cross-cultural management",
+      "Configurations"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1122938",
@@ -888,7 +3340,37 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01122938",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Pénélope",
+      "Muriel",
+      "Carole",
+      "Mathias"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Codello-Guijarro",
+      "Jougleux",
+      "Camisullis",
+      "Szpirglas"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Peer-to-peer car-sharing",
+      "Organizational control",
+      "Deviant customer behavior",
+      "Co-production"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1123460",
@@ -899,7 +3381,36 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01123460",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Valérie",
+      "Amina",
+      "Pénélope",
+      "Pascale"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Pallas-Saltiel",
+      "Béji-Bécheur",
+      "Codello-Guijarro",
+      "Chateau Terrisse"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Tensions",
+      "Cooperative",
+      "Governance"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1123522",
@@ -910,7 +3421,34 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01123522",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Géraldine",
+      "Stéphan",
+      "Isabelle"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Paring",
+      "Pezé",
+      "Huault"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Materiality",
+      "Identity regulation",
+      "Body",
+      "Cyborg"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1123537",
@@ -921,7 +3459,30 @@
     "domain_codes":"shs",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01123537",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Ouidade",
+      "Géraldine"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Sabri",
+      "Michel"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Credibility",
+      "Parody",
+      "Humor"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1123546",
@@ -932,7 +3493,33 @@
     "domain_codes":"shs",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01123546",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Delphine",
+      "Ouidade",
+      "Valérie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Dion",
+      "Sabri",
+      "Guillard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Home",
+      "Mess",
+      "Pollution"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1123563",
@@ -943,7 +3530,36 @@
     "domain_codes":"shs; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"http:\/\/oss.sagepub.com\/content\/36\/8\/987.full.pdf",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Bénédicte",
+      "Grégory"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Vidaillet",
+      "Gamot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Master signifier",
+      "Discourse analysis",
+      "Organization Studies Key words Plant closure",
+      "Lacan",
+      "Enunciation",
+      "Symbolic",
+      "Fantasy",
+      "Resistance",
+      "Power"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1123706",
@@ -954,7 +3570,35 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01123706",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Elisa",
+      "Fanny",
+      "Béatrice"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Monnot",
+      "Reniou",
+      "Parguel"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Private label",
+      "Packaging",
+      "Overpackaging",
+      "Product image",
+      "Consumer behaviour"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1123710",
@@ -965,7 +3609,30 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01123710",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Fanny"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Reniou"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Endorsement",
+      "Marketing participatif",
+      "Casting",
+      "Communication",
+      "Marketing personnel",
+      "Exposition de soi"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1123724",
@@ -976,7 +3643,26 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01123724",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Alix"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Poels"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Illicit practices",
+      "Market system"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1123757",
@@ -987,7 +3673,29 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01123757",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Amina",
+      "Hajar"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Béji-Bécheur",
+      "El Karmouni"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Dispositif marketing",
+      "Commerce équitable"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1123784",
@@ -998,7 +3706,31 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01123784",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Florence",
+      "Yvonne"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Allard-Poesi",
+      "Giordano"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Distributed leadership",
+      "Task interdependency",
+      "Mountaineering",
+      "Discourse analysis"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1123798",
@@ -1009,7 +3741,30 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01123798",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Hale Dilek",
+      "Florence"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Suer",
+      "Allard-Poesi"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Organizational justice",
+      "Organizational change",
+      "Sensemaking"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1124334",
@@ -1020,7 +3775,36 @@
     "domain_codes":"chim",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.science\/tel-01124334",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Sabin"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Issa"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Titanium dental implants",
+      "Nanotubes",
+      "Physicochemical functionalization",
+      "Calcium phosphate coating",
+      "Protein Adsorption",
+      "Xps sem irras",
+      "Implants dentaires en titane",
+      "Nanotubes",
+      "Fonctionnalisation physico-Chimique",
+      "Revêtement de phosphate de calcium",
+      "Adsorption des protéines",
+      "Xps meb irras"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1125143",
@@ -1031,7 +3815,29 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01125143",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eléonore"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Mandel"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "France",
+      "Culture",
+      "Commitment",
+      "Japan",
+      "B-to-B relationship"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1125499",
@@ -1042,7 +3848,29 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01125499",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eléonore"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Mandel"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Book review",
+      "Interpretative approach",
+      "Philippe d'Iribarne",
+      "Corporate values",
+      "National cultures"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1126502",
@@ -1053,7 +3881,42 @@
     "domain_codes":"info; math.math-st",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/hal-01126502",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Maryam",
+      "Béatrice",
+      "Aurélie",
+      "Aurélien",
+      "Grégoire"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Karimi",
+      "Geoffroy-Perez",
+      "Fouquet",
+      "Latouche",
+      "Rey"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Cohort",
+      "Longitudinal",
+      "Mortality",
+      "Cohorte",
+      "Longitudinale",
+      "Mortalité"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1126846",
@@ -1064,7 +3927,28 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01126846",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Sylvie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chevrier"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Multicultural teams",
+      "Typology",
+      "Cultural differences",
+      "Intercultural synergy"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1127486",
@@ -1075,7 +3959,32 @@
     "domain_codes":"spi.gproc",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/tel-01127486",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Freddy"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Ordóñez Malla"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Polydispersion of particles",
+      "Solar receiver",
+      "Numerical model",
+      "Optimization",
+      "Modèle numérique",
+      "Récepteur solaire",
+      "Polydispersion de particules",
+      "Optimisation"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1128012",
@@ -1086,7 +3995,34 @@
     "domain_codes":"shs.gestion; qfin.gn",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01128012",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Laura",
+      "Faten",
+      "Djaoudath"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Padilla Angulo",
+      "Ben Slimane",
+      "Alidou"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Corporate Governance",
+      "Demutualization",
+      "London Stock Exchange",
+      "Business Strategy"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1128038",
@@ -1097,7 +4033,29 @@
     "domain_codes":"qfin.tr; qfin.gn; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01128038",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Faten"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Ben Slimane"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Acquisitions and mergers",
+      "Volatility",
+      "Stock exchanges",
+      "Mergers",
+      "Financial risk"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1128179",
@@ -1108,7 +4066,33 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01128179",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Leyla",
+      "Jean-Louis"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Jaoued-Abassi",
+      "Chandon"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Celebrity characteristics",
+      "Endorsement effectiveness",
+      "Celebrity endorsement",
+      "Endossement par des célébrités",
+      "Efficacité de l’endossement",
+      "Caractéristiques de la célébrité"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1128188",
@@ -1119,7 +4103,28 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01128188",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Leyla",
+      "Jean-Louis"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Jaoued-Abassi",
+      "Chandon"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Celebrity endorsement"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1128194",
@@ -1130,7 +4135,39 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01128194",
-    "organismId_i":null
+    "organismId_i":[
+      15325,
+      459409
+    ],
+    "authFirstName_s":[
+      "Sylvie",
+      "Mary-Yoko",
+      "Carol"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chevrier",
+      "Brannen",
+      "Hansen"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "University of Victoria [Canada]",
+      "Georgia State University"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Ethnography",
+      "Interpretative",
+      "Qualitative"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1128198",
@@ -1141,7 +4178,33 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01128198",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Christel",
+      "Freire"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "de Lassus",
+      "Naiade"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Brands",
+      "Key-words luxury",
+      "Netnography",
+      "Retail stores",
+      "Semiotics",
+      "Pop-up stores"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1128578",
@@ -1152,7 +4215,32 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01128578",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Katherine",
+      "Olivier",
+      "Audrey"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Gundolf",
+      "Meier",
+      "Missonier"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Strategy",
+      "Family business"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1130664",
@@ -1163,7 +4251,32 @@
     "domain_codes":"shs; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01130664",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Ricardo",
+      "Johanna"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chiva",
+      "Habib"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Organizational learning process",
+      "Types of learning",
+      "Consciousness",
+      "Mindfulness",
+      "Emotions"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1130679",
@@ -1174,7 +4287,37 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01130679",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Christel",
+      "Sandrine",
+      "Rola"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "de Lassus",
+      "Cadenat",
+      "Hussant-Zébian"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Temps",
+      "Collaboration",
+      "Digital",
+      "Théorie et pratique",
+      "Managers",
+      "Chercheurs",
+      "Recherche en marketing"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1130787",
@@ -1185,7 +4328,31 @@
     "domain_codes":"shs; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01130787",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Johanna",
+      "Cathy"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Habib",
+      "Krohmer"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Routine dynamics",
+      "Theory of social regulation",
+      "Hospital",
+      "Case studies"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1130792",
@@ -1196,7 +4363,32 @@
     "domain_codes":"shs; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01130792",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Cathy",
+      "Johanna"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Krohmer",
+      "Habib"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Organisational routines",
+      "Ostensive and performative aspects",
+      "Change dynamics",
+      "Hospital",
+      "Case studies"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1130793",
@@ -1207,7 +4399,40 @@
     "domain_codes":"shs.eco",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/halshs-01130793",
-    "organismId_i":null
+    "organismId_i":[
+      15080
+    ],
+    "authFirstName_s":[
+      "Richard",
+      "Christine",
+      "Mathilde"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Duhautois",
+      "Erhel",
+      "Guergoat-Larivière"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Centre d'économie de la Sorbonne"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Labour market mobility",
+      "State dependence",
+      "Unobserved heterogeneity",
+      "European Union",
+      "Inequalities",
+      "Institutions"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1131112",
@@ -1218,7 +4443,55 @@
     "domain_codes":"sdu.stu.gm; sde.mcg",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01131112",
-    "organismId_i":null
+    "organismId_i":[
+      810
+    ],
+    "authFirstName_s":[
+      "Emmanuelle",
+      "Charles",
+      "Clément",
+      "Coline",
+      "Alexandre",
+      "Yanni"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Defive",
+      "Le Coeur",
+      "Virmoux",
+      "Peignelin",
+      "Poiraud",
+      "Gunnell"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Laboratoire de Géographie Physique et Environnementale"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "French Massif central",
+      "Eastern Velay",
+      "Glacial and Late Glacial periods",
+      "Periglacial geomorphology and process",
+      "Rock glacier",
+      "Blockstream",
+      "Massif central français",
+      "Velay oriental",
+      "Pléistocène supérieur et Tardiglaciaire",
+      "Géomorphologie et processus périglaciaires",
+      "Glacier rocheux",
+      "Rivière de pierres"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1131185",
@@ -1229,7 +4502,66 @@
     "domain_codes":"sdu.stu.gm; sdu.envi; sde.mcg",
     "discipline":"Civil Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01131185",
-    "organismId_i":null
+    "organismId_i":[
+      810
+    ],
+    "authFirstName_s":[
+      "Coline",
+      "Emmanuelle",
+      "Alexandre",
+      "Charles",
+      "Clément",
+      "Franck",
+      "Erwan",
+      "Jean-Pierre",
+      "Yanni"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peignelin",
+      "Defive",
+      "Poiraud",
+      "Le Coeur",
+      "Virmoux",
+      "Vautier",
+      "Roussel",
+      "Toumazet",
+      "Gunnell"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Laboratoire de Géographie Physique et Environnementale"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "French Massif central",
+      "Blockstream",
+      "Rock glacier",
+      "Periglacial morphology and process",
+      "Pleistocene",
+      "Late Glacial",
+      "Eastern Velay",
+      "Mézenc",
+      "Morphologie et processus périglaciaires",
+      "Rivière de pierres",
+      "Glacier rocheux",
+      "Velay oriental",
+      "Massif central français",
+      "Tardiglaciaire"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1131424",
@@ -1240,7 +4572,42 @@
     "domain_codes":"info.info-ni; info.info-pf",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/hal-01131424",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Lotfi",
+      "Sofiane",
+      "Anfel",
+      "Mawloud",
+      "Enrico",
+      "Abdelmadjid"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Zaouche",
+      "Aitarab",
+      "Khireddine",
+      "Omar",
+      "Natalizio",
+      "Bouabdallah"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "crp",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Selfish behavior",
+      "MANET",
+      "Reputation system"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1131657",
@@ -1251,7 +4618,29 @@
     "domain_codes":"shs.hist; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01131657",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Chanel",
+      "Luxury",
+      "Perfumery",
+      "Luxe",
+      "Parfumerie"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1131661",
@@ -1262,7 +4651,30 @@
     "domain_codes":"shs.hist; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01131661",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Luxury",
+      "Perfumery",
+      "Perfume",
+      "Parfumerie",
+      "Parfum",
+      "Luxe"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1131667",
@@ -1273,7 +4685,28 @@
     "domain_codes":"shs.hist; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01131667",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Industrial Heritage",
+      "Corporate Heritage",
+      "Patrimoine d'entreprise",
+      "Patrimoine industriel"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1131684",
@@ -1284,7 +4717,30 @@
     "domain_codes":"shs.hist; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01131684",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Perfumerty",
+      "Perfume",
+      "Luxury",
+      "Parfumerie",
+      "Parfum",
+      "Luxe"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1131689",
@@ -1295,7 +4751,30 @@
     "domain_codes":"shs.hist; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01131689",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Luxury",
+      "Perfumery",
+      "Perfume",
+      "Luxe",
+      "Parfum",
+      "Parfumerie"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1131691",
@@ -1306,7 +4785,28 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01131691",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Industrial Heritage",
+      "Corporate Heritage",
+      "Patrimoine d'entreprise",
+      "Patrimoine industriel"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1131700",
@@ -1317,7 +4817,30 @@
     "domain_codes":"shs.hist; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01131700",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Luxury",
+      "Perfumery",
+      "Perfume",
+      "Luxe",
+      "Parfum",
+      "Parfumerie"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1131702",
@@ -1328,7 +4851,30 @@
     "domain_codes":"shs.hist; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01131702",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Perfume",
+      "Perfumery",
+      "Luxury",
+      "Parfumerie",
+      "Luxe",
+      "Parfum"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1131722",
@@ -1339,7 +4885,28 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01131722",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Service Activities Management",
+      "Luxury",
+      "Management des services",
+      "Luxe"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1131732",
@@ -1350,7 +4917,31 @@
     "domain_codes":"shs",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01131732",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Julienne",
+      "Karim"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Brabet",
+      "Hamadache"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Institutional entrepreneurship",
+      "Orphan drugs",
+      "New-institutional theory",
+      "Organizational field"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1132484",
@@ -1361,7 +4952,26 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01132484",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Amina"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Béji-Bécheur"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "La responsabilité sociale des entreprises",
+      "Luxe"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1132487",
@@ -1372,7 +4982,34 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01132487\/file\/JCB_VFinale_V2.pdf",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Amina",
+      "Nacima",
+      "Nil"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Béji-Bécheur",
+      "Ourahhmoune",
+      "Özçağlar-Toulouse"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Food culture",
+      "Southern Mediterranean",
+      "Couscous",
+      "Mediterranean food"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1132492",
@@ -1383,7 +5020,28 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01132492",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Amina",
+      "Nil"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Béji-Bécheur",
+      "Ozcaglar-Toulouse"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Marketing et développement durable"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1132593",
@@ -1394,7 +5052,34 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01132593",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Michel",
+      "Olivier"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Barabel",
+      "Meier"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "HR procedures",
+      "Career",
+      "Management",
+      "Repatriation",
+      "Expatriate staff",
+      "International mobility",
+      "Factors of dissatisfaction"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1132722",
@@ -1405,7 +5090,49 @@
     "domain_codes":"info.info-mo; info.info-cr; info.info-ni",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/hal-01132722",
-    "organismId_i":null
+    "organismId_i":[
+      303005,
+      303005,
+      15786
+    ],
+    "authFirstName_s":[
+      "Youcef",
+      "Quentin",
+      "Lynda",
+      "Jalel",
+      "Abdelkarim"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Hammal",
+      "Monnet",
+      "Mokdad",
+      "Ben-Othman",
+      "Abdelli"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "crp",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Université Paris-Est",
+      "Université Paris-Est",
+      "Université Paris 13"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Wireless sensor networks",
+      "Reliability availability and serviceability",
+      "Energy- aware systems",
+      "Model-checking",
+      "Simulation"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1132734",
@@ -1416,7 +5143,33 @@
     "domain_codes":"info.info-cr; info.info-ni",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01132734\/document",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Quentin",
+      "Lynda",
+      "Jalel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Monnet",
+      "Mokdad",
+      "Ben-Othman"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Wireless communication",
+      "Sensor networks",
+      "Network-level security and protection"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1132738",
@@ -1427,7 +5180,39 @@
     "domain_codes":"info.info-ds; info.info-ni",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01132738\/document",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Said",
+      "Quentin",
+      "Djamel",
+      "Lynda",
+      "Malika"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Fouchal",
+      "Monnet",
+      "Mansouri",
+      "Mokdad",
+      "Ioualalen"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Wireless sensor networks",
+      "Ultrametric properties",
+      "Clustering Algorithms"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1132739",
@@ -1438,7 +5223,38 @@
     "domain_codes":"info.info-cr; info.info-ni; info.info-mo",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/hal-01132739",
-    "organismId_i":null
+    "organismId_i":[
+      303005
+    ],
+    "authFirstName_s":[
+      "Quentin",
+      "Lynda",
+      "Jalel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Monnet",
+      "Mokdad",
+      "Ben-Othman"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Université Paris-Est"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Energy-aware systems",
+      "Simulation",
+      "Wireless sensor networks",
+      "Reliability availability and serviceability"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1132891",
@@ -1449,7 +5265,39 @@
     "domain_codes":"chim",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.sorbonne-universite.fr\/hal-01132891\/file\/Longchamp_Variations_in_the.pdf",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Melanie",
+      "Maryse",
+      "Philippe",
+      "Thierry"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Longchamp",
+      "Castrec-Rouelle",
+      "Biron",
+      "Bariac"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "crp",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Biofortification",
+      "Selenium bioavailability",
+      "Selenite",
+      "Selenate",
+      "Enzymatic extraction",
+      "Organo-selenium compounds"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1132979",
@@ -1460,7 +5308,33 @@
     "domain_codes":"shs.gestion; shs.info",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01132979",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Mathias",
+      "Annie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Béjean",
+      "Gentes"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Organizations",
+      "Tools",
+      "Meaning making",
+      "Artistic practices",
+      "Information and communication technologies",
+      "Artefacts"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133097",
@@ -1471,7 +5345,30 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133097",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Jean-Baptiste"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Suquet"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Fraud",
+      "Bus inspectors",
+      "Control interaction",
+      "Enactment",
+      "Service encounters",
+      "Dysfunctional behaviour"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133110",
@@ -1482,7 +5379,47 @@
     "domain_codes":"info.info-dc; info.info-pf; info.info-pl; info.info-fl",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/doi.org\/10.1016\/j.procs.2014.05.080",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Victor",
+      "David",
+      "Fabrice",
+      "Christian",
+      "Bernard",
+      "Hideo",
+      "Sylvain"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Allombert",
+      "Michéa",
+      "Dupros",
+      "Bellier",
+      "Bourgine",
+      "Aochi",
+      "Jubertie"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Graphic processing units GPU",
+      "Geostatistics",
+      "Linear algebra",
+      "Out-of-core",
+      "Geological Data Management GDM"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133251",
@@ -1493,7 +5430,28 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133251",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Anne-Catherine"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Moquet"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Corporate social responsibility",
+      "Sustainable development",
+      "Management control",
+      "Strategy"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133288",
@@ -1504,7 +5462,26 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133288",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Anne-Catherine"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Moquet"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Sustainable development",
+      "Corporate social responsibility"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133552",
@@ -1515,7 +5492,36 @@
     "domain_codes":"qfin",
     "discipline":"Political Science",
     "url_primary":"https:\/\/hal.science\/hal-01133552",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Souad",
+      "Pierre",
+      "Nicolas"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Lajili Jarjir",
+      "Chollet",
+      "Cuzacq"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Environmental",
+      "Social",
+      "And Governance Issues",
+      "Corporate Social Responsibility",
+      "Socially Responsible Investment",
+      "Financial regulatory framework"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133562",
@@ -1526,7 +5532,34 @@
     "domain_codes":"qfin",
     "discipline":"Political Science",
     "url_primary":"https:\/\/hal.science\/hal-01133562",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Souad",
+      "Karim"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Lajili Jarjir",
+      "Ben Khediri"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Institutions",
+      "Stakeholders",
+      "Investor protection",
+      "Firm value",
+      "Environmental",
+      "Social and governance ESG considerations",
+      "Corporate social responsibility CSR"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133662",
@@ -1537,7 +5570,28 @@
     "domain_codes":"shs.scipo",
     "discipline":"Political Science",
     "url_primary":"https:\/\/hal.science\/hal-01133662",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Shérazade"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Gatfaoui"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Construire une société de confiance",
+      "Résolution de la crise centrafricaine",
+      "Forum de Bangui",
+      "Dialogue intercentrafricain"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133714",
@@ -1548,7 +5602,30 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133714",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Christel",
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "de Lassus",
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Marques",
+      "Marketing",
+      "Luxe"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133717",
@@ -1559,7 +5636,28 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133717",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Christel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "de Lassus"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Site",
+      "Luxe",
+      "Digital",
+      "Internet"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133759",
@@ -1570,7 +5668,32 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133759",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Mathias",
+      "Jean-Paul"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Béjean",
+      "Dumond"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Epistemology in social sciences",
+      "Georges Devereux",
+      "Management education",
+      "Pedagogical innovation",
+      "Critical learning"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133769",
@@ -1581,7 +5704,39 @@
     "domain_codes":"shs.info; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133769",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Camille",
+      "Annie",
+      "Mathias",
+      "Cédric"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Jutant",
+      "Gentes",
+      "Béjean",
+      "Mivielle"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Semiotics",
+      "Fixation",
+      "Meaning making",
+      "Peirce",
+      "Design process",
+      "Interpretant"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133792",
@@ -1592,7 +5747,32 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133792",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Annie",
+      "Mathias"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Gentes",
+      "Béjean"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Interpretation",
+      "Meaning making",
+      "Design project",
+      "World versions",
+      "Case study"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133839",
@@ -1603,7 +5783,32 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133839",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Hélène",
+      "Antoine"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peton",
+      "Blanc"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Agentic power",
+      "Power of agency",
+      "Institutional change",
+      "Asbestos",
+      "Longitudinal analysis"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133843",
@@ -1614,7 +5819,31 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133843",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Hélène",
+      "Antoine"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peton",
+      "Blanc"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Deinstitutionalization",
+      "Profiles of action",
+      "Institutional maintenance",
+      "Asbestos"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133848",
@@ -1625,7 +5854,30 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133848",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Hélène",
+      "Pascale"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peton",
+      "Chateau Terrisse"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "History",
+      "Institutions",
+      "Institutional Change"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133957",
@@ -1636,7 +5888,46 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133957",
-    "organismId_i":null
+    "organismId_i":[
+      300316,
+      300306
+    ],
+    "authFirstName_s":[
+      "Katia",
+      "Cécile",
+      "Liliana"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Angué",
+      "Ayerbe",
+      "Mitkova"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Université de La Réunion",
+      "Université d'Évry-Val-d'Essonne"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Strategy",
+      "Cooperation",
+      "Outsourcing",
+      "Technological proximity",
+      "International Patent Classification IPC",
+      "New organizational design",
+      "Proximity",
+      "R&D Collaborations",
+      "Patents",
+      "Choice of partner"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133959",
@@ -1647,7 +5938,30 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133959",
-    "organismId_i":null
+    "organismId_i":[
+      300306
+    ],
+    "authFirstName_s":[
+      "Liliana"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Mitkova"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":[
+      "Université d'Évry-Val-d'Essonne"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Open innovation",
+      "Organizational framework"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133961",
@@ -1658,7 +5972,34 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133961",
-    "organismId_i":null
+    "organismId_i":[
+      300306
+    ],
+    "authFirstName_s":[
+      "Cécile",
+      "Liliana"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Ayerbe",
+      "Mitkova"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Université d'Évry-Val-d'Essonne"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Danone",
+      "IP strategies",
+      "Patent management"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133964",
@@ -1669,7 +6010,35 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133964",
-    "organismId_i":null
+    "organismId_i":[
+      300306
+    ],
+    "authFirstName_s":[
+      "Liliana",
+      "Cleveland"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Mitkova",
+      "Simone"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Université d'Évry-Val-d'Essonne"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "ICT capacities",
+      "Media Synchronicity Theory",
+      "Open Innovation Model",
+      "Knowledge Flow"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133965",
@@ -1680,7 +6049,34 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133965",
-    "organismId_i":null
+    "organismId_i":[
+      300306
+    ],
+    "authFirstName_s":[
+      "Liliana",
+      "Xi"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Mitkova",
+      "Wang"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Université d'Évry-Val-d'Essonne"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Intellectual Property Rights",
+      "Open innovation",
+      "Patent defensive strategy"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133966",
@@ -1691,7 +6087,34 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133966",
-    "organismId_i":null
+    "organismId_i":[
+      300306
+    ],
+    "authFirstName_s":[
+      "Liliana",
+      "Wang"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Mitkova",
+      "Xuefeng"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Université d'Évry-Val-d'Essonne"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Partner identification",
+      "Open innovation",
+      "SAO analysis"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133968",
@@ -1702,7 +6125,44 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133968",
-    "organismId_i":null
+    "organismId_i":[
+      300306
+    ],
+    "authFirstName_s":[
+      "Liliana",
+      "Fua",
+      "Wang",
+      "Ma",
+      "Yuqin"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Mitkova",
+      "Yun",
+      "Xuefeng",
+      "Pingping",
+      "Liu"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Université d'Évry-Val-d'Essonne"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Dye-sensitized solar cells DSSCs",
+      "Open innovation",
+      "Partner selection",
+      "Subject-Action-Object SAO analysis"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133969",
@@ -1713,7 +6173,40 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133969",
-    "organismId_i":null
+    "organismId_i":[
+      300306
+    ],
+    "authFirstName_s":[
+      "Liliana",
+      "Wang",
+      "Ogsuz",
+      "Zhang"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Mitkova",
+      "Xi",
+      "Gizem",
+      "Jiayi"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Université d'Évry-Val-d'Essonne"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Patent strategy",
+      "Intellectual Property Rights",
+      "Open innovation"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133970",
@@ -1724,7 +6217,34 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133970",
-    "organismId_i":null
+    "organismId_i":[
+      300306
+    ],
+    "authFirstName_s":[
+      "Véronique",
+      "Liliana"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Attias-Delattre",
+      "Mitkova"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Université d'Évry-Val-d'Essonne"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Organizational arrangements",
+      "Open innovation",
+      "Organizational skills"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133971",
@@ -1735,7 +6255,31 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133971",
-    "organismId_i":null
+    "organismId_i":[
+      300306
+    ],
+    "authFirstName_s":[
+      "Liliana"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Mitkova"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":[
+      "Université d'Évry-Val-d'Essonne"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Intellectual property management",
+      "Licensing-out",
+      "Open innovation"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133978",
@@ -1746,7 +6290,39 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133978",
-    "organismId_i":null
+    "organismId_i":[
+      300306,
+      300316
+    ],
+    "authFirstName_s":[
+      "Cécile",
+      "Liliana",
+      "Katia"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Ayerbe",
+      "Mitkova",
+      "Angué"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Université d'Évry-Val-d'Essonne",
+      "Université de La Réunion"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Méthode d'analyse des bases de données brevets",
+      "Classification des brevets",
+      "R&D collaboration"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133981",
@@ -1757,7 +6333,33 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133981",
-    "organismId_i":null
+    "organismId_i":[
+      300306
+    ],
+    "authFirstName_s":[
+      "Wang",
+      "Liliana"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Xi",
+      "Mitkova"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Université d'Évry-Val-d'Essonne"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Open innovation",
+      "Intellectual property Strategies"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1133994",
@@ -1768,7 +6370,32 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01133994",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Mathias",
+      "Stefan"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Béjean",
+      "Meisiek,"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Richness",
+      "Sensemaking at work",
+      "Design artefacts",
+      "Symbolic value",
+      "Organizational processes"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1134349",
@@ -1779,7 +6406,29 @@
     "domain_codes":"qfin",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01134349",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Philippe",
+      "Damien"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Jourdan",
+      "de Ponthaud"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Brand equity – conjoint analysis – market share – price of a product – product launch",
+      "Capital marque - analyse conjointe - part de marché - prix d'un produit - lancement de produit"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1134577",
@@ -1790,7 +6439,32 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01134577",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Hélène",
+      "Stéphan"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peton",
+      "Pezé"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Regulative pillar",
+      "Institutional change",
+      "Political institutional work",
+      "Faute Inexcusable",
+      "Regulative dynamic"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1134592",
@@ -1801,7 +6475,30 @@
     "domain_codes":"stat.co; stat.ap",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/hal-01134592",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Mehmet Hakan",
+      "Erkin"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Satman",
+      "Diyarbakirlioglu"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Measurement error",
+      "Compact genetic algorithm",
+      "Linear regression"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1134593",
@@ -1812,7 +6509,30 @@
     "domain_codes":"qfin.cp",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/hal-01134593",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Erkin",
+      "Mehmet Hakan"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Diyarbakirlioglu",
+      "Satman"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Genetic algorithms",
+      "Maximum Diversification index",
+      "Diversification"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1134600",
@@ -1823,7 +6543,37 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01134600",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Johan",
+      "Olivier",
+      "Simon"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Bouglet",
+      "Joffre",
+      "Eric"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Corporate social responsibility",
+      "Strategic planning",
+      "Innovation",
+      "Sustainable development",
+      "Green marketing",
+      "Stakeholder analysis",
+      "Social responsibility"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1135360",
@@ -1834,7 +6584,34 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/api.istex.fr\/document\/8EB43B26AEB673FA3D90484B946F218C2C2C2863\/fulltext\/pdf?sid=hal",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Audrey",
+      "Wided"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Bonnemaizon",
+      "Batat"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Incompetence",
+      "Correspondence",
+      "Customer",
+      "Value co-creation",
+      "The customer",
+      "Managerial representations of",
+      "Competence"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1135367",
@@ -1845,7 +6622,32 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01135367",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Audrey",
+      "Wided"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Bonnemaizon",
+      "Batat"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Competence",
+      "Energy sector",
+      "Consumer education",
+      "Company representation",
+      "Operant resources"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1135745",
@@ -1856,7 +6658,29 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01135745",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Laurent",
+      "David"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Giraud",
+      "Autissier"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Bibliometric Research",
+      "Change Management"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1135749",
@@ -1867,7 +6691,36 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01135749",
-    "organismId_i":null
+    "organismId_i":[
+      301020
+    ],
+    "authFirstName_s":[
+      "David",
+      "Benlahouel",
+      "Jean-Marie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Autissier",
+      "Bechir",
+      "Peretti"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "ESSEC Business School"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Stakeholder analysis",
+      "Performance Indicators"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1135758",
@@ -1878,7 +6731,28 @@
     "domain_codes":"shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01135758",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "David",
+      "Meslin"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Autissier",
+      "Thierry"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Change management"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1135809",
@@ -1889,7 +6763,26 @@
     "domain_codes":"shs; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01135809",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Jean-Paul"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Dumond"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Dialectique",
+      "Changement organisationnel"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1136203",
@@ -1900,7 +6793,36 @@
     "domain_codes":"shs.genre",
     "discipline":"Political Science",
     "url_primary":"https:\/\/hal.science\/hal-01136203",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Faten",
+      "Réal",
+      "Claude"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Lakhal",
+      "Labelle",
+      "Francoeur"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Board gender diversity",
+      "Firm performance",
+      "Optimal contract",
+      "Enabling approach",
+      "Quotas",
+      "Voluntary approach"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1136208",
@@ -1911,7 +6833,38 @@
     "domain_codes":"shs.genre",
     "discipline":"Political Science",
     "url_primary":"https:\/\/hal.science\/hal-01136208",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Faten",
+      "Amal",
+      "Nadia",
+      "Adnane"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Lakhal",
+      "Aguir",
+      "Lakhal",
+      "Malek"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Gender diversity",
+      "Earnings management",
+      "Top management",
+      "CFO",
+      "CEO"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1136394",
@@ -1922,7 +6875,28 @@
     "domain_codes":"shs; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01136394",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Marianne"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Abramovici"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Innovation",
+      "Services",
+      "Coproduction",
+      "Test"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1136611",
@@ -1933,7 +6907,38 @@
     "domain_codes":"chim.othe; chim",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.sorbonne-universite.fr\/hal-00803532\/file\/Post-print_P1308.pdf",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Christine",
+      "Michel",
+      "Vincent",
+      "L.T."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Cachet-Vivier",
+      "Keddam",
+      "Vivier",
+      "Yu"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "crp",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Voltammetry",
+      "Powder microelectrode",
+      "Powder material",
+      "Cavity microelectrodes",
+      "Microelectrode"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1136690",
@@ -1944,7 +6949,52 @@
     "domain_codes":"shs.envir",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal-enpc.archives-ouvertes.fr\/hal-01136690\/file\/Review%20microplastics%20continental%20-%20VF3.pdf",
-    "organismId_i":null
+    "organismId_i":[
+      1035812
+    ],
+    "authFirstName_s":[
+      "Rachid",
+      "Hannes",
+      "Wilfried",
+      "Johnny",
+      "François",
+      "Bruno",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Dris",
+      "Imhof",
+      "Sanchez",
+      "Gasperi",
+      "Galgani",
+      "Tassin",
+      "Laforsch"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":[
+      "Fondation de Coopération Scientifique ROVALTAIN"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Npolymer identification",
+      "Freshwater ecosystems",
+      "Plastic separation",
+      "Emerging contaminants",
+      "Plastic debris",
+      "Microplastics"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1136881",
@@ -1955,7 +7005,41 @@
     "domain_codes":"shs.envir",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/hal-00711800",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "A.",
+      "Marie-Christine",
+      "E.",
+      "Bruno",
+      "Ghassan"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Kanso",
+      "Gromaire",
+      "Gaume",
+      "Tassin",
+      "Chebbo"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Urban storm water",
+      "Parameter uncertainty",
+      "Monte Carlo Markov chain",
+      "Conceptual model",
+      "Bayesian inference"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1137245",
@@ -1966,7 +7050,35 @@
     "domain_codes":"shs; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.archives-ouvertes.fr\/hal-01137245\/file\/JCR%202014%20DEBENEDETTI%20OPPEWAL%20ARSEL%20PA.pdf",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Alain",
+      "Harmen",
+      "Zeynep"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Debenedetti",
+      "Oppewal",
+      "Arsel"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Homeyness",
+      "Emotional bonding",
+      "Gift economy",
+      "Servicescapes",
+      "Place attachment"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1137340",
@@ -1977,7 +7089,44 @@
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/digital.csic.es\/bitstream\/10261\/134689\/1\/Afull0001.pdf",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "M. P.",
+      "N.",
+      "Gerardo",
+      "Pablo",
+      "Alexander"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "de Lara Castells",
+      "Aguirre",
+      "Delgado-Barrio",
+      "Villarreal",
+      "Mitrushchenkov"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Full Configuration Interaction",
+      "Quantum solvents",
+      "Electronic structure",
+      "Potential energy surfaces",
+      "Weakly bounded clusters",
+      "He nanodroplets",
+      "Microscopic superfluidity",
+      "Raman spectra"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1137378",
@@ -1988,7 +7137,33 @@
     "domain_codes":"shs",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01137378",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Abdelmajid",
+      "Bentanfous"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Amine",
+      "Hendaoui"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Religion",
+      "Culture",
+      "Opposition motivations",
+      "Food retailing",
+      "Emerging country",
+      "Consumer resistance"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1138700",
@@ -1999,7 +7174,42 @@
     "domain_codes":"shs.archi; shs.gestion",
     "discipline":"Marketing",
     "url_primary":"https:\/\/hal.science\/hal-01138700",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Bernard Henri",
+      "Fiona",
+      "Laurent",
+      "Douglas",
+      "Sandra",
+      "Rémy Prud'"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Nicot",
+      "Wishlade",
+      "Davezies",
+      "Yuill",
+      "Taylor",
+      "Homme"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Economic and social cohesion",
+      "Regional policy",
+      "EU Member State"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1138965",
@@ -2010,7 +7220,39 @@
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
     "url_primary":"https:\/\/hal.science\/hal-01138965",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "E.",
+      "C.",
+      "A.",
+      "Marie",
+      "Gilberte"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Bernard",
+      "Houriez",
+      "Mitrushchenkov",
+      "Guitou",
+      "Chambaud"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Physisorption",
+      "Interaction potential",
+      "Rotational spectroscopy"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1139296",
@@ -2021,7 +7263,66 @@
     "domain_codes":"phys.phys.phys-geo-ph; sdu.ocean; sde.be",
     "discipline":"Marketing",
     "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-2D189VDX-5\/fulltext.pdf?sid=hal",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Anne",
+      "Brittany S.",
+      "Brian N.",
+      "Valérie",
+      "Robert J.",
+      "Brian P.V.",
+      "Michel",
+      "Brian",
+      "Felipe",
+      "Christophe E.",
+      "Sven",
+      "Frédéric"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Lorrain",
+      "Graham",
+      "Popp",
+      "Allain",
+      "Olson",
+      "Hunt",
+      "Potier",
+      "Fry",
+      "Galván-Magaña",
+      "Menkès",
+      "Kaehler",
+      "Ménard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Amino acids",
+      "AA-CSIA",
+      "ACL",
+      "Marine top predators",
+      "Lepas anatifera",
+      "Nitrogen stable isotopes",
+      "Barnacles",
+      "POM",
+      "Thunnus albacares"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   },
   {
     "docid":"1140138",
@@ -2032,6 +7333,31 @@
     "domain_codes":"info.info-ts",
     "discipline":"Computer Science",
     "url_primary":"https:\/\/hal.science\/tel-01140138",
-    "organismId_i":null
+    "organismId_i":null,
+    "authFirstName_s":[
+      "Chunling"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Tu"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "organism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Butterfly shape",
+      "Pattern Recognition",
+      "Hough Transform",
+      "Super Resolution",
+      "Butterfly shape",
+      "Reconnaissance de formes",
+      "Tranformee de Hough",
+      "Haute resolution d'images"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
   }
 ]

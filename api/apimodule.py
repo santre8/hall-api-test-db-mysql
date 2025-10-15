@@ -42,7 +42,21 @@ FIELDS = ",".join([
     "domainAll_s",         # human-readable domain(s)
     "domainAllCode_s",     # domain code(s)
     "linkExtUrl_s",        # external link(s) if any
-    "files_s"              # attached file URLs (fallback)
+    "files_s",              # attached file URLs (fallback)
+    #data for autors DANN
+    'authFirstName_s',
+    'authFirstName_sci',
+    'authLastName_s',
+    'authLastName_sci',
+    'authQuality_s',
+    #data for Organism DANN
+    'authOrganismId_i',
+    'authOrganism_s',
+    'authorityInstitution_s'
+    #data for docs DANN
+    'keyword_s',
+    'keyword_sci',
+    'keyword_t'
 ])
 
 BASE = f"https://api.archives-ouvertes.fr/search/{HAL_PORTAL}/"
