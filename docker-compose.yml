@@ -14,7 +14,7 @@ services:
     volumes:
       - ./mysql-data:/var/lib/mysql
     ports:
-      - "5326:3306"
+      - "5362:3306"
     cpus: 0.5
     mem_limit: 512m
     mem_reservation: 128m
