@@ -16,6 +16,7 @@ CREATE TABLE IF NOT EXISTS documents (
 -- Organismos (lo creo antes por posibles FKs)
 CREATE TABLE IF NOT EXISTS organisms (
   id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
+  doc_id BIGINT NOT NULL,
   organismId_i BIGINT,
   organism_s VARCHAR(255),
   authOrganism_text VARCHAR(255),

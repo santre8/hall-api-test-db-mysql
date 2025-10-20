@@ -10,7 +10,7 @@ MYSQL_DB = os.getenv("MYSQL_DATABASE", "scikey")
 
 # If your Python runs on the host machine:
 MYSQL_HOST = os.getenv("MYSQL_HOST", "127.0.0.1")
-MYSQL_PORT = int(os.getenv("MYSQL_PORT", "5326"))
+MYSQL_PORT = int(os.getenv("MYSQL_PORT", "5362"))
 
 # If your Python runs in another container on the same docker-compose network,
 # set these env vars instead:

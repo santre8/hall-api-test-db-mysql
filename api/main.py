@@ -59,7 +59,7 @@ if __name__ == '__main__':
                 "domain_labels": d.get("domain_labels"),  # any labels if present
                 "discipline": d.get("discipline"),  # your 5 buckets (clean)
                 "url_primary": d.get("url_primary"),
-                "organismId_i": d.get("organismId_i"),
+                "authOrganismId_i": d.get("authOrganismId_i"),
                 #data for autors DANN
                 'authFirstName_s': d.get("authFirstName_s"),
                 'authFirstName_sci': d.get("authFirstName_sci"),
@@ -67,8 +67,8 @@ if __name__ == '__main__':
                 'authLastName_sci': d.get("authLastName_sci"),
                 'authQuality_s': d.get("authQuality_s"),
                 #data for Organism DANN
-                'organismId_i': d.get("authOrganismId_i"),
-                'organism_s': d.get("authOrganism_s"),
+                'authOrganismId_i': d.get("authOrganismId_i"),
+                'authOrganism_s': d.get("authOrganism_s"),
                 'authorityInstitution_s': d.get("authorityInstitution_s"),
                 #data for keywords DANN
                 'keyword_s': d.get("keyword_s"),

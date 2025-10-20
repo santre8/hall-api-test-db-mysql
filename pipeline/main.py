@@ -42,8 +42,8 @@ def normalize_authors(df: pd.DataFrame) -> pd.DataFrame:
     qual = qual.apply(lambda v: v if isinstance(v, list) else ([] if pd.isna(v) else [v]))
 
     rows = []
-    print(df.get("organismId_i"))
-    for doc, fns, lns, quals, org_id in zip(base_doc, fn, ln, qual, df.get("organismId_i")):
+    print(df.get("authOrganismId_i"))
+    for doc, fns, lns, quals, org_id in zip(base_doc, fn, ln, qual, df.get("authOrganismId_i")):
 
 
         n = max(len(fns), len(lns), len(quals))
@@ -94,6 +94,53 @@ def normalize_identifiers(df: pd.DataFrame) -> pd.DataFrame:
     out = out.dropna(subset=["doc_id"])
     return out
 
+
+def normalize_organisms(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Explota listas y devuelve filas con:
+      doc_id, organismId_i, organism_s, authOrganism_text
+    """
+    import pandas as pd
+
+    def as_list(v):
+        if isinstance(v, list):
+            return v
+        if pd.isna(v):
+            return []
+        return [v]
+
+    base_doc = pd.to_numeric(df.get("docid"), errors="coerce")
+    ids      = df.get("authOrganismId_i").apply(as_list)
+    names    = df.get("authOrganism_s").apply(as_list)
+    auth_txt = df.get("authorityInstitution_s")
+
+    rows = []
+    for doc, id_list, name_list, txt in zip(base_doc, ids, names, auth_txt):
+        if pd.isna(doc):
+            continue
+        # alinea tamaños para no desfasar ID ↔ nombre
+        n = max(len(id_list), len(name_list))
+        id_list   = (id_list or [])   + [None] * (n - len(id_list))
+        name_list = (name_list or []) + [""]   * (n - len(name_list))
+
+        for oid, oname in zip(id_list, name_list):
+            oid_num = pd.to_numeric(oid, errors="coerce")
+            # si no hay ni ID ni nombre, no insertamos
+            if pd.isna(oid_num) and (oname is None or oname == ""):
+                continue
+            rows.append({
+                "doc_id": int(doc),
+                "organismId_i": None if pd.isna(oid_num) else int(oid_num),
+                "organism_s": (oname or None),
+                "authOrganism_text": txt if isinstance(txt, str) else None,
+            })
+
+    out = pd.DataFrame(rows)
+    # Si tu columna organismId_i NO admite NULL, destapa esta línea:
+    # out = out.dropna(subset=["organismId_i"])
+    return out.drop_duplicates()
+
+
 # ====== Your crawler glue: build df_sample (using your existing code) ======
 
 def crawl_to_df_sample():
@@ -115,12 +162,14 @@ def run_pipeline(df_sample: pd.DataFrame):
     auth_df = normalize_authors(df_sample)
     kw_df = normalize_keywords(df_sample)
     id_df = normalize_identifiers(df_sample)
+    org_df = normalize_organisms(df_sample)
 
     # Load
     load_data(docs_df, "documents", if_exists="append")
     load_data(auth_df, "authors", if_exists="append")
     load_data(kw_df, "keywords", if_exists="append")
     load_data(id_df, "identifiers", if_exists="append")
+    load_data(org_df, "organisms", if_exists="append")
 
 if __name__ == "__main__":
     # If you’re using your in-memory 'records' from the code you pasted:
