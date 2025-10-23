@@ -1,11 +1,12 @@
 import os, re, time, requests, pandas as pd
 from urllib.parse import urlencode
+from pathlib import Path
 
 # HAL portal + filters
 HAL_PORTAL   = "u-pec"          # UPEC portal
 LANG_FILTER  = 'language_s:en'  # English only
-NEED_N       = 200              # how many rows for the sample
-PAGE_SIZE    = 200              # rows per API page (safe 200–500)
+NEED_N       = 50              # how many rows for the sample
+PAGE_SIZE    = 50              # rows per API page (safe 200–500)
 
 # Disciplines to keep (case-insensitive substring match)
 DISCIPLINES = [
@@ -237,11 +238,21 @@ def saveto_csv_and_excel(df_sample):
     print("Saved Excel:", os.path.abspath(XLSX_OUT))
     
 
-def savetojson(df_sample : pd.DataFrame):
-    """Save dataframe to JSON file."""
-    json_out = os.path.join(OUT_DIR, "upec_sample200_keywords_domains.json")
-    df_sample.to_json(json_out, orient="records", force_ascii=False, indent=2)
-    print("Saved JSON:", os.path.abspath(json_out))
+def savetojson(df, output_filename="output.json"):
+    """
+    Save a pandas DataFrame as a JSON file inside /api/data/
+    Automatically creates the folder if it doesn't exist.
+    """
+    # Define the base folder (/api/data)
+    base_dir = Path(__file__).resolve().parent / "data"
+    base_dir.mkdir(parents=True, exist_ok=True)
+
+    # Build full path inside /api/data/
+    output_path = base_dir / output_filename
+
+    # Save the DataFrame to JSON
+    df.to_json(output_path, orient="records", indent=2, force_ascii=False)
+    print(f"JSON file saved successfully at: {output_path}")
 
 
 

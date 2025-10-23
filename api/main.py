@@ -1,5 +1,6 @@
 import os, re, time, requests, pandas as pd
 from urllib.parse import urlencode
+from pathlib import Path
 
 from api.apimodule import NEED_N, choose_url, consolidate_domains, consolidate_keywords, \
     fallback_text_match_for_discipline, fetch_page, hal_record_url, map_codes_to_discipline, savetojson
@@ -85,9 +86,20 @@ if __name__ == '__main__':
         cursor = next_c
         time.sleep(0.12)
 
-    # Build dataframe
+    # ---------------------------------------------
+    # ✅ Save results inside /api/data/
+    # ---------------------------------------------
     df_sample = pd.DataFrame.from_records(records)
     print("Rows in sample:", len(df_sample))
-    #df_sample.head(3)
     df_sample = df_sample.drop(columns=["domain_labels"], errors="ignore")
-    savetojson(df_sample)
+
+    # Define /api/data/ directory and file names
+    BASE_DIR = Path(__file__).resolve().parent / "data"
+    BASE_DIR.mkdir(parents=True, exist_ok=True)
+
+    json_path = BASE_DIR / "upec_sample200_keywords_domains.json"
+   
+    # Save to JSON (via your apimodule function)
+    savetojson(df_sample, json_path.name)  # ✅ will save to /api/data/
+
+  

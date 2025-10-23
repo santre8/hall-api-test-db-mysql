@@ -1,0 +1,389 @@
+field,nonempty,total_rows,coverage_pct,unique_nonempty,predominant_type,avg_len_nonempty,example_value,KEEP_candidate
+_version_,10,10,100.0,10,scalar,19.0,1839087430052872192,YES
+abstract_s,10,10,100.0,10,list,1130.7,"[""Let $b\\geq 2$ be an integer and $\\hv$ a real number. Among other results, we compute the Hausdorff dimension of the set of real numbers $\\xi$ with the property that, for every sufficiently large integer $N$, there exists an integer $n$ such that $1 \\le n \\le N$ and the distance between $b^n \\xi$ and its nearest integer is at most equal to $b^{-\\hv N}$. We further solve the same question when replacing $b^n\\xi$ by $T^n_\\beta \\xi$, where $T_\\beta$ denotes the classical $\\beta$-transformation.""]",YES
+arxivId_s,10,10,100.0,2,scalar,3.6,1404.1889,YES
+audience_s,10,10,100.0,2,scalar,1.0,2,YES
+authAlphaLastNameFirstNameIdHal_fs,10,10,100.0,10,list,399.2,"[""B_AlphaSep_Bugeaud Yann_FacetSep_yann-bugeaud"", ""L_AlphaSep_Liao Lingmin_FacetSep_""]",YES
+authAlphaLastNameFirstNameId_fs,10,10,100.0,10,list,392.9,"[""B_AlphaSep_Bugeaud Yann_FacetSep_748461"", ""L_AlphaSep_Liao Lingmin_FacetSep_888942""]",YES
+authArxivIdExt_s,10,10,100.0,3,scalar,5.9,,YES
+authEmailDomain_s,10,10,100.0,10,list,45.8,"[""math.unistra.fr"", ""u-picardie.fr""]",YES
+authFirstName_s,10,10,100.0,10,list,69.7,"[""Yann"", ""Lingmin""]",YES
+authFullNameFormIDPersonIDIDHal_fs,10,10,100.0,10,list,482.8,"[""Yann Bugeaud_FacetSep_18010-748461_FacetSep_yann-bugeaud"", ""Lingmin Liao_FacetSep_301903-888942_FacetSep_""]",YES
+authFullNameIdFormPerson_fs,10,10,100.0,10,list,350.0,"[""Yann Bugeaud_FacetSep_18010-748461"", ""Lingmin Liao_FacetSep_301903-888942""]",YES
+authFullNameIdHal_fs,10,10,100.0,10,list,287.0,"[""Yann Bugeaud_FacetSep_yann-bugeaud"", ""Lingmin Liao_FacetSep_""]",YES
+authFullNameId_fs,10,10,100.0,10,list,280.7,"[""Yann Bugeaud_FacetSep_748461"", ""Lingmin Liao_FacetSep_888942""]",YES
+authFullNamePersonIDIDHal_fs,10,10,100.0,10,list,416.2,"[""Yann Bugeaud_FacetSep_748461_FacetSep_yann-bugeaud"", ""Lingmin Liao_FacetSep_888942_FacetSep_""]",YES
+authFullName_s,10,10,100.0,10,list,151.5,"[""Yann Bugeaud"", ""Lingmin Liao""]",YES
+authGoogle ScholarIdExt_s,10,10,100.0,3,scalar,15.6,,YES
+authIDHALIdExt_s,10,10,100.0,10,list,33.5,"[""yann-bugeaud""]",YES
+authISNIIdExt_s,10,10,100.0,4,scalar,6.9,,YES
+authIdFormPerson_s,10,10,100.0,10,list,114.9,"[""18010-748461"", ""301903-888942""]",YES
+authIdForm_i,10,10,100.0,10,list,77.5,"[18010, 301903]",YES
+authIdFullName_fs,10,10,100.0,10,list,280.7,"[""748461_FacetSep_Yann Bugeaud"", ""888942_FacetSep_Lingmin Liao""]",YES
+authIdHalFullName_fs,10,10,100.0,10,list,287.0,"[""yann-bugeaud_FacetSep_Yann Bugeaud"", ""_FacetSep_Lingmin Liao""]",YES
+authIdHal_i,10,10,100.0,10,list,26.1,"[748461, 888942]",YES
+authIdHal_s,10,10,100.0,10,list,33.5,"[""yann-bugeaud""]",YES
+authIdHasPrimaryStructure_fs,10,10,100.0,10,list,750.3,"[""18010-748461_FacetSep_Yann Bugeaud_JoinSep_93707_FacetSep_Institut de Recherche Mathématique Avancée"", ""301903-888942_FacetSep_Lingmin Liao_JoinSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées""]",YES
+authIdHasStructure_fs,10,10,100.0,10,list,3205.6,"[""18010-748461_FacetSep_Yann Bugeaud_JoinSep_93707_FacetSep_Institut de Recherche Mathématique Avancée"", ""18010-748461_FacetSep_Yann Bugeaud_JoinSep_199013_FacetSep_Université de Strasbourg"", ""18010-748461_FacetSep_Yann Bugeaud_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"", ""301903-888942_FacetSep_Lingmin Liao_JoinSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées"", ""301903-888942_FacetSep_Lingmin Liao_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée"", ""301903-888942_FacetSep_Lingmin Liao_JoinSep_302085_FacetSep_Fédération de Recherche Bézout"", ""301903-888942_FacetSep_Lingmin Liao_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"", ""301903-888942_FacetSep_Lingmin Liao_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12"", ""301903-888942_FacetSep_Lingmin Liao_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique""]",YES
+authIdLastNameFirstName_fs,10,10,100.0,10,list,280.7,"[""748461_FacetSep_Bugeaud Yann"", ""888942_FacetSep_Liao Lingmin""]",YES
+authIdPerson_i,10,10,100.0,10,list,45.6,"[748461, 888942]",YES
+authIdRefIdExt_s,10,10,100.0,9,list,24.3,,YES
+authLastNameFirstNameIdHalPersonid_fs,10,10,100.0,10,list,416.2,"[""Bugeaud Yann_FacetSep_yann-bugeaud_FacetSep_748461"", ""Liao Lingmin_FacetSep__FacetSep_888942""]",YES
+authLastNameFirstName_s,10,10,100.0,10,list,151.5,"[""Bugeaud Yann"", ""Liao Lingmin""]",YES
+authLastName_s,10,10,100.0,10,list,90.0,"[""Bugeaud"", ""Liao""]",YES
+authORCIDIdExt_s,10,10,100.0,10,list,63.1,"[""0000-0002-8621-5699"", ""0000-0001-8763-1582""]",YES
+authOrganismId_i,10,10,100.0,2,scalar,3.3,,YES
+authOrganism_s,10,10,100.0,2,scalar,7.1,,YES
+authQuality_s,10,10,100.0,9,list,49.0,"[""aut"", ""aut""]",YES
+authResearcherIdIdExt_s,10,10,100.0,4,scalar,16.7,,YES
+authStructId_i,10,10,100.0,2,scalar,3.3,,YES
+authVIAFIdExt_s,10,10,100.0,5,scalar,5.3,,YES
+bibcodeId_s,10,10,100.0,2,scalar,4.6,,YES
+bookTitle_s,10,10,100.0,4,scalar,26.3,,YES
+citationFull_s,10,10,100.0,10,scalar,410.3,"Yann Bugeaud, Lingmin Liao. Uniform Diophantine approximation related to $b$-ary and $\beta$-expansions. <i>Ergodic Theory and Dynamical Systems</i>, 2016, 36 (1), pp.1--22. <a target=""_blank"" href=""https://dx.doi.org/10.1017/etds.2014.66"">&#x27E8;10.1017/etds.2014.66&#x27E9;</a>. <a target=""_blank"" href=""https://hal.science/hal-00975111v3"">&#x27E8;hal-00975111v3&#x27E9;</a>",YES
+citationRef_s,10,10,100.0,10,scalar,167.7,"<i>Ergodic Theory and Dynamical Systems</i>, 2016, 36 (1), pp.1--22. <a target=""_blank"" href=""https://dx.doi.org/10.1017/etds.2014.66"">&#x27E8;10.1017/etds.2014.66&#x27E9;</a>",YES
+city_s,10,10,100.0,5,scalar,4.8,,YES
+classification_s,10,10,100.0,2,scalar,5.3,"[""37B10, 11J04, 11A63, 11K55""]",YES
+collCategoryCodeName_fs,10,10,100.0,10,list,1119.6,"[""INSTITUTION_JoinSep_CNRS_FacetSep_CNRS - Centre national de la recherche scientifique"", ""UNIV_JoinSep_UNIV-MLV_FacetSep_Université de Marne la Vallée"", ""LABO_JoinSep_IRMA_FacetSep_Institut de Recherche Mathématique Avancée"", ""INSTITUTION_JoinSep_INSMI_FacetSep_CNRS-INSMI - INstitut des Sciences Mathématiques et de leurs Interactions"", ""UNIV_JoinSep_UNIV-STRASBG_FacetSep_Université de Strasbourg"", ""LABO_JoinSep_LAMA_UMR8050_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées"", ""AUTRE_JoinSep_CV_UNIV-MLV_FacetSep_CV des membres de l'Université de Marne-la-vallée"", ""SET_JoinSep_CV_LAMA_UMR8050_FacetSep_CV des membres de LAMA UMR 8050"", ""SET_JoinSep_LAMA_AHM_FacetSep_Analyse harmonique et multifractale"", ""UNIV_JoinSep_UPEC_FacetSep_Université Paris-Est Créteil Val-de-Marne"", ""AUTRE_JoinSep_CV_UPEC_FacetSep_CV des membres de l'UPEC"", ""THEME_JoinSep_TDS-MACS_FacetSep_Réseau de recherche en Théorie des Systèmes Distribués, Modélisation, Analyse et Contrôle des Systèmes"", ""PRES_JoinSep_SITE-ALSACE_FacetSep_Archive ouverte du site Alsace"", ""AUTRE_JoinSep_IRMAAGA_FacetSep_Arithmétique et géométrie algébrique"", ""INSTITUTION_JoinSep_UNIV-EIFFEL_FacetSep_Université Gustave Eiffel"", ""UNIV_JoinSep_UPEM-UNIVEIFFEL_FacetSep_Université Paris-Est Marne-la-Vallée"", ""INSTITUTION_JoinSep_UNIVOAK_FacetSep_UNIVOAK""]",YES
+collCategory_s,10,10,100.0,10,list,126.4,"[""INSTITUTION"", ""UNIV"", ""LABO"", ""INSTITUTION"", ""UNIV"", ""LABO"", ""AUTRE"", ""SET"", ""SET"", ""UNIV"", ""AUTRE"", ""THEME"", ""PRES"", ""AUTRE"", ""INSTITUTION"", ""UNIV"", ""INSTITUTION""]",YES
+collCodeName_fs,10,10,100.0,10,list,879.2,"[""CNRS_FacetSep_CNRS - Centre national de la recherche scientifique"", ""UNIV-MLV_FacetSep_Université de Marne la Vallée"", ""IRMA_FacetSep_Institut de Recherche Mathématique Avancée"", ""INSMI_FacetSep_CNRS-INSMI - INstitut des Sciences Mathématiques et de leurs Interactions"", ""UNIV-STRASBG_FacetSep_Université de Strasbourg"", ""LAMA_UMR8050_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées"", ""CV_UNIV-MLV_FacetSep_CV des membres de l'Université de Marne-la-vallée"", ""CV_LAMA_UMR8050_FacetSep_CV des membres de LAMA UMR 8050"", ""LAMA_AHM_FacetSep_Analyse harmonique et multifractale"", ""UPEC_FacetSep_Université Paris-Est Créteil Val-de-Marne"", ""CV_UPEC_FacetSep_CV des membres de l'UPEC"", ""TDS-MACS_FacetSep_Réseau de recherche en Théorie des Systèmes Distribués, Modélisation, Analyse et Contrôle des Systèmes"", ""SITE-ALSACE_FacetSep_Archive ouverte du site Alsace"", ""IRMAAGA_FacetSep_Arithmétique et géométrie algébrique"", ""UNIV-EIFFEL_FacetSep_Université Gustave Eiffel"", ""UPEM-UNIVEIFFEL_FacetSep_Université Paris-Est Marne-la-Vallée"", ""UNIVOAK_FacetSep_UNIVOAK""]",YES
+collCode_s,10,10,100.0,10,list,161.7,"[""CNRS"", ""UNIV-MLV"", ""IRMA"", ""INSMI"", ""UNIV-STRASBG"", ""LAMA_UMR8050"", ""CV_UNIV-MLV"", ""CV_LAMA_UMR8050"", ""LAMA_AHM"", ""UPEC"", ""CV_UPEC"", ""TDS-MACS"", ""SITE-ALSACE"", ""IRMAAGA"", ""UNIV-EIFFEL"", ""UPEM-UNIVEIFFEL"", ""UNIVOAK""]",YES
+collIdName_fs,10,10,100.0,10,list,807.6,"[""264_FacetSep_CNRS - Centre national de la recherche scientifique"", ""311_FacetSep_Université de Marne la Vallée"", ""544_FacetSep_Institut de Recherche Mathématique Avancée"", ""1298_FacetSep_CNRS-INSMI - INstitut des Sciences Mathématiques et de leurs Interactions"", ""1314_FacetSep_Université de Strasbourg"", ""1901_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées"", ""2162_FacetSep_CV des membres de l'Université de Marne-la-vallée"", ""2249_FacetSep_CV des membres de LAMA UMR 8050"", ""2298_FacetSep_Analyse harmonique et multifractale"", ""2451_FacetSep_Université Paris-Est Créteil Val-de-Marne"", ""2706_FacetSep_CV des membres de l'UPEC"", ""4468_FacetSep_Réseau de recherche en Théorie des Systèmes Distribués, Modélisation, Analyse et Contrôle des Systèmes"", ""6324_FacetSep_Archive ouverte du site Alsace"", ""8134_FacetSep_Arithmétique et géométrie algébrique"", ""9516_FacetSep_Université Gustave Eiffel"", ""9527_FacetSep_Université Paris-Est Marne-la-Vallée"", ""12694_FacetSep_UNIVOAK""]",YES
+collId_i,10,10,100.0,10,list,90.1,"[264, 311, 544, 1298, 1314, 1901, 2162, 2249, 2298, 2451, 2706, 4468, 6324, 8134, 9516, 9527, 12694]",YES
+collIsChildOfColl_fs,10,10,100.0,10,list,614.6,"[""LAMA_UMR8050_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep_LAMA_UMR8050_FacetSep_Université Paris-Est Créteil Val-de-Marne"", ""CV_LAMA_UMR8050_FacetSep_CV des membres de LAMA UMR 8050_JoinSep_CV_LAMA_UMR8050_FacetSep_CV des membres de l'Université de Marne-la-vallée"", ""LAMA_AHM_FacetSep_Analyse harmonique et multifractale_JoinSep_LAMA_AHM_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées"", ""UPEC_FacetSep_Université Paris-Est Créteil Val-de-Marne_JoinSep_UPEC_FacetSep_CV des membres de l'UPEC"", ""IRMAAGA_FacetSep_Arithmétique et géométrie algébrique_JoinSep_IRMAAGA_FacetSep_Institut de Recherche Mathématique Avancée""]",YES
+collIsParentOfCategoryColl_fs,10,10,100.0,10,list,475.3,"[""UPEC_FacetSep_UNIV_JoinSep_LAMA_UMR8050_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées"", ""CV_UNIV-MLV_FacetSep_AUTRE_JoinSep_CV_LAMA_UMR8050_FacetSep_CV des membres de LAMA UMR 8050"", ""LAMA_UMR8050_FacetSep_LABO_JoinSep_LAMA_AHM_FacetSep_Analyse harmonique et multifractale"", ""CV_UPEC_FacetSep_AUTRE_JoinSep_UPEC_FacetSep_Université Paris-Est Créteil Val-de-Marne"", ""IRMA_FacetSep_LABO_JoinSep_IRMAAGA_FacetSep_Arithmétique et géométrie algébrique""]",YES
+collIsParentOfColl_fs,10,10,100.0,10,list,623.7,"[""UPEC_FacetSep_Université Paris-Est Créteil Val-de-Marne_JoinSep_LAMA_UMR8050_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées"", ""CV_UNIV-MLV_FacetSep_CV des membres de l'Université de Marne-la-vallée_JoinSep_CV_LAMA_UMR8050_FacetSep_CV des membres de LAMA UMR 8050"", ""LAMA_UMR8050_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep_LAMA_AHM_FacetSep_Analyse harmonique et multifractale"", ""CV_UPEC_FacetSep_CV des membres de l'UPEC_JoinSep_UPEC_FacetSep_Université Paris-Est Créteil Val-de-Marne"", ""IRMA_FacetSep_Institut de Recherche Mathématique Avancée_JoinSep_IRMAAGA_FacetSep_Arithmétique et géométrie algébrique""]",YES
+collNameCode_fs,10,10,100.0,10,list,879.2,"[""CNRS - Centre national de la recherche scientifique_FacetSep_CNRS"", ""Université de Marne la Vallée_FacetSep_UNIV-MLV"", ""Institut de Recherche Mathématique Avancée_FacetSep_IRMA"", ""CNRS-INSMI - INstitut des Sciences Mathématiques et de leurs Interactions_FacetSep_INSMI"", ""Université de Strasbourg_FacetSep_UNIV-STRASBG"", ""Laboratoire d'Analyse et de Mathématiques Appliquées_FacetSep_LAMA_UMR8050"", ""CV des membres de l'Université de Marne-la-vallée_FacetSep_CV_UNIV-MLV"", ""CV des membres de LAMA UMR 8050_FacetSep_CV_LAMA_UMR8050"", ""Analyse harmonique et multifractale_FacetSep_LAMA_AHM"", ""Université Paris-Est Créteil Val-de-Marne_FacetSep_UPEC"", ""CV des membres de l'UPEC_FacetSep_CV_UPEC"", ""Réseau de recherche en Théorie des Systèmes Distribués, Modélisation, Analyse et Contrôle des Systèmes_FacetSep_TDS-MACS"", ""Archive ouverte du site Alsace_FacetSep_SITE-ALSACE"", ""Arithmétique et géométrie algébrique_FacetSep_IRMAAGA"", ""Université Gustave Eiffel_FacetSep_UNIV-EIFFEL"", ""Université Paris-Est Marne-la-Vallée_FacetSep_UPEM-UNIVEIFFEL"", ""UNIVOAK_FacetSep_UNIVOAK""]",YES
+collNameId_fs,10,10,100.0,10,list,807.6,"[""CNRS - Centre national de la recherche scientifique_FacetSep_264"", ""Université de Marne la Vallée_FacetSep_311"", ""Institut de Recherche Mathématique Avancée_FacetSep_544"", ""CNRS-INSMI - INstitut des Sciences Mathématiques et de leurs Interactions_FacetSep_1298"", ""Université de Strasbourg_FacetSep_1314"", ""Laboratoire d'Analyse et de Mathématiques Appliquées_FacetSep_1901"", ""CV des membres de l'Université de Marne-la-vallée_FacetSep_2162"", ""CV des membres de LAMA UMR 8050_FacetSep_2249"", ""Analyse harmonique et multifractale_FacetSep_2298"", ""Université Paris-Est Créteil Val-de-Marne_FacetSep_2451"", ""CV des membres de l'UPEC_FacetSep_2706"", ""Réseau de recherche en Théorie des Systèmes Distribués, Modélisation, Analyse et Contrôle des Systèmes_FacetSep_4468"", ""Archive ouverte du site Alsace_FacetSep_6324"", ""Arithmétique et géométrie algébrique_FacetSep_8134"", ""Université Gustave Eiffel_FacetSep_9516"", ""Université Paris-Est Marne-la-Vallée_FacetSep_9527"", ""UNIVOAK_FacetSep_12694""]",YES
+collName_s,10,10,100.0,10,list,587.5,"[""CNRS - Centre national de la recherche scientifique"", ""Université de Marne la Vallée"", ""Institut de Recherche Mathématique Avancée"", ""CNRS-INSMI - INstitut des Sciences Mathématiques et de leurs Interactions"", ""Université de Strasbourg"", ""Laboratoire d'Analyse et de Mathématiques Appliquées"", ""CV des membres de l'Université de Marne-la-vallée"", ""CV des membres de LAMA UMR 8050"", ""Analyse harmonique et multifractale"", ""Université Paris-Est Créteil Val-de-Marne"", ""CV des membres de l'UPEC"", ""Réseau de recherche en Théorie des Systèmes Distribués, Modélisation, Analyse et Contrôle des Systèmes"", ""Archive ouverte du site Alsace"", ""Arithmétique et géométrie algébrique"", ""Université Gustave Eiffel"", ""Université Paris-Est Marne-la-Vallée"", ""UNIVOAK""]",YES
+comment_s,10,10,100.0,2,scalar,3.5,25 pages,YES
+conferenceEndDateD_i,10,10,100.0,4,scalar,3.2,,YES
+conferenceEndDateM_i,10,10,100.0,4,scalar,3.0,,YES
+conferenceEndDateY_i,10,10,100.0,3,scalar,3.9,,YES
+conferenceEndDate_s,10,10,100.0,4,scalar,5.1,,YES
+conferenceEndDate_tdate,10,10,100.0,4,scalar,8.1,,YES
+conferenceStartDateD_i,10,10,100.0,5,scalar,3.3,,YES
+conferenceStartDateM_i,10,10,100.0,5,scalar,3.0,,YES
+conferenceStartDateY_i,10,10,100.0,3,scalar,4.2,,YES
+conferenceStartDate_s,10,10,100.0,5,scalar,5.8,,YES
+conferenceStartDate_tdate,10,10,100.0,5,scalar,9.8,,YES
+conferenceTitle_s,10,10,100.0,5,scalar,53.0,,YES
+contributorFullNameId_fs,10,10,100.0,9,scalar,29.8,Lingmin Liao_FacetSep_126080,YES
+contributorFullName_s,10,10,100.0,9,scalar,13.8,Lingmin Liao,YES
+contributorIdFullName_fs,10,10,100.0,9,scalar,29.8,126080_FacetSep_Lingmin Liao,YES
+contributorId_i,10,10,100.0,9,scalar,6.0,126080,YES
+country_s,10,10,100.0,4,scalar,2.6,,YES
+dateLastIndexed_tdate,10,10,100.0,10,scalar,24.0,2025-07-30T15:47:27.704Z,YES
+deptStructAddress_s,10,10,100.0,3,scalar,7.4,,YES
+deptStructCountry_s,10,10,100.0,3,scalar,2.8,,YES
+deptStructIdName_fs,10,10,100.0,3,scalar,13.7,,YES
+deptStructId_i,10,10,100.0,3,scalar,3.6,,YES
+deptStructIsChildOf_fs,10,10,100.0,3,scalar,24.4,,YES
+deptStructNameId_fs,10,10,100.0,3,scalar,15.9,,YES
+deptStructName_fs,10,10,100.0,3,scalar,12.7,,YES
+deptStructName_s,10,10,100.0,3,scalar,10.5,,YES
+deptStructType_s,10,10,100.0,2,scalar,4.4,,YES
+deptStructValid_s,10,10,100.0,2,scalar,3.4,,YES
+docType_s,10,10,100.0,3,scalar,4.0,ART,YES
+docid,10,10,100.0,10,scalar,7.0,1000798,YES
+doiId_s,10,10,100.0,6,scalar,16.1,10.1017/etds.2014.66,YES
+domainAllCode_s,10,10,100.0,9,list,19.3,"[""math.math-ds""]",YES
+domain_s,10,10,100.0,9,list,43.7,"[""0.math"", ""1.math.math-ds""]",YES
+ePublicationDateD_i,10,10,100.0,3,scalar,3.0,4.0,YES
+ePublicationDateM_i,10,10,100.0,3,scalar,3.0,6.0,YES
+ePublicationDateY_i,10,10,100.0,2,scalar,3.6,2014.0,YES
+ePublicationDate_s,10,10,100.0,3,scalar,4.4,2014-06-04,YES
+ePublicationDate_tdate,10,10,100.0,3,scalar,6.4,2014-06-04T00:00:00Z,YES
+en_abstract_s,10,10,100.0,10,list,1130.7,"[""Let $b\\geq 2$ be an integer and $\\hv$ a real number. Among other results, we compute the Hausdorff dimension of the set of real numbers $\\xi$ with the property that, for every sufficiently large integer $N$, there exists an integer $n$ such that $1 \\le n \\le N$ and the distance between $b^n \\xi$ and its nearest integer is at most equal to $b^{-\\hv N}$. We further solve the same question when replacing $b^n\\xi$ by $T^n_\\beta \\xi$, where $T_\\beta$ denotes the classical $\\beta$-transformation.""]",YES
+en_domainAllCodeLabel_fs,10,10,100.0,9,list,134.2,"[""math.math-ds_FacetSep_Mathematics [math]/Dynamical Systems [math.DS]""]",YES
+en_keyword_s,10,10,100.0,7,list,59.3,"[""Uniform Diophantine approximation"", ""B-ary expansions"", ""Hausdorff dimension"", ""Beta-expansions""]",YES
+en_subTitle_s,10,10,100.0,2,scalar,7.0,,YES
+en_title_s,10,10,100.0,10,list,83.3,"[""Uniform Diophantine approximation related to $b$-ary and $\\beta$-expansions""]",YES
+es_domainAllCodeLabel_fs,10,10,100.0,9,list,134.2,"[""math.math-ds_FacetSep_Mathematics [math]/Dynamical Systems [math.DS]""]",YES
+eu_domainAllCodeLabel_fs,10,10,100.0,9,list,93.7,"[""math.math-ds_FacetSep_domain_math/domain_math.math-ds""]",YES
+fileAnnexes_s,10,10,100.0,2,scalar,17.5,,YES
+fileMain_s,10,10,100.0,8,scalar,31.7,https://hal.science/hal-00975111/document,YES
+fileType_s,10,10,100.0,4,list,5.4,"[""file"", ""src""]",YES
+files_s,10,10,100.0,8,list,58.7,"[""https://hal.science/hal-00975111/file/BuLingmin-revised2.pdf""]",YES
+fr_domainAllCodeLabel_fs,10,10,100.0,9,list,145.1,"[""math.math-ds_FacetSep_Mathématiques [math]/Systèmes dynamiques [math.DS]""]",YES
+halId_s,10,10,100.0,10,scalar,12.3,hal-00975111,YES
+inPress_bool,10,10,100.0,1,scalar,5.0,False,YES
+instStructAcronym_s,10,10,100.0,10,list,56.1,"[""UNISTRA"", ""UPEM"", ""UPEC UP12""]",YES
+instStructAddress_s,10,10,100.0,10,list,455.3,"[""4 rue Blaise Pascal - CS 90032 - 67081 Strasbourg cedex"", ""5 boulevard Descartes - Champs-sur-Marne - 77454 Marne-la-Vallée Cedex 2"", ""61 avenue du Général de Gaulle - 94010 Créteil cedex""]",YES
+instStructCountry_s,10,10,100.0,9,list,34.8,"[""fr"", ""fr"", ""fr""]",YES
+instStructIdName_fs,10,10,100.0,10,list,531.9,"[""199013_FacetSep_Université de Strasbourg"", ""301243_FacetSep_Université Paris-Est Marne-la-Vallée"", ""420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12""]",YES
+instStructId_i,10,10,100.0,10,list,69.4,"[199013, 301243, 420786]",YES
+instStructIdrefIdExtUrl_s,10,10,100.0,9,list,193.2,"[""https://www.idref.fr/131056549"", ""https://www.idref.fr/030820499"", ""https://www.idref.fr/028021037""]",YES
+instStructIdrefIdExt_s,10,10,100.0,9,list,65.1,"[""131056549"", ""030820499"", ""028021037""]",YES
+instStructIsChildOf_fs,10,10,100.0,5,scalar,114.5,,YES
+instStructIsParentOf_fs,10,10,100.0,10,list,738.4,"[""199013_JoinSep_I_AlphaSep_93707_FacetSep_Institut de Recherche Mathématique Avancée"", ""301243_JoinSep_L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées"", ""420786_JoinSep_L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées""]",YES
+instStructIsniIdExtUrl_s,10,10,100.0,7,list,181.0,"[""http://isni.org/isni/0000000115124813"", ""http://isni.org/isni/0000000121497878""]",YES
+instStructIsniIdExt_s,10,10,100.0,7,list,84.4,"[""0000000115124813"", ""0000000121497878""]",YES
+instStructNameId_fs,10,10,100.0,10,list,633.1,"[""U_AlphaSep_Université de Strasbourg_FacetSep_199013"", ""U_AlphaSep_Université Paris-Est Marne-la-Vallée_FacetSep_301243"", ""U_AlphaSep_Université Paris-Est Créteil Val-de-Marne - Paris 12_FacetSep_420786""]",YES
+instStructName_fs,10,10,100.0,10,list,488.1,"[""U_AlphaSep_Université de Strasbourg"", ""U_AlphaSep_Université Paris-Est Marne-la-Vallée"", ""U_AlphaSep_Université Paris-Est Créteil Val-de-Marne - Paris 12""]",YES
+instStructName_s,10,10,100.0,10,list,386.9,"[""Université de Strasbourg"", ""Université Paris-Est Marne-la-Vallée"", ""Université Paris-Est Créteil Val-de-Marne - Paris 12""]",YES
+instStructRorIdExtUrl_s,10,10,100.0,10,list,342.0,"[""https://ror.org/https://ror.org/00pg6eq24"", ""https://ror.org/https://ror.org/02aqt9c37"", ""https://ror.org/https://ror.org/05ggc9x40""]",YES
+instStructRorIdExt_s,10,10,100.0,10,list,214.0,"[""https://ror.org/00pg6eq24"", ""https://ror.org/02aqt9c37"", ""https://ror.org/05ggc9x40""]",YES
+instStructType_s,10,10,100.0,8,list,117.6,"[""institution"", ""institution"", ""institution""]",YES
+instStructValid_s,10,10,100.0,10,list,56.8,"[""VALID"", ""OLD"", ""VALID""]",YES
+instStructWikidataIdExtUrl_s,10,10,100.0,4,scalar,53.2,,YES
+instStructWikidataIdExt_s,10,10,100.0,4,scalar,14.2,,YES
+instance_s,10,10,100.0,4,scalar,4.1,hal,YES
+invitedCommunication_s,10,10,100.0,2,scalar,2.2,,YES
+issue_s,10,10,100.0,3,scalar,2.4,"[""1""]",YES
+journalDate_s,10,10,100.0,6,scalar,11.0,2020-10-22 00:34:15,YES
+journalDoiRoot_s,10,10,100.0,4,scalar,8.5,,YES
+journalEissn_s,10,10,100.0,4,scalar,4.8,1469-4417,YES
+journalIdTitle_fs,10,10,100.0,6,scalar,30.1,12974_FacetSep_Ergodic Theory and Dynamical Systems,YES
+journalId_i,10,10,100.0,6,scalar,4.9,12974.0,YES
+journalIssn_s,10,10,100.0,6,scalar,6.0,0143-3857,YES
+journalPublisher_s,10,10,100.0,3,scalar,7.9,Cambridge University Press (CUP),YES
+journalSherpaColor_s,10,10,100.0,2,scalar,4.0,green,YES
+journalSherpaCondition_s,10,10,100.0,4,scalar,344.6,"Author's Pre-print on author's personal website, departmental website, social media websites, institutional repository, non-commercial subject-based repositories, such as PubMed Central, Europe PMC or arXiv][Author's post-print on author's personal website on acceptance of publication][Author's post-print on departmental website, institutional repository, non-commercial subject-based repositories, such as PubMed Central, Europe PMC or arXiv, after a 6 months embargo][Publisher's version/PDF cannot be used][Published abstract may be deposited][Pre-print to record acceptance for publication][Must link to publisher version or journal website][Authors may choose to use a Creative Commons Attribution Non-Commercial No Derivatives License][Publisher last reviewed on 07/10/2014",YES
+journalSherpaDate_s,10,10,100.0,5,scalar,6.5,2020-10-22,YES
+journalSherpaPostPrint_s,10,10,100.0,2,scalar,3.0,can,YES
+journalSherpaPrePrint_s,10,10,100.0,2,scalar,3.0,can,YES
+journalTitleAbbr_s,10,10,100.0,2,scalar,4.2,,YES
+journalTitleId_fs,10,10,100.0,6,scalar,30.1,Ergodic Theory and Dynamical Systems_FacetSep_12974,YES
+journalTitle_s,10,10,100.0,6,scalar,22.7,Ergodic Theory and Dynamical Systems,YES
+journalUrl_s,10,10,100.0,4,scalar,26.8,,YES
+journalValid_s,10,10,100.0,2,scalar,4.0,VALID,YES
+keyword_s,10,10,100.0,7,list,59.3,"[""Uniform Diophantine approximation"", ""B-ary expansions"", ""Hausdorff dimension"", ""Beta-expansions""]",YES
+labStructAcronym_s,10,10,100.0,9,list,22.7,"[""IRMA"", ""LAMA""]",YES
+labStructAddress_s,10,10,100.0,9,list,358.1,"[""7 rue René-Descartes, 67084 Strasbourg Cedex, France"", ""Université Paris-Est Créteil LAMA UMR CNRS 8050 UFR des Sciences et TechnologieBâtiment P3 - 4ème étage -61, avenue du Général de Gaulle 94010 Créteil Cedex""]",YES
+labStructCountry_s,10,10,100.0,7,list,12.8,"[""fr"", ""fr""]",YES
+labStructIdName_fs,10,10,100.0,10,list,235.8,"[""93707_FacetSep_Institut de Recherche Mathématique Avancée"", ""29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées""]",YES
+labStructId_i,10,10,100.0,10,list,24.3,"[93707, 29]",YES
+labStructIdrefIdExtUrl_s,10,10,100.0,8,list,46.5,"[""https://www.idref.fr/026571641"", ""https://www.idref.fr/140519378""]",YES
+labStructIdrefIdExt_s,10,10,100.0,8,list,15.0,"[""026571641"", ""140519378""]",YES
+labStructIsChildOf_fs,10,10,100.0,10,list,1135.9,"[""93707_Institut de Recherche Mathématique Avancée_JoinSep_199013_FacetSep_Université de Strasbourg"", ""93707_Institut de Recherche Mathématique Avancée_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"", ""29_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée"", ""29_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep_302085_FacetSep_Fédération de Recherche Bézout"", ""29_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12"", ""29_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique""]",YES
+labStructIsParentOf_fs,10,10,100.0,4,scalar,40.5,,YES
+labStructIsniIdExtUrl_s,10,10,100.0,5,scalar,25.3,"[""http://isni.org/isni/0000000121732313""]",YES
+labStructIsniIdExt_s,10,10,100.0,5,scalar,12.7,"[""0000000121732313""]",YES
+labStructNameId_fs,10,10,100.0,10,list,276.5,"[""I_AlphaSep_Institut de Recherche Mathématique Avancée_FacetSep_93707"", ""L_AlphaSep_Laboratoire d'Analyse et de Mathématiques Appliquées_FacetSep_29""]",YES
+labStructName_fs,10,10,100.0,10,list,220.6,"[""I_AlphaSep_Institut de Recherche Mathématique Avancée"", ""L_AlphaSep_Laboratoire d'Analyse et de Mathématiques Appliquées""]",YES
+labStructName_s,10,10,100.0,10,list,179.9,"[""Institut de Recherche Mathématique Avancée"", ""Laboratoire d'Analyse et de Mathématiques Appliquées""]",YES
+labStructRnsrIdExtUrl_s,10,10,100.0,8,list,167.7,"[""https://appliweb.dgri.education.fr/rnsr/PresenteStruct.jsp?PUBLIC=OK&numNatStruct=199212569B"", ""https://appliweb.dgri.education.fr/rnsr/PresenteStruct.jsp?PUBLIC=OK&numNatStruct=200212718V""]",YES
+labStructRnsrIdExt_s,10,10,100.0,8,list,20.1,"[""199212569B"", ""200212718V""]",YES
+labStructRorIdExtUrl_s,10,10,100.0,5,scalar,39.7,"[""https://ror.org/https://ror.org/02hwgty18""]",YES
+labStructRorIdExt_s,10,10,100.0,5,scalar,25.3,"[""https://ror.org/02hwgty18""]",YES
+labStructType_s,10,10,100.0,6,list,42.4,"[""laboratory"", ""laboratory""]",YES
+labStructValid_s,10,10,100.0,8,list,20.6,"[""VALID"", ""OLD""]",YES
+labStructWikidataIdExtUrl_s,10,10,100.0,3,scalar,10.1,"[""https://www.wikidata.org/wiki/Q3152101""]",YES
+labStructWikidataIdExt_s,10,10,100.0,3,scalar,4.1,"[""Q3152101""]",YES
+label_bibtex,10,10,100.0,10,scalar,778.9,"@article{bugeaud:hal-00975111,
+  TITLE = {{Uniform Diophantine approximation related to $b$-ary and $\beta$-expansions}},
+  AUTHOR = {Bugeaud, Yann and Liao, Lingmin},
+  URL = {https://hal.science/hal-00975111},
+  NOTE = {25 pages},
+  JOURNAL = {{Ergodic Theory and Dynamical Systems}},
+  PUBLISHER = {{Cambridge University Press (CUP)}},
+  VOLUME = {36},
+  NUMBER = {1},
+  PAGES = {1--22},
+  YEAR = {2016},
+  MONTH = Feb,
+  DOI = {10.1017/etds.2014.66},
+  KEYWORDS = {uniform Diophantine approximation ; b-ary expansions ; Hausdorff dimension ; beta-expansions},
+  PDF = {https://hal.science/hal-00975111v3/file/BuLingmin-revised2.pdf},
+  HAL_ID = {hal-00975111},
+  HAL_VERSION = {v3},
+}
+",YES
+label_coins,10,10,100.0,10,scalar,1074.4,"<span class=""Z3988"" title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=journal&amp;rft.identifier=https%3A%2F%2Fhal.science%2Fhal-00975111&amp;rft.identifier=hal-00975111&amp;rft.identifier=arxiv%3A1404.1889&amp;rft.identifier=doi%3A10.1017%2Fetds.2014.66&amp;rft.title=Uniform%20Diophantine%20approximation%20related%20to%20%24b%24-ary%20and%20%24%5Cbeta%24-expansions&amp;rft.creator=Bugeaud%2C%20Yann&amp;rft.creator=Liao%2C%20Lingmin&amp;rft.subject=uniform%20Diophantine%20approximation&amp;rft.subject=b-ary%20expansions&amp;rft.subject=Hausdorff%20dimension&amp;rft.subject=beta-expansions&amp;rft.language=en&amp;rft.date=2016-02-01&amp;rft.source=Ergodic%20Theory%20and%20Dynamical%20Systems""></span>",YES
+label_endnote,10,10,100.0,10,scalar,2437.2,"%0 Journal Article
+%T Uniform Diophantine approximation related to $b$-ary and $\beta$-expansions
+%+ Institut de Recherche Mathématique Avancée (IRMA)
+%+ Laboratoire d'Analyse et de Mathématiques Appliquées (LAMA)
+%A Bugeaud, Yann
+%A Liao, Lingmin
+%Z 25 pages
+%< avec comité de lecture
+%@ 0143-3857
+%J Ergodic Theory and Dynamical Systems
+%I Cambridge University Press (CUP)
+%V 36
+%N 1
+%P 1--22
+%8 2016-02-01
+%D 2016
+%Z 1404.1889
+%R 10.1017/etds.2014.66
+%K uniform Diophantine approximation
+%K b-ary expansions
+%K Hausdorff dimension
+%K beta-expansions
+%Z 37B10, 11J04, 11A63, 11K55
+%Z Mathematics [math]/Dynamical Systems [math.DS]Journal articles
+%X Let $b\geq 2$ be an integer and $\hv$ a real number. Among other results, we compute the Hausdorff dimension of the set of real numbers $\xi$ with the property that, for every sufficiently large integer $N$, there exists an integer $n$ such that $1 \le n \le N$ and the distance between $b^n \xi$ and its nearest integer is at most equal to $b^{-\hv N}$. We further solve the same question when replacing $b^n\xi$ by $T^n_\beta \xi$, where $T_\beta$ denotes the classical $\beta$-transformation.
+%G English
+%2 https://hal.science/hal-00975111v3/document
+%2 https://hal.science/hal-00975111v3/file/BuLingmin-revised2.pdf
+%L hal-00975111
+%U https://hal.science/hal-00975111
+%~ CNRS
+%~ UNIV-MLV
+%~ IRMA
+%~ INSMI
+%~ UNIV-STRASBG
+%~ LAMA_UMR8050
+%~ CV_UNIV-MLV
+%~ CV_LAMA_UMR8050
+%~ LAMA_AHM
+%~ UPEC
+%~ CV_UPEC
+%~ TDS-MACS
+%~ SITE-ALSACE
+%~ IRMAAGA
+%~ UNIV-EIFFEL
+%~ UPEM-UNIVEIFFEL
+%~ UNIVOAK
+",YES
+label_s,10,10,100.0,10,scalar,297.3,"Yann Bugeaud, Lingmin Liao. Uniform Diophantine approximation related to $b$-ary and $\beta$-expansions. Ergodic Theory and Dynamical Systems, 2016, 36 (1), pp.1--22. &#x27E8;10.1017/etds.2014.66&#x27E9;. &#x27E8;hal-00975111v3&#x27E9;",YES
+label_xml,10,10,100.0,10,scalar,26859.8,"<TEI xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xmlns:hal=""http://hal.archives-ouvertes.fr/"" xmlns:gml=""http://www.opengis.net/gml/3.3/"" xmlns:gmlce=""http://www.opengis.net/gml/3.3/ce"" version=""1.1"" xsi:schemaLocation=""http://www.tei-c.org/ns/1.0 http://api.archives-ouvertes.fr/documents/aofr-sword.xsd"">  <teiHeader>    <fileDesc>      <titleStmt>        <title>HAL TEI export of hal-00975111v3</title>      </titleStmt>      <publicationStmt>        <distributor>CCSD</distributor>        <availability status=""restricted"">          <licence target=""http://creativecommons.org/licenses/by/4.0/"">Distributed under a Creative Commons Attribution 4.0 International License</licence>        </availability>        <date when=""2025-07-30T17:47:27+02:00""/>      </publicationStmt>      <sourceDesc>        <p part=""N"">HAL API Platform</p>      </sourceDesc>    </fileDesc>  </teiHeader>  <text>    <body>      <listBibl>        <biblFull>          <titleStmt>            <title xml:lang=""en"">Uniform Diophantine approximation related to $b$-ary and $\beta$-expansions</title>            <author role=""aut"">              <persName>                <forename type=""first"">Yann</forename>                <surname>Bugeaud</surname>              </persName>              <email type=""md5"">2d66270ae19887ed559bbf2044c414e4</email>              <email type=""domain"">math.unistra.fr</email>              <idno type=""idhal"" notation=""string"">yann-bugeaud</idno>              <idno type=""idhal"" notation=""numeric"">748461</idno>              <idno type=""halauthorid"" notation=""string"">18010-748461</idno>              <idno type=""ORCID"">https://orcid.org/0000-0002-8621-5699</idno>              <affiliation ref=""#struct-93707""/>            </author>            <author role=""aut"">              <persName>                <forename type=""first"">Lingmin</forename>                <surname>Liao</surname>              </persName>              <email type=""md5"">1883b23e1e495aa004ad6cbf34fd955d</email>              <email type=""domain"">u-picardie.fr</email>              <idno type=""idhal"" notation=""numeric"">888942</idno>              <idno type=""halauthorid"" notation=""string"">301903-888942</idno>              <idno type=""ORCID"">https://orcid.org/0000-0001-8763-1582</idno>              <affiliation ref=""#struct-29""/>            </author>            <editor role=""depositor"">              <persName>                <forename>Lingmin</forename>                <surname>Liao</surname>              </persName>              <email type=""md5"">8f8e6c74e62d37f143cedd463647bb37</email>              <email type=""domain"">whu.edu.cn</email>            </editor>          </titleStmt>          <editionStmt>            <edition n=""v1"">              <date type=""whenSubmitted"">2014-04-07 20:50:08</date>            </edition>            <edition n=""v2"">              <date type=""whenSubmitted"">2014-04-13 04:00:29</date>            </edition>            <edition n=""v3"" type=""current"">              <date type=""whenSubmitted"">2014-06-04 13:36:40</date>              <date type=""whenModified"">2025-06-04 08:13:38</date>              <date type=""whenReleased"">2014-06-04 21:08:10</date>              <date type=""whenProduced"">2016-02-01</date>              <date type=""whenEndEmbargoed"">2014-06-04</date>              <ref type=""file"" target=""https://hal.science/hal-00975111v3/document"">                <date notBefore=""2014-06-04""/>              </ref>              <ref type=""file"" subtype=""author"" n=""1"" target=""https://hal.science/hal-00975111v3/file/BuLingmin-revised2.pdf"">                <date notBefore=""2014-06-04""/>              </ref>              <ref type=""externalLink"" target=""http://arxiv.org/pdf/1404.1889""/>            </edition>            <respStmt>              <resp>contributor</resp>              <name key=""126080"">                <persName>                  <forename>Lingmin</forename>                  <surname>Liao</surname>                </persName>                <email type=""md5"">8f8e6c74e62d37f143cedd463647bb37</email>                <email type=""domain"">whu.edu.cn</email>              </name>            </respStmt>          </editionStmt>          <publicationStmt>            <distributor>CCSD</distributor>            <idno type=""halId"">hal-00975111</idno>            <idno type=""halUri"">https://hal.science/hal-00975111</idno>            <idno type=""halBibtex"">bugeaud:hal-00975111</idno>            <idno type=""halRefHtml"">&lt;i&gt;Ergodic Theory and Dynamical Systems&lt;/i&gt;, 2016, 36 (1), pp.1--22. &lt;a target=""_blank"" href=""https://dx.doi.org/10.1017/etds.2014.66""&gt;&amp;#x27E8;10.1017/etds.2014.66&amp;#x27E9;&lt;/a&gt;</idno>            <idno type=""halRef"">Ergodic Theory and Dynamical Systems, 2016, 36 (1), pp.1--22. &amp;#x27E8;10.1017/etds.2014.66&amp;#x27E9;</idno>          </publicationStmt>          <seriesStmt>            <idno type=""stamp"" n=""CNRS"">CNRS - Centre national de la recherche scientifique</idno>            <idno type=""stamp"" n=""UNIV-MLV"">Université de Marne la Vallée</idno>            <idno type=""stamp"" n=""IRMA"">Institut de Recherche Mathématique Avancée</idno>            <idno type=""stamp"" n=""INSMI"">CNRS-INSMI - INstitut des Sciences Mathématiques et de leurs Interactions</idno>            <idno type=""stamp"" n=""UNIV-STRASBG"">Université de Strasbourg</idno>            <idno type=""stamp"" n=""LAMA_UMR8050"" corresp=""UPEC"">Laboratoire d'Analyse et de Mathématiques Appliquées</idno>            <idno type=""stamp"" n=""CV_UNIV-MLV"">CV des membres de l'Université de Marne-la-vallée</idno>            <idno type=""stamp"" n=""CV_LAMA_UMR8050"" corresp=""CV_UNIV-MLV"">CV des membres de LAMA UMR 8050</idno>            <idno type=""stamp"" n=""LAMA_AHM"" corresp=""LAMA_UMR8050"">Analyse harmonique et multifractale</idno>            <idno type=""stamp"" n=""UPEC"" corresp=""CV_UPEC"">Université Paris-Est Créteil Val-de-Marne</idno>            <idno type=""stamp"" n=""CV_UPEC"">CV des membres de l'UPEC</idno>            <idno type=""stamp"" n=""TDS-MACS"">Réseau de recherche en Théorie des Systèmes Distribués, Modélisation, Analyse et Contrôle des Systèmes</idno>            <idno type=""stamp"" n=""SITE-ALSACE"">Archive ouverte du site Alsace</idno>            <idno type=""stamp"" n=""IRMAAGA"" corresp=""IRMA"">Arithmétique et géométrie algébrique</idno>            <idno type=""stamp"" n=""UNIV-EIFFEL"">Université Gustave Eiffel</idno>            <idno type=""stamp"" n=""UPEM-UNIVEIFFEL"">Université Paris-Est Marne-la-Vallée</idno>            <idno type=""stamp"" n=""UNIVOAK"">UNIVOAK</idno>          </seriesStmt>          <notesStmt>            <note type=""commentary"">25 pages</note>            <note type=""audience"" n=""2"">International</note>            <note type=""popular"" n=""0"">No</note>            <note type=""peer"" n=""1"">Yes</note>          </notesStmt>          <sourceDesc>            <biblStruct>              <analytic>                <title xml:lang=""en"">Uniform Diophantine approximation related to $b$-ary and $\beta$-expansions</title>                <author role=""aut"">                  <persName>                    <forename type=""first"">Yann</forename>                    <surname>Bugeaud</surname>                  </persName>                  <email type=""md5"">2d66270ae19887ed559bbf2044c414e4</email>                  <email type=""domain"">math.unistra.fr</email>                  <idno type=""idhal"" notation=""string"">yann-bugeaud</idno>                  <idno type=""idhal"" notation=""numeric"">748461</idno>                  <idno type=""halauthorid"" notation=""string"">18010-748461</idno>                  <idno type=""ORCID"">https://orcid.org/0000-0002-8621-5699</idno>                  <affiliation ref=""#struct-93707""/>                </author>                <author role=""aut"">                  <persName>                    <forename type=""first"">Lingmin</forename>                    <surname>Liao</surname>                  </persName>                  <email type=""md5"">1883b23e1e495aa004ad6cbf34fd955d</email>                  <email type=""domain"">u-picardie.fr</email>                  <idno type=""idhal"" notation=""numeric"">888942</idno>                  <idno type=""halauthorid"" notation=""string"">301903-888942</idno>                  <idno type=""ORCID"">https://orcid.org/0000-0001-8763-1582</idno>                  <affiliation ref=""#struct-29""/>                </author>              </analytic>              <monogr>                <idno type=""halJournalId"" status=""VALID"">12974</idno>                <idno type=""issn"">0143-3857</idno>                <idno type=""eissn"">1469-4417</idno>                <title level=""j"">Ergodic Theory and Dynamical Systems</title>                <imprint>                  <publisher>Cambridge University Press (CUP)</publisher>                  <biblScope unit=""volume"">36</biblScope>                  <biblScope unit=""issue"">1</biblScope>                  <biblScope unit=""pp"">1--22</biblScope>                  <date type=""datePub"">2016-02-01</date>                  <date type=""dateEpub"">2014-06-04</date>                </imprint>              </monogr>              <idno type=""arxiv"">1404.1889</idno>              <idno type=""doi"">10.1017/etds.2014.66</idno>              <ref type=""publisher"">https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/uniform-diophantine-approximation-related-to-b-ary-and-itbeta-expansions/42E0DF52DDD56E950DC53C56445B507F</ref>            </biblStruct>          </sourceDesc>          <profileDesc>            <langUsage>              <language ident=""en"">English</language>            </langUsage>            <textClass>              <keywords scheme=""author"">                <term xml:lang=""en"">uniform Diophantine approximation</term>                <term xml:lang=""en"">b-ary expansions</term>                <term xml:lang=""en"">Hausdorff dimension</term>                <term xml:lang=""en"">beta-expansions</term>              </keywords>              <classCode scheme=""classification"">37B10, 11J04, 11A63, 11K55</classCode>              <classCode scheme=""halDomain"" n=""math.math-ds"">Mathematics [math]/Dynamical Systems [math.DS]</classCode>              <classCode scheme=""halTypology"" n=""ART"">Journal articles</classCode>              <classCode scheme=""halOldTypology"" n=""ART"">Journal articles</classCode>              <classCode scheme=""halTreeTypology"" n=""ART"">Journal articles</classCode>            </textClass>            <abstract xml:lang=""en"">              <p>Let $b\geq 2$ be an integer and $\hv$ a real number. Among other results, we compute the Hausdorff dimension of the set of real numbers $\xi$ with the property that, for every sufficiently large integer $N$, there exists an integer $n$ such that $1 \le n \le N$ and the distance between $b^n \xi$ and its nearest integer is at most equal to $b^{-\hv N}$. We further solve the same question when replacing $b^n\xi$ by $T^n_\beta \xi$, where $T_\beta$ denotes the classical $\beta$-transformation.</p>            </abstract>          </profileDesc>        </biblFull>      </listBibl>    </body>    <back>      <listOrg type=""structures"">        <org type=""laboratory"" xml:id=""struct-93707"" status=""VALID"">          <idno type=""IdRef"">026571641</idno>          <idno type=""ISNI"">0000000121732313</idno>          <idno type=""RNSR"">199212569B</idno>          <idno type=""ROR"">https://ror.org/02hwgty18</idno>          <idno type=""Wikidata"">Q3152101</idno>          <orgName>Institut de Recherche Mathématique Avancée</orgName>          <orgName type=""acronym"">IRMA</orgName>          <date type=""start"">2009-01-01</date>          <desc>            <address>              <addrLine>7 rue René-Descartes, 67084 Strasbourg Cedex, France</addrLine>              <country key=""FR""/>            </address>            <ref type=""url"">http://irma.math.unistra.fr/</ref>          </desc>          <listRelation>            <relation active=""#struct-199013"" type=""direct""/>            <relation name=""UMR7501"" active=""#struct-441569"" type=""direct""/>          </listRelation>        </org>        <org type=""laboratory"" xml:id=""struct-29"" status=""OLD"">          <idno type=""IdRef"">140519378</idno>          <idno type=""RNSR"">200212718V</idno>          <orgName>Laboratoire d'Analyse et de Mathématiques Appliquées</orgName>          <orgName type=""acronym"">LAMA</orgName>          <date type=""end"">2019-12-31</date>          <desc>            <address>              <addrLine>Université Paris-Est Créteil LAMA UMR CNRS 8050 UFR des Sciences et TechnologieBâtiment P3 - 4ème étage -61, avenue du Général de Gaulle 94010 Créteil Cedex</addrLine>              <country key=""FR""/>            </address>            <ref type=""url"">http://umr-math.univ-mlv.fr/</ref>          </desc>          <listRelation>            <relation active=""#struct-301243"" type=""direct""/>            <relation active=""#struct-302085"" type=""direct""/>            <relation name=""FR3522"" active=""#struct-441569"" type=""direct""/>            <relation name=""UMR8050"" active=""#struct-420786"" type=""direct""/>            <relation name=""UMR8050"" active=""#struct-441569"" type=""direct""/>          </listRelation>        </org>        <org type=""institution"" xml:id=""struct-199013"" status=""VALID"">          <idno type=""IdRef"">131056549</idno>          <idno type=""ROR"">https://ror.org/00pg6eq24</idno>          <orgName>Université de Strasbourg</orgName>          <orgName type=""acronym"">UNISTRA</orgName>          <desc>            <address>              <addrLine>4 rue Blaise Pascal - CS 90032 - 67081 Strasbourg cedex</addrLine>              <country key=""FR""/>            </address>            <ref type=""url"">https://www.unistra.fr/</ref>          </desc>        </org>        <org type=""regroupinstitution"" xml:id=""struct-441569"" status=""VALID"">          <idno type=""IdRef"">02636817X</idno>          <idno type=""ISNI"">0000000122597504</idno>          <idno type=""ROR"">https://ror.org/02feahw73</idno>          <orgName>Centre National de la Recherche Scientifique</orgName>          <orgName type=""acronym"">CNRS</orgName>          <date type=""start"">1939-10-19</date>          <desc>            <address>              <country key=""FR""/>            </address>            <ref type=""url"">https://www.cnrs.fr/</ref>          </desc>        </org>        <org type=""institution"" xml:id=""struct-301243"" status=""OLD"">          <idno type=""IdRef"">030820499</idno>          <idno type=""ISNI"">0000000115124813</idno>          <idno type=""ROR"">https://ror.org/02aqt9c37</idno>          <orgName>Université Paris-Est Marne-la-Vallée</orgName>          <orgName type=""acronym"">UPEM</orgName>          <date type=""start"">1991-07-22</date>          <date type=""end"">2019-12-31</date>          <desc>            <address>              <addrLine>5 boulevard Descartes - Champs-sur-Marne - 77454 Marne-la-Vallée Cedex 2</addrLine>              <country key=""FR""/>            </address>            <ref type=""url"">http://www.u-pem.fr/</ref>          </desc>        </org>        <org type=""regrouplaboratory"" xml:id=""struct-302085"" status=""VALID"">          <idno type=""RNSR"">201220485U</idno>          <orgName>Fédération de Recherche Bézout</orgName>          <orgName type=""acronym"">BEZOUT</orgName>          <date type=""start"">2012-01-01</date>          <desc>            <address>              <addrLine>5, bd Descartes, Champs-sur-Marne77455 Marne-la-Vallée Cedex 2 – France</addrLine>              <country key=""FR""/>            </address>            <ref type=""url"">https://labex-bezout.fr/bezout-federation/</ref>          </desc>          <listRelation>            <relation name=""FR3522"" active=""#struct-441569"" type=""direct""/>          </listRelation>        </org>        <org type=""institution"" xml:id=""struct-420786"" status=""VALID"">          <idno type=""IdRef"">028021037</idno>          <idno type=""ISNI"">0000000121497878</idno>          <idno type=""ROR"">https://ror.org/05ggc9x40</idno>          <orgName>Université Paris-Est Créteil Val-de-Marne - Paris 12</orgName>          <orgName type=""acronym"">UPEC UP12</orgName>          <date type=""start"">1970-01-01</date>          <desc>            <address>              <addrLine>61 avenue du Général de Gaulle - 94010 Créteil cedex</addrLine>              <country key=""FR""/>            </address>            <ref type=""url"">http://www.u-pec.fr/</ref>          </desc>        </org>      </listOrg>    </back>  </text></TEI>",YES
+language_s,10,10,100.0,1,list,2.0,"[""en""]",YES
+length_i,10,10,100.0,1,scalar,1.0,0,YES
+level0_domain_s,10,10,100.0,7,list,6.3,"[""math""]",YES
+level1_domain_s,10,10,100.0,7,list,14.0,"[""math.math-ds""]",YES
+level2_domain_s,10,10,100.0,5,scalar,14.3,,YES
+linkExtId_s,10,10,100.0,4,scalar,5.5,arxiv,YES
+linkExtUrl_s,10,10,100.0,6,scalar,35.0,http://arxiv.org/pdf/1404.1889,YES
+mesh_s,10,10,100.0,2,scalar,29.9,,YES
+modifiedDateD_i,10,10,100.0,6,scalar,1.7,4,YES
+modifiedDateM_i,10,10,100.0,6,scalar,1.6,6,YES
+modifiedDateY_i,10,10,100.0,2,scalar,4.0,2025,YES
+modifiedDate_s,10,10,100.0,10,scalar,19.0,2025-06-04 08:13:38,YES
+modifiedDate_tdate,10,10,100.0,10,scalar,20.0,2025-06-04T08:13:38Z,YES
+oldDocType_s,10,10,100.0,3,scalar,4.0,ART,YES
+openAccess_bool,10,10,100.0,2,scalar,4.2,True,YES
+owners_i,10,10,100.0,9,list,12.2,"[116986, 126080]",YES
+page_s,10,10,100.0,9,scalar,4.7,1--22,YES
+peerReviewing_s,10,10,100.0,3,scalar,1.2,1,YES
+popularLevel_s,10,10,100.0,2,scalar,1.2,0,YES
+primaryDomain_s,10,10,100.0,9,scalar,13.0,math.math-ds,YES
+proceedings_s,10,10,100.0,3,scalar,2.2,,YES
+producedDateD_i,10,10,100.0,7,scalar,1.4,1,YES
+producedDateM_i,10,10,100.0,9,scalar,1.2,2,YES
+producedDateY_i,10,10,100.0,3,scalar,4.0,2016,YES
+producedDate_s,10,10,100.0,10,scalar,8.5,2016-02-01,YES
+producedDate_tdate,10,10,100.0,10,scalar,20.0,2016-02-01T00:00:00Z,YES
+publicationDateD_i,10,10,100.0,5,scalar,1.2,1,YES
+publicationDateM_i,10,10,100.0,8,scalar,1.2,2,YES
+publicationDateY_i,10,10,100.0,3,scalar,4.0,2016,YES
+publicationDate_s,10,10,100.0,10,scalar,7.6,2016-02-01,YES
+publicationDate_tdate,10,10,100.0,10,scalar,20.0,2016-02-01T00:00:00Z,YES
+publisherLink_s,10,10,100.0,2,scalar,21.7,"[""https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/uniform-diophantine-approximation-related-to-b-ary-and-itbeta-expansions/42E0DF52DDD56E950DC53C56445B507F""]",YES
+pubmedId_s,10,10,100.0,2,scalar,3.5,,YES
+releasedDateD_i,10,10,100.0,5,scalar,1.6,4,YES
+releasedDateM_i,10,10,100.0,1,scalar,1.0,6,YES
+releasedDateY_i,10,10,100.0,1,scalar,4.0,2014,YES
+releasedDate_s,10,10,100.0,10,scalar,19.0,2014-06-04 21:08:10,YES
+releasedDate_tdate,10,10,100.0,10,scalar,20.0,2014-06-04T21:08:10Z,YES
+rgrpInstStructAcronym_s,10,10,100.0,8,list,21.6,"[""CNRS"", ""CNRS"", ""CNRS""]",YES
+rgrpInstStructAddress_s,10,10,100.0,5,scalar,58.9,,YES
+rgrpInstStructCountry_s,10,10,100.0,6,list,12.4,"[""fr"", ""fr"", ""fr""]",YES
+rgrpInstStructIdName_fs,10,10,100.0,8,list,210.3,"[""441569_FacetSep_Centre National de la Recherche Scientifique"", ""441569_FacetSep_Centre National de la Recherche Scientifique"", ""441569_FacetSep_Centre National de la Recherche Scientifique""]",YES
+rgrpInstStructId_i,10,10,100.0,8,list,26.8,"[441569, 441569, 441569]",YES
+rgrpInstStructIdrefIdExtUrl_s,10,10,100.0,6,list,84.4,"[""https://www.idref.fr/02636817X"", ""https://www.idref.fr/02636817X"", ""https://www.idref.fr/02636817X""]",YES
+rgrpInstStructIdrefIdExt_s,10,10,100.0,6,list,27.7,"[""02636817X"", ""02636817X"", ""02636817X""]",YES
+rgrpInstStructIsParentOf_fs,10,10,100.0,9,list,296.7,"[""441569_JoinSep_I_AlphaSep_93707_FacetSep_Institut de Recherche Mathématique Avancée"", ""441569_JoinSep_F_AlphaSep_302085_FacetSep_Fédération de Recherche Bézout"", ""441569_JoinSep_L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées""]",YES
+rgrpInstStructIsniIdExtUrl_s,10,10,100.0,6,list,100.6,"[""http://isni.org/isni/0000000122597504"", ""http://isni.org/isni/0000000122597504"", ""http://isni.org/isni/0000000122597504""]",YES
+rgrpInstStructIsniIdExt_s,10,10,100.0,6,list,46.0,"[""0000000122597504"", ""0000000122597504"", ""0000000122597504""]",YES
+rgrpInstStructNameId_fs,10,10,100.0,8,list,249.9,"[""C_AlphaSep_Centre National de la Recherche Scientifique_FacetSep_441569"", ""C_AlphaSep_Centre National de la Recherche Scientifique_FacetSep_441569"", ""C_AlphaSep_Centre National de la Recherche Scientifique_FacetSep_441569""]",YES
+rgrpInstStructName_fs,10,10,100.0,8,list,192.3,"[""C_AlphaSep_Centre National de la Recherche Scientifique"", ""C_AlphaSep_Centre National de la Recherche Scientifique"", ""C_AlphaSep_Centre National de la Recherche Scientifique""]",YES
+rgrpInstStructName_s,10,10,100.0,8,list,152.7,"[""Centre National de la Recherche Scientifique"", ""Centre National de la Recherche Scientifique"", ""Centre National de la Recherche Scientifique""]",YES
+rgrpInstStructRorIdExtUrl_s,10,10,100.0,8,list,144.2,"[""https://ror.org/https://ror.org/02feahw73"", ""https://ror.org/https://ror.org/02feahw73"", ""https://ror.org/https://ror.org/02feahw73""]",YES
+rgrpInstStructRorIdExt_s,10,10,100.0,8,list,89.8,"[""https://ror.org/02feahw73"", ""https://ror.org/02feahw73"", ""https://ror.org/02feahw73""]",YES
+rgrpInstStructType_s,10,10,100.0,5,list,70.0,"[""regroupinstitution"", ""regroupinstitution"", ""regroupinstitution""]",YES
+rgrpInstStructValid_s,10,10,100.0,6,list,23.0,"[""VALID"", ""VALID"", ""VALID""]",YES
+rgrpInstStructWikidataIdExtUrl_s,10,10,100.0,3,scalar,14.1,,YES
+rgrpInstStructWikidataIdExt_s,10,10,100.0,3,scalar,5.1,,YES
+rgrpLabStructAcronym_s,10,10,100.0,4,scalar,4.0,"[""BEZOUT""]",YES
+rgrpLabStructAddress_s,10,10,100.0,4,scalar,32.5,"[""5, bd Descartes, Champs-sur-Marne77455 Marne-la-Vallée Cedex 2 – France""]",YES
+rgrpLabStructCountry_s,10,10,100.0,3,scalar,3.5,"[""fr""]",YES
+rgrpLabStructIdName_fs,10,10,100.0,4,scalar,26.4,"[""302085_FacetSep_Fédération de Recherche Bézout""]",YES
+rgrpLabStructId_i,10,10,100.0,4,scalar,5.3,[302085],YES
+rgrpLabStructIdrefIdExtUrl_s,10,10,100.0,3,scalar,8.4,,YES
+rgrpLabStructIdrefIdExt_s,10,10,100.0,3,scalar,4.2,,YES
+rgrpLabStructIsChildOf_fs,10,10,100.0,4,scalar,178.6,"[""302085_Fédération de Recherche Bézout_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique""]",YES
+rgrpLabStructIsParentOf_fs,10,10,100.0,3,scalar,29.0,"[""302085_JoinSep_L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées""]",YES
+rgrpLabStructIsniIdExtUrl_s,10,10,100.0,2,scalar,6.4,,YES
+rgrpLabStructIsniIdExt_s,10,10,100.0,2,scalar,4.3,,YES
+rgrpLabStructNameId_fs,10,10,100.0,4,scalar,31.9,"[""F_AlphaSep_Fédération de Recherche Bézout_FacetSep_302085""]",YES
+rgrpLabStructName_fs,10,10,100.0,4,scalar,24.1,"[""F_AlphaSep_Fédération de Recherche Bézout""]",YES
+rgrpLabStructName_s,10,10,100.0,4,scalar,18.6,"[""Fédération de Recherche Bézout""]",YES
+rgrpLabStructRnsrIdExtUrl_s,10,10,100.0,3,scalar,30.2,"[""https://appliweb.dgri.education.fr/rnsr/PresenteStruct.jsp?PUBLIC=OK&numNatStruct=201220485U""]",YES
+rgrpLabStructRnsrIdExt_s,10,10,100.0,3,scalar,5.6,"[""201220485U""]",YES
+rgrpLabStructRorIdExtUrl_s,10,10,100.0,2,scalar,6.8,,YES
+rgrpLabStructRorIdExt_s,10,10,100.0,2,scalar,5.2,,YES
+rgrpLabStructType_s,10,10,100.0,3,scalar,11.0,"[""regrouplaboratory""]",YES
+rgrpLabStructValid_s,10,10,100.0,4,scalar,4.6,"[""VALID""]",YES
+rgrpLabStructWikidataIdExtUrl_s,10,10,100.0,2,scalar,6.5,,YES
+rgrpLabStructWikidataIdExt_s,10,10,100.0,2,scalar,3.5,,YES
+rteamStructAcronym_s,10,10,100.0,2,scalar,4.2,,YES
+rteamStructAddress_s,10,10,100.0,2,scalar,11.4,,YES
+rteamStructCountry_s,10,10,100.0,3,scalar,3.0,,YES
+rteamStructIdName_fs,10,10,100.0,4,scalar,20.3,,YES
+rteamStructId_i,10,10,100.0,4,scalar,5.0,,YES
+rteamStructIsChildOf_fs,10,10,100.0,4,scalar,55.3,,YES
+rteamStructNameId_fs,10,10,100.0,4,scalar,25.8,,YES
+rteamStructName_fs,10,10,100.0,4,scalar,17.8,,YES
+rteamStructName_s,10,10,100.0,4,scalar,12.3,,YES
+rteamStructType_s,10,10,100.0,3,scalar,8.0,,YES
+rteamStructValid_s,10,10,100.0,4,scalar,4.7,,YES
+selfArchiving_bool,10,10,100.0,2,scalar,4.5,False,YES
+serie_s,10,10,100.0,2,scalar,4.1,,YES
+sid_i,10,10,100.0,4,scalar,1.5,1,YES
+status_i,10,10,100.0,1,scalar,2.0,11,YES
+structAcronym_s,10,10,100.0,10,list,108.6,"[""IRMA"", ""UNISTRA"", ""CNRS"", ""LAMA"", ""UPEM"", ""BEZOUT"", ""CNRS"", ""UPEC UP12"", ""CNRS""]",YES
+structAddress_s,10,10,100.0,10,list,918.6,"[""7 rue René-Descartes, 67084 Strasbourg Cedex, France"", ""4 rue Blaise Pascal - CS 90032 - 67081 Strasbourg cedex"", ""Université Paris-Est Créteil LAMA UMR CNRS 8050 UFR des Sciences et TechnologieBâtiment P3 - 4ème étage -61, avenue du Général de Gaulle 94010 Créteil Cedex"", ""5 boulevard Descartes - Champs-sur-Marne - 77454 Marne-la-Vallée Cedex 2"", ""5, bd Descartes, Champs-sur-Marne77455 Marne-la-Vallée Cedex 2 – France"", ""61 avenue du Général de Gaulle - 94010 Créteil cedex""]",YES
+structCode_s,10,10,100.0,9,list,82.9,"[""UMR7501"", ""UMR7501"", ""FR3522"", ""FR3522"", ""UMR8050"", ""UMR8050"", ""UMR8050"", ""UMR8050""]",YES
+structCountry_s,10,10,100.0,9,list,68.8,"[""fr"", ""fr"", ""fr"", ""fr"", ""fr"", ""fr"", ""fr"", ""fr"", ""fr""]",YES
+structHasAlphaAuthIdHalPersonid_fs,10,10,100.0,10,list,3841.4,"[""B_AlphaSep_93707_FacetSep_Institut de Recherche Mathématique Avancée_JoinSep_yann-bugeaud_FacetSep_748461_FacetSep_Bugeaud Yann"", ""B_AlphaSep_199013_FacetSep_Université de Strasbourg_JoinSep_yann-bugeaud_FacetSep_748461_FacetSep_Bugeaud Yann"", ""B_AlphaSep_441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep_yann-bugeaud_FacetSep_748461_FacetSep_Bugeaud Yann"", ""L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep__FacetSep_888942_FacetSep_Liao Lingmin"", ""L_AlphaSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée_JoinSep__FacetSep_888942_FacetSep_Liao Lingmin"", ""L_AlphaSep_302085_FacetSep_Fédération de Recherche Bézout_JoinSep__FacetSep_888942_FacetSep_Liao Lingmin"", ""L_AlphaSep_441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep__FacetSep_888942_FacetSep_Liao Lingmin"", ""L_AlphaSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12_JoinSep__FacetSep_888942_FacetSep_Liao Lingmin"", ""L_AlphaSep_441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep__FacetSep_888942_FacetSep_Liao Lingmin""]",YES
+structHasAlphaAuthIdHal_fs,10,10,100.0,10,list,3412.4,"[""B_AlphaSep_93707_FacetSep_Institut de Recherche Mathématique Avancée_JoinSep_yann-bugeaud_FacetSep_Bugeaud Yann"", ""B_AlphaSep_199013_FacetSep_Université de Strasbourg_JoinSep_yann-bugeaud_FacetSep_Bugeaud Yann"", ""B_AlphaSep_441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep_yann-bugeaud_FacetSep_Bugeaud Yann"", ""L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep__FacetSep_Liao Lingmin"", ""L_AlphaSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée_JoinSep__FacetSep_Liao Lingmin"", ""L_AlphaSep_302085_FacetSep_Fédération de Recherche Bézout_JoinSep__FacetSep_Liao Lingmin"", ""L_AlphaSep_441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep__FacetSep_Liao Lingmin"", ""L_AlphaSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12_JoinSep__FacetSep_Liao Lingmin"", ""L_AlphaSep_441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep__FacetSep_Liao Lingmin""]",YES
+structHasAlphaAuthId_fs,10,10,100.0,10,list,3553.2,"[""B_AlphaSep_93707_FacetSep_Institut de Recherche Mathématique Avancée_JoinSep_18010-748461_FacetSep_Bugeaud Yann"", ""B_AlphaSep_199013_FacetSep_Université de Strasbourg_JoinSep_18010-748461_FacetSep_Bugeaud Yann"", ""B_AlphaSep_441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep_18010-748461_FacetSep_Bugeaud Yann"", ""L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep_301903-888942_FacetSep_Liao Lingmin"", ""L_AlphaSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée_JoinSep_301903-888942_FacetSep_Liao Lingmin"", ""L_AlphaSep_302085_FacetSep_Fédération de Recherche Bézout_JoinSep_301903-888942_FacetSep_Liao Lingmin"", ""L_AlphaSep_441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep_301903-888942_FacetSep_Liao Lingmin"", ""L_AlphaSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12_JoinSep_301903-888942_FacetSep_Liao Lingmin"", ""L_AlphaSep_441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep_301903-888942_FacetSep_Liao Lingmin""]",YES
+structHasAuthIdHalPersonid_s,10,10,100.0,10,list,3493.8,"[""93707_FacetSep_Institut de Recherche Mathématique Avancée_JoinSep_yann-bugeaud_FacetSep_748461_FacetSep_Bugeaud Yann"", ""199013_FacetSep_Université de Strasbourg_JoinSep_yann-bugeaud_FacetSep_748461_FacetSep_Bugeaud Yann"", ""441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep_yann-bugeaud_FacetSep_748461_FacetSep_Bugeaud Yann"", ""29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep__FacetSep_888942_FacetSep_Liao Lingmin"", ""301243_FacetSep_Université Paris-Est Marne-la-Vallée_JoinSep__FacetSep_888942_FacetSep_Liao Lingmin"", ""302085_FacetSep_Fédération de Recherche Bézout_JoinSep__FacetSep_888942_FacetSep_Liao Lingmin"", ""441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep__FacetSep_888942_FacetSep_Liao Lingmin"", ""420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12_JoinSep__FacetSep_888942_FacetSep_Liao Lingmin"", ""441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep__FacetSep_888942_FacetSep_Liao Lingmin""]",YES
+structHasAuthIdHal_fs,10,10,100.0,10,list,3056.6,"[""93707_FacetSep_Institut de Recherche Mathématique Avancée_JoinSep_yann-bugeaud_FacetSep_Bugeaud Yann"", ""199013_FacetSep_Université de Strasbourg_JoinSep_yann-bugeaud_FacetSep_Bugeaud Yann"", ""441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep_yann-bugeaud_FacetSep_Bugeaud Yann"", ""29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep__FacetSep_Liao Lingmin"", ""301243_FacetSep_Université Paris-Est Marne-la-Vallée_JoinSep__FacetSep_Liao Lingmin"", ""302085_FacetSep_Fédération de Recherche Bézout_JoinSep__FacetSep_Liao Lingmin"", ""441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep__FacetSep_Liao Lingmin"", ""420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12_JoinSep__FacetSep_Liao Lingmin"", ""441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep__FacetSep_Liao Lingmin""]",YES
+structHasAuthId_fs,10,10,100.0,10,list,3205.6,"[""93707_FacetSep_Institut de Recherche Mathématique Avancée_JoinSep_18010-748461_FacetSep_Yann Bugeaud"", ""199013_FacetSep_Université de Strasbourg_JoinSep_18010-748461_FacetSep_Yann Bugeaud"", ""441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep_18010-748461_FacetSep_Yann Bugeaud"", ""29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep_301903-888942_FacetSep_Lingmin Liao"", ""301243_FacetSep_Université Paris-Est Marne-la-Vallée_JoinSep_301903-888942_FacetSep_Lingmin Liao"", ""302085_FacetSep_Fédération de Recherche Bézout_JoinSep_301903-888942_FacetSep_Lingmin Liao"", ""441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep_301903-888942_FacetSep_Lingmin Liao"", ""420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12_JoinSep_301903-888942_FacetSep_Lingmin Liao"", ""441569_FacetSep_Centre National de la Recherche Scientifique_JoinSep_301903-888942_FacetSep_Lingmin Liao""]",YES
+structIdName_fs,10,10,100.0,10,list,1037.9,"[""93707_FacetSep_Institut de Recherche Mathématique Avancée"", ""199013_FacetSep_Université de Strasbourg"", ""441569_FacetSep_Centre National de la Recherche Scientifique"", ""29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées"", ""301243_FacetSep_Université Paris-Est Marne-la-Vallée"", ""302085_FacetSep_Fédération de Recherche Bézout"", ""441569_FacetSep_Centre National de la Recherche Scientifique"", ""420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12"", ""441569_FacetSep_Centre National de la Recherche Scientifique""]",YES
+structId_i,10,10,100.0,10,list,133.9,"[93707, 199013, 441569, 29, 301243, 302085, 441569, 420786, 441569]",YES
+structIdrefIdExtUrl_s,10,10,100.0,10,list,334.0,"[""https://www.idref.fr/026571641"", ""https://www.idref.fr/131056549"", ""https://www.idref.fr/02636817X"", ""https://www.idref.fr/140519378"", ""https://www.idref.fr/030820499"", ""https://www.idref.fr/02636817X"", ""https://www.idref.fr/028021037"", ""https://www.idref.fr/02636817X""]",YES
+structIdrefIdExt_s,10,10,100.0,10,list,113.5,"[""026571641"", ""131056549"", ""02636817X"", ""140519378"", ""030820499"", ""02636817X"", ""028021037"", ""02636817X""]",YES
+structIsChildOf_fs,10,10,100.0,10,list,2594.0,"[""93707_laboratory_JoinSep_199013_FacetSep_Université de Strasbourg"", ""93707_Institut de Recherche Mathématique Avancée_JoinSep_199013_FacetSep_Université de Strasbourg"", ""93707_laboratory_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"", ""93707_Institut de Recherche Mathématique Avancée_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"", ""29_laboratory_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée"", ""29_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée"", ""29_laboratory_JoinSep_302085_FacetSep_Fédération de Recherche Bézout"", ""29_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep_302085_FacetSep_Fédération de Recherche Bézout"", ""302085_regrouplaboratory_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"", ""302085_Fédération de Recherche Bézout_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"", ""29_laboratory_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12"", ""29_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12"", ""29_laboratory_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"", ""29_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique""]",YES
+structIsParentOfType_fs,10,10,100.0,10,list,1257.9,"[""199013_JoinSep_laboratory_I_AlphaSep_93707_FacetSep_Institut de Recherche Mathématique Avancée"", ""441569_JoinSep_laboratory_I_AlphaSep_93707_FacetSep_Institut de Recherche Mathématique Avancée"", ""301243_JoinSep_laboratory_L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées"", ""302085_JoinSep_laboratory_L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées"", ""441569_JoinSep_regrouplaboratory_F_AlphaSep_302085_FacetSep_Fédération de Recherche Bézout"", ""420786_JoinSep_laboratory_L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées"", ""441569_JoinSep_laboratory_L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées""]",YES
+structIsParentOf_fs,10,10,100.0,10,list,1103.1,"[""199013_JoinSep_I_AlphaSep_93707_FacetSep_Institut de Recherche Mathématique Avancée"", ""441569_JoinSep_I_AlphaSep_93707_FacetSep_Institut de Recherche Mathématique Avancée"", ""301243_JoinSep_L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées"", ""302085_JoinSep_L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées"", ""441569_JoinSep_F_AlphaSep_302085_FacetSep_Fédération de Recherche Bézout"", ""420786_JoinSep_L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées"", ""441569_JoinSep_L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées""]",YES
+structIsniIdExtUrl_s,10,10,100.0,10,list,311.8,"[""http://isni.org/isni/0000000121732313"", ""http://isni.org/isni/0000000122597504"", ""http://isni.org/isni/0000000115124813"", ""http://isni.org/isni/0000000122597504"", ""http://isni.org/isni/0000000121497878"", ""http://isni.org/isni/0000000122597504""]",YES
+structIsniIdExt_s,10,10,100.0,10,list,145.9,"[""0000000121732313"", ""0000000122597504"", ""0000000115124813"", ""0000000122597504"", ""0000000121497878"", ""0000000122597504""]",YES
+structNameId_fs,10,10,100.0,10,list,1232.6,"[""I_AlphaSep_Institut de Recherche Mathématique Avancée_FacetSep_93707"", ""U_AlphaSep_Université de Strasbourg_FacetSep_199013"", ""C_AlphaSep_Centre National de la Recherche Scientifique_FacetSep_441569"", ""L_AlphaSep_Laboratoire d'Analyse et de Mathématiques Appliquées_FacetSep_29"", ""U_AlphaSep_Université Paris-Est Marne-la-Vallée_FacetSep_301243"", ""F_AlphaSep_Fédération de Recherche Bézout_FacetSep_302085"", ""C_AlphaSep_Centre National de la Recherche Scientifique_FacetSep_441569"", ""U_AlphaSep_Université Paris-Est Créteil Val-de-Marne - Paris 12_FacetSep_420786"", ""C_AlphaSep_Centre National de la Recherche Scientifique_FacetSep_441569""]",YES
+structName_fs,10,10,100.0,10,list,955.1,"[""I_AlphaSep_Institut de Recherche Mathématique Avancée"", ""U_AlphaSep_Université de Strasbourg"", ""C_AlphaSep_Centre National de la Recherche Scientifique"", ""L_AlphaSep_Laboratoire d'Analyse et de Mathématiques Appliquées"", ""U_AlphaSep_Université Paris-Est Marne-la-Vallée"", ""F_AlphaSep_Fédération de Recherche Bézout"", ""C_AlphaSep_Centre National de la Recherche Scientifique"", ""U_AlphaSep_Université Paris-Est Créteil Val-de-Marne - Paris 12"", ""C_AlphaSep_Centre National de la Recherche Scientifique""]",YES
+structName_s,10,10,100.0,10,list,760.4,"[""Institut de Recherche Mathématique Avancée"", ""Université de Strasbourg"", ""Centre National de la Recherche Scientifique"", ""Laboratoire d'Analyse et de Mathématiques Appliquées"", ""Université Paris-Est Marne-la-Vallée"", ""Fédération de Recherche Bézout"", ""Centre National de la Recherche Scientifique"", ""Université Paris-Est Créteil Val-de-Marne - Paris 12"", ""Centre National de la Recherche Scientifique""]",YES
+structPrimaryHasAlphaAuthIdHalPersonid_fs,10,10,100.0,10,list,891.4,"[""B_AlphaSep_93707_FacetSep_Institut de Recherche Mathématique Avancée_JoinSep_yann-bugeaud_FacetSep_748461_FacetSep_Bugeaud Yann"", ""L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep__FacetSep_888942_FacetSep_Liao Lingmin""]",YES
+structPrimaryHasAlphaAuthIdHal_fs,10,10,100.0,10,list,790.8,"[""B_AlphaSep_93707_FacetSep_Institut de Recherche Mathématique Avancée_JoinSep_yann-bugeaud_FacetSep_Bugeaud Yann"", ""L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep__FacetSep_Liao Lingmin""]",YES
+structPrimaryHasAlphaAuthId_fs,10,10,100.0,10,list,833.9,"[""B_AlphaSep_93707_FacetSep_Institut de Recherche Mathématique Avancée_JoinSep_18010-748461_FacetSep_Bugeaud Yann"", ""L_AlphaSep_29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep_301903-888942_FacetSep_Liao Lingmin""]",YES
+structPrimaryHasAuthIdHal_fs,10,10,100.0,10,list,707.2,"[""93707_FacetSep_Institut de Recherche Mathématique Avancée_JoinSep_yann-bugeaud_FacetSep_Bugeaud Yann"", ""29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep__FacetSep_Liao Lingmin""]",YES
+structPrimaryHasAuthId_fs,10,10,100.0,10,list,750.3,"[""93707_FacetSep_Institut de Recherche Mathématique Avancée_JoinSep_18010-748461_FacetSep_Yann Bugeaud"", ""29_FacetSep_Laboratoire d'Analyse et de Mathématiques Appliquées_JoinSep_301903-888942_FacetSep_Lingmin Liao""]",YES
+structRnsrIdExtUrl_s,10,10,100.0,8,list,195.9,"[""https://appliweb.dgri.education.fr/rnsr/PresenteStruct.jsp?PUBLIC=OK&numNatStruct=199212569B"", ""https://appliweb.dgri.education.fr/rnsr/PresenteStruct.jsp?PUBLIC=OK&numNatStruct=200212718V"", ""https://appliweb.dgri.education.fr/rnsr/PresenteStruct.jsp?PUBLIC=OK&numNatStruct=201220485U""]",YES
+structRnsrIdExt_s,10,10,100.0,8,list,23.7,"[""199212569B"", ""200212718V"", ""201220485U""]",YES
+structRorIdExtUrl_s,10,10,100.0,10,list,531.2,"[""https://ror.org/https://ror.org/02hwgty18"", ""https://ror.org/https://ror.org/00pg6eq24"", ""https://ror.org/https://ror.org/02feahw73"", ""https://ror.org/https://ror.org/02aqt9c37"", ""https://ror.org/https://ror.org/02feahw73"", ""https://ror.org/https://ror.org/05ggc9x40"", ""https://ror.org/https://ror.org/02feahw73""]",YES
+structRorIdExt_s,10,10,100.0,10,list,332.8,"[""https://ror.org/02hwgty18"", ""https://ror.org/00pg6eq24"", ""https://ror.org/02feahw73"", ""https://ror.org/02aqt9c37"", ""https://ror.org/02feahw73"", ""https://ror.org/05ggc9x40"", ""https://ror.org/02feahw73""]",YES
+structType_s,10,10,100.0,10,list,252.9,"[""laboratory"", ""institution"", ""regroupinstitution"", ""laboratory"", ""institution"", ""regrouplaboratory"", ""regroupinstitution"", ""institution"", ""regroupinstitution""]",YES
+structValid_s,10,10,100.0,10,list,112.6,"[""VALID"", ""VALID"", ""VALID"", ""OLD"", ""OLD"", ""VALID"", ""VALID"", ""VALID"", ""VALID""]",YES
+structWikidataIdExtUrl_s,10,10,100.0,7,list,75.9,"[""https://www.wikidata.org/wiki/Q3152101""]",YES
+structWikidataIdExt_s,10,10,100.0,7,list,18.9,"[""Q3152101""]",YES
+subTitle_s,10,10,100.0,2,scalar,7.0,,YES
+submitType_s,10,10,100.0,2,scalar,4.6,file,YES
+submittedDateD_i,10,10,100.0,7,scalar,1.6,4,YES
+submittedDateM_i,10,10,100.0,1,scalar,1.0,6,YES
+submittedDateY_i,10,10,100.0,1,scalar,4.0,2014,YES
+submittedDate_s,10,10,100.0,10,scalar,19.0,2014-06-04 13:36:40,YES
+submittedDate_tdate,10,10,100.0,10,scalar,20.0,2014-06-04T13:36:40Z,YES
+thumbId_i,10,10,100.0,8,scalar,5.2,5209081,YES
+title_s,10,10,100.0,10,list,83.3,"[""Uniform Diophantine approximation related to $b$-ary and $\\beta$-expansions""]",YES
+uri_s,10,10,100.0,10,scalar,36.1,https://hal.science/hal-00975111v3,YES
+version_i,10,10,100.0,2,scalar,1.0,3,YES
+volume_s,10,10,100.0,7,scalar,2.6,36,YES
+writingDateD_i,10,10,100.0,3,scalar,3.1,,YES
+writingDateM_i,10,10,100.0,4,scalar,3.0,,YES
+writingDateY_i,10,10,100.0,3,scalar,3.9,,YES
+writingDate_s,10,10,100.0,4,scalar,4.2,,YES
+writingDate_tdate,10,10,100.0,4,scalar,8.1,,YES

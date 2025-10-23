@@ -1,1 +1,11 @@
 /mysql-data/
+wikidata/venv/
+/venv/
+/__pycache__/
+/.idea/
+/*.pyc
+wikidata/venv/Lib/site-packages/isympy.py
+api/__pycache__/main.cpython-313.pyc
+api/__pycache__/apimodule.cpython-313.pyc
+
+api/__pycache__/main.cpython-313.pyc
