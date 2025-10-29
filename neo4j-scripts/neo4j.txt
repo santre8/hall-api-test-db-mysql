@@ -1,0 +1,85 @@
+////////////////////////////////////////////////////////////////////////
+// 0) Restricciones de unicidad (creadas solo si no existen)
+////////////////////////////////////////////////////////////////////////
+CREATE CONSTRAINT person_name_unique IF NOT EXISTS
+FOR (p:Person) REQUIRE p.name IS UNIQUE;
+
+CREATE CONSTRAINT movie_title_unique IF NOT EXISTS
+FOR (m:Movie) REQUIRE m.title IS UNIQUE;
+
+////////////////////////////////////////////////////////////////////////
+// 1) Película y personas (MERGE para no duplicar)
+////////////////////////////////////////////////////////////////////////
+MERGE (aamm:Movie {
+  title: 'All About My Mother'
+})
+  ON CREATE SET aamm.released = 1999,
+                aamm.tagline = 'Part of every woman is a mother, actress, saint, sinner... and a man.';
+
+MERGE (pedro:Person {name:'Pedro Almodóvar'})
+  ON CREATE SET pedro.born = 1949;
+
+MERGE (CeciliaR:Person {name:'Cecilia Roth'})
+  ON CREATE SET CeciliaR.born = 1956;
+
+MERGE (PenelopeC:Person {name:'Penélope Cruz'})
+  ON CREATE SET PenelopeC.born = 1974;
+
+MERGE (MarisaP:Person {name:'Marisa Paredes'})
+  ON CREATE SET MarisaP.born = 1946;
+
+MERGE (CandelaP:Person {name:'Candela Peña'})
+  ON CREATE SET CandelaP.born = 1973;
+
+MERGE (AntoniaS:Person {name:'Antonia San Juan'})
+  ON CREATE SET AntoniaS.born = 1961;
+
+MERGE (RosaMariaS:Person {name:'Rosa María Sardà'})
+  ON CREATE SET RosaMariaS.born = 1941;
+
+MERGE (FernandoI:Person {name:'Fernando Iglesias'})
+  ON CREATE SET FernandoI.born = 1952;
+
+////////////////////////////////////////////////////////////////////////
+// 2) Relaciones (MERGE evita duplicados)
+////////////////////////////////////////////////////////////////////////
+MERGE (pedro)-[:DIRECTED]->(aamm);
+MERGE (pedro)-[:WROTE]->(aamm);
+MERGE (pedro)-[:PRODUCED]->(aamm);
+
+MERGE (CeciliaR)-[:ACTED_IN {roles:['Manuela']}]->(aamm);
+MERGE (PenelopeC)-[:ACTED_IN {roles:['Sister Rosa']}]->(aamm);
+MERGE (MarisaP)-[:ACTED_IN {roles:['Huma Rojo']}]->(aamm);
+MERGE (CandelaP)-[:ACTED_IN {roles:['Nina']}]->(aamm);
+MERGE (AntoniaS)-[:ACTED_IN {roles:['Agrado']}]->(aamm);
+MERGE (RosaMariaS)-[:ACTED_IN {roles:['Mother Superior']}]->(aamm);
+MERGE (FernandoI)-[:ACTED_IN {roles:['Esteban']}]->(aamm);
+
+////////////////////////////////////////////////////////////////////////
+// 3) Conectar a "Relatos Salvajes" si existe (como productor)
+////////////////////////////////////////////////////////////////////////
+MATCH (rs:Movie {title:'Relatos Salvajes'})
+MERGE (pedro)-[:PRODUCED]->(rs);
+
+////////////////////////////////////////////////////////////////////////
+// 4) (Opcional) Si ya existían duplicados de Pedro, fusión con APOC
+//     *Requiere apoc.refactor.mergeNodes (tienes APOC en tu compose)*
+////////////////////////////////////////////////////////////////////////
+CALL {
+  WITH 'Pedro Almodóvar' AS nombre
+  MATCH (p:Person {name:nombre})
+  WITH collect(p) AS ps
+  WHERE size(ps) > 1
+  CALL apoc.refactor.mergeNodes(ps, {properties:'combine', mergeRels:true}) YIELD node
+  RETURN node
+} IN TRANSACTIONS
+;
+
+// --------------------------------------------------------------------
+// 5) Verificaciones
+// --------------------------------------------------------------------
+MATCH (p:Person {name:'Pedro Almodóvar'})-[:DIRECTED|PRODUCED|WROTE]->(m:Movie)
+RETURN p.name AS Persona, collect(distinct m.title) AS Peliculas;
+
+MATCH (m:Movie {title:'All About My Mother'})<-[:ACTED_IN]-(a:Person)
+RETURN m.title AS Pelicula, collect(a.name) AS Actores;
