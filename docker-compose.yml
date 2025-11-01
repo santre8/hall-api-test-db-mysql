@@ -20,7 +20,40 @@ services:
     mem_reservation: 128m
     networks:
       - mybridge
+  
 
+  neo4j:
+    image: neo4j:4.4-enterprise  # or :enterprise + ACCEPT_LICENSE
+    container_name: neo4j
+    ports:
+      - "7474:7474"   # HTTP (Neo4j Browser)
+      - "7687:7687"   # Bolt
+    environment:
+      NEO4J_ACCEPT_LICENSE_AGREEMENT: "yes"   # <-- required for enterprise
+      NEO4J_AUTH: neo4j/test
+      NEO4JLABS_PLUGINS: '["apoc"]'
+      # allow LOAD CSV/file URLs (Neo4j 5 still accepts the 4.x key)
+      NEO4J_dbms_security_allow__csv__import__from__file__urls: "true"
+      # apoc file import permission
+      NEO4J_apoc_import_file_enabled: "true"
+      # (optional) memory for dev
+      NEO4J_server_memory_heap_initial__size: 512m
+      NEO4J_server_memory_heap_max__size: 512m
+      NEO4J_server_memory_pagecache_size: 1G
+    volumes:
+      - neo4j-data:/data
+      - neo4j-logs:/logs
+      - ./tests/resources:/import   # so LOAD CSV 'file:///...' works
+    healthcheck:
+      test: ["CMD", "bash", "-lc", "echo 'RETURN 1' | cypher-shell -u neo4j -p test --non-interactive"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    networks:
+      - mybridge
+volumes:
+  neo4j-data:
+  neo4j-logs:
 networks:
   mybridge:
     driver: bridge
