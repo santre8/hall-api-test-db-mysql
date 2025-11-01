@@ -1,0 +1,850 @@
+[
+  {
+    "docid":"1006198",
+    "halId_s":"hal-01006198",
+    "title_s":"Harmonic mechanical excitations of steady convective instabilities: a means to get more uniform heat transfers in mixed convection flows?",
+    "abstract_s":"In laminar mixed convection flows, steady thermoconvective patterns generate non uniform heat and\/or mass transfers at walls that can be detrimental in some industrial processes. For instance the longitudinal thermoconvective patterns of Poiseuille-Rayleigh-Bénard (PRB) flows generate non uniform thin films or coatings when they are present in cold wall horizontal Chemical Vapor Deposition (CVD) reactors. The aim of this paper is to show that, when the basic steady flow is convectively unstable against an unsteady flow regime, introducing small harmonic mechanical excitations in the basic flow may enable to obtain more uniform time averaged heat transfers. More specifically, three-dimensional direct numerical simulations are used to characterize the temperature field and wall heat transfer associated with unsteady wavy convective instabilities of PRB flows that result from harmonic excitations of the longitudinal thermoconvective rolls at channel inlet. A design of experiments is used to build cubic response surfaces of the different quantities analyzed (growth length of the wavy rolls, magnitude of their spanwise oscillations, wall Nusselt number ...) on a wide range of the flow parameters. Air PRB flows (Pr=0.71) in channels of aspect ratios equal to Width\/Height=10 and 150 < =Length\/Height < =300, for Reynolds numbers 100 < =Re < =300 and Rayleigh numbers 5000 < =Ra < =16000 are considered. Comparisons with experiments are presented and a good agreement is obtained. The optimal conditions to have uniform heat transfers on the horizontal walls of PRB flows correspond to the minimal growth length of the wavy rolls until saturation and the maximum magnitude of their spanwise oscillations. They are approximately obtained for moderate Reynolds number (Re≈150), high Rayleigh numbers (Ra≈15000), low excitation frequency and rather high excitation magnitude. A discussion of these results for the applications to CVD in horizontal rectangular reactors at atmospheric pressure is finally proposed.",
+    "keywords_joined":"3D numerical simulations; CVD; Convective instability; Design of experiments; Harmonic inlet excitation; Mixed convection; Poiseuille-Rayleigh-Bénard flow; Rectangular channel",
+    "domain_codes":"phys.meca.mefl; spi.meca.mefl",
+    "discipline":"Chemical Engineering",
+    "url_primary":"http:\/\/hal-upec-upem.archives-ouvertes.fr\/docs\/01\/00\/61\/98\/PDF\/Nicolas_Mergui_IJHMT2014_HAL.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Xavier",
+      "S."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Nicolas",
+      "Mergui"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Mixed convection",
+      "Poiseuille-Rayleigh-Bénard flow",
+      "Convective instability",
+      "Rectangular channel",
+      "Harmonic inlet excitation",
+      "CVD",
+      "3D numerical simulations",
+      "Design of experiments"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1025697",
+    "halId_s":"hal-01025697",
+    "title_s":"Identification of a new pseudo-binary hydroxide during calendar corrosion of (La, Mg)2Ni7-type hydrogen storage alloys for Nickel-Metal Hydride batteries",
+    "abstract_s":"To improve the performances of Nickel-Metal Hydride batteries, an important step is the understanding of the corrosion processes that take place in the electrode material. In particular, the present study focuses for the first time on the model (La, Mg)2Ni7 system. The calendar corrosion in 8.7 M KOH medium was investigated from 6 h to 16 weeks immersion. By a unique combination of structural and elemental characterisations, the corrosion products are evidenced in those systems. In particular, we demonstrate that Ni and Mg combine in a pseudo-binary hydroxide Mg1−xNix(OH)2 whereas La corrodes into nanoporous La(OH)3 needles with inner hollow nanochannels.",
+    "keywords_joined":"Combination of techniques; Corrosion; Ni-MH batteries; Raman micro spectroscopy; TEM",
+    "domain_codes":"chim.othe",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.archives-ouvertes.fr\/hal-01025697\/file\/Post-print_P1428.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "J.",
+      "H.",
+      "Suzanne",
+      "J.",
+      "M."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Monnier",
+      "Chen",
+      "Joiret",
+      "Bourgon",
+      "Latroche"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Corrosion",
+      "Ni-MH batteries",
+      "Raman micro spectroscopy",
+      "TEM",
+      "Combination of techniques"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1060481",
+    "halId_s":"hal-01060481",
+    "title_s":"π-Conjugated sulfonium-based photoacid generators: an integrated molecular approach for efficient one and two-photon polymerization",
+    "abstract_s":"The cationic photoinitiating abilities of a series of 'push-pull' sulfonium-based photoacid generators (PAGs) have been investigated. In this linear π-conjugated series, a 4-<i>N,N<\/i>-diphenylaminostilbene subunit is associated with different types of sulfonium substituents, which are connected to the stilbene moiety either in the 4′ position or in the 3′ position. This <i>para<\/i>-to-<i>meta<\/i> substitution effect leads to a strong increase of the quantum yield for acid generation with a maximum value of <i>ca<\/i>. 0.5. Such a positioning effect has a strong influence on the efficiency of the S-C bond cleavage. A detailed photolysis mechanism has been proposed. In contrast to commercially available sulfonium salts, these highly reactive π-conjugated PAGs all exhibit large absorption in the visible range as well as large two-photon absorption cross-sections (δ<sub>max<\/sub> > 600 GM) in the near-infrared region. As a consequence, efficient one and two-photon polymerization reactions are observed at 405 nm and 800 nm, respectively, using typical monomers such as cyclohexene oxide, <i>n<\/i>-butyl vinyl ether or SU-8 photoresists. By the fabrication of well resolved two-dimensional microstructures, we finally demonstrate the potential use of these new generation PAGs in the fields of one and two-photon lithography.",
+    "keywords_joined":"20902069; 21074094; 51173134; National natural science foundation of china; Nsfc",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01060481",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "M.",
+      "H.",
+      "J.",
+      "J.P.",
+      "A.",
+      "O.",
+      "D.",
+      "H.",
+      "D.L.",
+      "T.",
+      "Patrice",
+      "O.",
+      "S."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Jin",
+      "Hong",
+      "Xie",
+      "Malval",
+      "Spangenberg",
+      "Soppera",
+      "Wan",
+      "Pu",
+      "Versace",
+      "Leclerc",
+      "Baldeck",
+      "Poizat",
+      "Knopf"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "20902069",
+      "Nsfc",
+      "National natural science foundation of china",
+      "21074094",
+      "51173134"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1064801",
+    "halId_s":"hal-01064801",
+    "title_s":"Nucleophilic or Electrophilic Interactions of C2 with HX systems (X=F, Cl, Br)",
+    "abstract_s":"Highly correlated ab-initio wavefunctions within the MRCI approach are used in a comparative study of the interactions between C2 and the three hydrogen halides HX (X = F, Cl, Br). Test calculations are also presented using the UCCSD(T)-F12 approach. The asymptotic regions are investigated for different relative orientations of the two moieties. It is shown that the three systems C2 + HX are bound, for intermolecular distances close to 3 Ang, through nucleophilic interactions between C2 and HX for approaches perpendicular to the C-C axis, with decreasing interaction energies from HF to HBr. For HX approaching C2 along its axis, the interactions, governed by the electrophilic character of C2 are decreasing from HBr to HF. Even though the reactions towards the molecular systems HCCX or CCHX are exothermic, activation barriers (0.58 eV and more) are calculated at short distances, preventing the direct reactions towards the corresponding tetra-atomic systems",
+    "keywords_joined":"Ab-initio calculations; Hydrogen halides; Long range interactions; Potential curves",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01064801",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "D.",
+      "H.",
+      "Gilberte"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Khiri",
+      "Gritli",
+      "Chambaud"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Potential curves",
+      "Long range interactions",
+      "Ab-initio calculations",
+      "Hydrogen halides"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1067996",
+    "halId_s":"hal-01067996",
+    "title_s":"In situ analysis of Titan's tholins by Laser 2 steps Desorption Ionisation",
+    "abstract_s":"The main objective of the whole project developed in collaboration (LISA\/LATMOS) is to provide a better understanding of the chemical composition of Titan aerosols laboratory analogs, called tholins, and thereby of their formation pathways. The tholins are produced in the PAMPRE reactor (French acronyme for Aerosols Microgravity Production by Reactives Plasmas) developed at LATMOS. These tholins are generated in levitation (wall effects are thus limited) in a low pressure radiofrequency plasma. Up to now, the determination of the physical and chemical properties of these tholins was achieved after their collection and ex-situ analysis by several methods. Their bulk composition was then determined but their insoluble part is still unknown. Other studies were performed after the transfer of the soluble part of the aerosols to different analytical instruments. Therefore, possible artifacts could have influenced the results. We present the SMARD (a French acronym for Mass Spectrometry of Aerosols by InfraRed Laser Desorption) program. A challenging issue of our work is to perform the soluble and unsoluble parts of PAMPRE tholins' analysis in real time and in situ. The coupling of the PAMPRE reactor to a unique instrument (Single Particle Laser Ablation Mass Spectrometry) developed at LISA should allow determining in real time and in situ the characteristics (chemical composition together with granulometry) of the nanometric aerosols. The later are introduced in the analytical instrument using an aerodynamic lens device. Their detection and aerodynamic diameter are determined using two continuous diode lasers operating at λ = 403 nm. Then, the L2DI (Laser 2 steps Desorption Ionisation) technique is used in order to access to the chemical composition of individual particles: they are vaporized using a 10 μm CO2 pulsed laser and the gas produced is then ionized by a 248 nm KrF Excimer laser. Finally, the molecular ions are analyzed by a 1 m linear time-of-flight mass spectrometer. As a first step, tests have been realized using a model of aerosols particles [Dioctylphthalate, C6H4(COOC8H17)2, PM = 390] as well as tholins which have been solubilized in water. Both types of particles have been introduced in the system via a nebulizer placed at the entrance of the aerodynamic lens device. The results, that demonstrate the feasibility of the L2DI technique, will be presented. Aware that the KrF Excimer laser might induce dissociative ionization and only allow to detect aromatic molecular compounds, we plan to use a VUV (λ = 121.56 nm) laser. This would promote direct ionization (one photon process) of all kinds of species according to their respective threshold. The final step will be to directly analyze the tholins generated in the PAMPRE reactor.",
+    "keywords_joined":"0305 ATMOSPHERIC COMPOSITION AND STRUCTURE Aerosols and particles; 5210 PLANETARY SCIENCES ASTROBIOLOGY Planetary atmospheres; 5405 PLANETARY SCIENCES SOLID SURFACE PLANETS Atmospheres; And hazes; Clouds",
+    "domain_codes":"sdu.astr.ep; phys.astr.ep",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01067996",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Y.",
+      "Nathalie",
+      "Guy",
+      "M.",
+      "Ahmed",
+      "Cyril",
+      "M."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Benilan",
+      "Carrasco",
+      "Cernogora",
+      "Gazeau",
+      "Mahjoub",
+      "Szopa",
+      "Schwell"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "5210 PLANETARY SCIENCES ASTROBIOLOGY Planetary atmospheres",
+      "Clouds",
+      "And hazes",
+      "5405 PLANETARY SCIENCES SOLID SURFACE PLANETS Atmospheres",
+      "0305 ATMOSPHERIC COMPOSITION AND STRUCTURE Aerosols and particles"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1078652",
+    "halId_s":"hal-01078652",
+    "title_s":"MCMC2 (version 1.1): A Monte Carlo code for multiply-charged clusters",
+    "abstract_s":"This new version of the MCMC2 program for modeling the thermodynamic and structural properties ofmultiply-charged clusters by means of parallel classical Monte Carlo methods provides some enhancementsand corrections to the earlier version [1]. In particular, histograms for negatively and positivelycharged particles are separated, parallel Monte Carlo simulations can be performed by attempting exchangesbetween all the replica pairs and not only one randomly chosen pair, a new random numbergenerator is supplied, and the contribution of Coulomb repulsion to the total heat capacity is corrected.The main functionalities of the original MCMC2 code (e.g., potential-energy surfaces and Monte Carlo algorithms)have not been modified.",
+    "keywords_joined":"Charged clusters; Charged droplets; Coarse-grained models; Electrospray ionisation; Monte Carlo simulations; Parallel Charging; Parallel Tempering",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01078652",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "David",
+      "Marius",
+      "Marie-Pierre"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Bonhommeau",
+      "Lewerenz",
+      "Gaigeot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Parallel Charging",
+      "Parallel Tempering",
+      "Electrospray ionisation",
+      "Charged droplets",
+      "Charged clusters",
+      "Coarse-grained models",
+      "Monte Carlo simulations"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1078896",
+    "halId_s":"hal-01078896",
+    "title_s":"Are there Stable Excited Triplet States of NCS-\/CNS- and NCO-\/CNO-?",
+    "abstract_s":"Highly correlated ab initio wave functions within the UCCSD(T)-F12 approach have been used to map portions of the potential energy surfaces (PESs) and to study the stability of the first excited triplet states of the NCS-\/CNS- and NCO-\/CNO- anions. These a3Π states for linear geometries, or their 3A' and 3A\" bent components, correlate with the lowest dissociation asymptote of NCX- (X = S and O) along the NC-X coordinates. The X1Σ+ linear ground states of these anions are known to be stable with respect to dissociation to the X2Π ground state of the corresponding neutral molecule with a rather large electron affinity (EA). The a3Π state of the NCS- anion is positioned below the X state of the neutral at long NC-S distances and its minimum of energy is found for bent geometries. The stability of its two components in bent geometries has been investigated, and it is found that some anionic forms are stable with respect to the X state of the neutral. The linear CNS- and CNO- isomers present a minimum only at long CN-X distances, located below the minimum of their corresponding neutral CNX ground states.",
+    "keywords_joined":"Excited states; Molecular anions; Potential energy functions",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01078896\/file\/NCSm-article.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "D.",
+      "H.",
+      "K.",
+      "Gilberte"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Khiri",
+      "Gritli",
+      "Peterson",
+      "Chambaud"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Potential energy functions",
+      "Excited states",
+      "Molecular anions"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1083001",
+    "halId_s":"hal-01083001",
+    "title_s":"245 - A highly sensitive glucose electrode using glucose oxidase collagen film",
+    "abstract_s":"Industrially reconstituted collagen films have shown excellent prop­erties for beta-D-glucose oxidase coupling. Associated with a platinum anode for amperometric detection of hydrogen peroxide, these enzymatic films form a very simple and easy to handle glucose electrode; this device presents a very high sensitivity (ca. 10-8 M) giving responses proportional to glucose concentration over 5 orders of magnitude.",
+    "keywords_joined":"Amperometric biosensor; Biosensors; Collagen; Glocose oxidase",
+    "domain_codes":"chim.anal; sdv.bbm",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/api.istex.fr\/document\/6691CFECF2A230772693D6DFDE81EE4EE32E5AA7\/fulltext\/pdf?sid=hal",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Daniel",
+      "Robert",
+      "Pierre",
+      "Danièle"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot",
+      "Sternberg",
+      "Coulet",
+      "Gautheron"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Glocose oxidase",
+      "Amperometric biosensor",
+      "Collagen",
+      "Biosensors"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1083004",
+    "halId_s":"hal-01083004",
+    "title_s":"Electrochemical biosensors: Recommended definitions and classification (Technical Report)",
+    "abstract_s":"Two Divisions of the International Union of Pure and Applied Chemistry (IUPAC), namely Physical Chemistry (Commission I.7 on Biophysical Chemistry, formerly Steering Committee on Biophysical Chemistry) and Analytical Chemistry (Commission V.5 on Electroanalytical Chemistry), have prepared recommendations on the definition, classification and nomenclature related to electrochemical biosensors; these recommendations could, in the future, be extended to other types of biosensors.An electrochemical biosensor is a self-contained integrated device, which is capable of providing specific quantitative or semi-quantitative analytical information using a biological recognition element (biochemical receptor) which is retained in direct spatial contact with an electrochemical transduction element. Because of their ability to be repeatedly calibrated, we recommend that a biosensor should be clearly distinguished from a bioanalytical system, which requires additional processing steps, such as reagent addition. A device which is both disposable after one measurement, i.e. single use, and unable to monitor the analyte concentration continuously or after rapid and reproducible regeneration should be designated a single-use biosensor.Biosensors may be classified according to the biological specificity-conferring mechanism or, alternatively, the mode of physicochemical signal transduction. The biological recognition element may be based on a chemical reaction catalysed by, or on an equilibrium reaction with, macromolecules that have been isolated, engineered or present in their original biological environment. In the latter case, equilibrium is generally reached and there is no further, if any, net consumption of analyte(s) by the immobilized biocomplexing agent incorporated into the sensor. Biosensors may be further classified according to the analytes or reactions that they monitor: direct monitoring of analyte concentration or of reactions producing or consuming such analytes; alternatively, an indirect monitoring of inhibitor or activator of the biologicalrecognition element (biochemical receptor) may be achieved.A rapid proliferation of biosensors and their diversity has led to a lack of rigour in defining their performance criteria. Although each biosensor can only truly be evaluated for a particular application, it is still useful to examine how standard protocols for performance criteria may be defined in accordance with standard IUPAC protocols or definitions. Thesecriteria are recommended for authors, referees and educators and include calibration characteristics (sensitivity, operational and linear concentration range, detection and quantitative determination limits), selectivity, steady-state and transient response times, sample throughput, reproducibility, stability and lifetime.Republication or reproduction of this report or its storage and\/or dissemination by electronic means is permitted without the need for formal IUPAC permission on condition that an acknowledgement, with full reference to the source along with use of the copyright symbol q, the name IUPAC and the year of publication are prominently visible. Publication of a translation into another language is subject to the additional condition of prior approval from the relevant IUPAC National Adhering Organization.",
+    "keywords_joined":"Classification; Definition; Electrochemical biosensor",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083004",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Daniel",
+      "Klara",
+      "Richard",
+      "George"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot",
+      "Toth",
+      "Durst",
+      "Wilson"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Electrochemical biosensor",
+      "Classification",
+      "Definition"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1083007",
+    "halId_s":"hal-01083007",
+    "title_s":"Problems in Adapting a Glucose-Oxidase Electrochemical Sensor into an Implantable Glucose-Sensing Device",
+    "abstract_s":"Taking into account the analytic patterns of different types of glucose-oxidase electrochemical sensors, the specific problems which have to be solved for such a sensor to be implantable are outlined. Of partic-ular interest is the lifetime of enzymatic membrane and the dependence of the sensor responses to oxygen concentration and hydrodynamics.",
+    "keywords_joined":"Electrochemical biosensor; Glucose; Glucose oxidase; Implantable sensor",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083007",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Daniel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Electrochemical biosensor",
+      "Implantable sensor",
+      "Glucose",
+      "Glucose oxidase"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1083014",
+    "halId_s":"hal-01083014",
+    "title_s":"A glucose electrode using high-stability glucose-oxidase collagen membranes",
+    "abstract_s":"A very sensitive glucose electrode was developed using a glucose-oxidase membrane and an anodically polarized platinum disk. Calibration curves were linear over 4.5 concentration decades. It was adapted for human blood samples. The lifetime of glucose-oxidase collagen membranes was greater than 3 yr at 4°C and was ~ 6 month at 20-30°C.",
+    "keywords_joined":"Electrochemical biosensor; Glucose; Glucose oxidase",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083014",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Daniel",
+      "Robert",
+      "Pierre"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot",
+      "Sternberg",
+      "Coulet"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Electrochemical biosensor",
+      "Glucose",
+      "Glucose oxidase"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1083157",
+    "halId_s":"hal-01083157",
+    "title_s":"From Alchemy to modern Chemistry: the concept of Chemical binding",
+    "abstract_s":"A wide panorama is presented from the very beginning of chemistry to the present state of theoretical chemistry. The successive models are described that contributed to the elaboration of the modern theory including the intermediate concepts based on the discovery of the atoms, of the molecules and of the electrons on which could be built quantum chemistry. A brief survey of the state of the art in theoretical chemistry follows.",
+    "keywords_joined":"Chemical bond concepts; Chemistry history",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083157",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Gilberte"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chambaud"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Chemistry history",
+      "Chemical bond concepts"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1083160",
+    "halId_s":"hal-01083160",
+    "title_s":"Is C2 a nucleophilic or an electrophilic system?",
+    "abstract_s":"Highly correlated ab-initio wavefunctions within the MRCI and UCCSD(T)-F12 formalisms are used to study the long range interactions and the reactive path between C2 and the three hydrogen halides HX (X = F, Cl, Br). The asymptotic regions are investigated for different relative orientations of the two moieties. It is shown that the three van der Waals systems C2 + HX are bound through nucleophilic interactions between C2 and HX for approaches perpendicular to the C-C axis, with decreasing interaction energies from HF to HBr. For HX approaching C2 along its axis, the van der Waals interactions, governed by the electrophilic character of C2 are weaker, with decreasing interaction energies from HBr to HF. Activation barriers towards the molecular systems HCCX or CCHX (0.64 eV and more) are calculated at short distances, making difficult the reaction towards the corresponding tetra-atomic systems.",
+    "keywords_joined":"Long range interactions; Potential energy functions",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083160",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Gilberte",
+      "D."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chambaud",
+      "Khiri"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Long range interactions",
+      "Potential energy functions"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1084520",
+    "halId_s":"hal-01084520",
+    "title_s":"Relation between redox potential and oxygen levels in activated-sludge reactors",
+    "abstract_s":"The importance of dissolved oxygen level in determining the platinum electrode potential in activated sludge has been clearly demonstrated by current-potential curves plotted at different oxygen concentration. Tests have been carried out, in the laboratory and in full scale treatment plants, to define the relationship between the platinum electrode potential at equilibrium (Eh) and the dissolved oxvgen [02) concentration in the activated sIudqe. These two parameters obey a law in the form Eh = a + b log [O2]. The measured values of coefficients a and b differ widely to those found from the oxygen reduction reaction in water (a = 0.8 V at pH 7 and b = 15 mV per decade). Factors a and b mainly depend on the sludge loading, the aeration conditions and the sludge concentration. Using non-polished stationary platinum ring electrodes, the following values of a were obtained (at pH between 7 and 7.6): + 410 mV\/NHE for sludge aerated for several hours without feeding, + 265 mV\/NHE for over-aerated\/low-loaded sludge (Cm = 0.2 kg BOD.kg MLVSS-1.day-1). Factor b would seem to lie between 55 and 65 mV when the sludge is continuously aerated without feeding. At low loads with excess aeration, it lies between 70 and 90 mV. When the medium is slightly septic at low dissolved oxygen concentrations (insufficient daily aeration time, high sludge concentration or aerators shut down for too long periods), factor b increases and can reach 200 mV. In the same way, at high loads, factor b can become 150 mV. These results demonstrate the importance of dissolved oxygen concentration in the mechanisms which determine the metal electrode potentials in activated sludge. They also illustrate the role that the electroactive species play in the process. The type and concentration of these species depend on parameters such as the sludge loading, the overall oxygen supply, the aeration sequence and the sludge concentration.",
+    "keywords_joined":"Activated sludge; Control; Instrumentation; Oxygen; Redox potential; Waste water treatment plant",
+    "domain_codes":"sde; chim.anal",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01084520",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Alain",
+      "Daniel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Heduit",
+      "Thevenot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Control",
+      "Instrumentation",
+      "Waste water treatment plant",
+      "Oxygen",
+      "Activated sludge",
+      "Redox potential"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1084657",
+    "halId_s":"hal-01084657",
+    "title_s":"Influence of calcium on glucose biosensor response and on hydrogen peroxide detection",
+    "abstract_s":"Of small species capable of reaching a platinum working electrode from biological samples, calcium cations have been found to inhibit significantly glucose biosensor responses. The sensitivities to glucose of sensors immersed in carbonate buffer saline solutions decreased when 0.5 mM calcium chloride was added. The degree of inhibition was proportional to the glucose response in the absence of calcium (0-17% of the normalized current). Likewise, sensor sensitivities to hydrogen peroxide decreased, in the 5-90% range, in the presence of 0.5 mM calcium. Bare Pt-Ir wires show a reversible inhibition of hydrogen peroxide sensitivity. This reversible inhibition is directly related to the decrease of hydrogen peroxide oxidation rate at the platinum anode: this has been evidenced, using rotating disk electrodes, by plotting Koutecky-Levich plots. Such inhibition has been found both for free and chelated calcium cations at levels below 1 mM. Several hypotheses for possible reactions between platinum, hydrogen per-oxide and calcium are discussed.",
+    "keywords_joined":"Calcium; Glucose sensor; Hydrogen peroxide; Koutecky-Levich plots; Platinum",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-BJW07D28-5\/fulltext.pdf?sid=hal",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Nathalie",
+      "Daniel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Labat-Allietta",
+      "Thevenot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "crp"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Glucose sensor",
+      "Calcium",
+      "Hydrogen peroxide",
+      "Koutecky-Levich plots",
+      "Platinum"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1084678",
+    "halId_s":"hal-01084678",
+    "title_s":"Electrochemical biosensors: recommended definitions and classification",
+    "abstract_s":"Two Divisions of the International Union of Pure and Applied Chemistry (IUPAC), namely Physical Chemistry (Commission I.7 on Biophysical Chemistry formerly Steering Committee on Biophysical Chemistry) and Analytical Chemistry (Commission V.5 on Electroanalytical Chemistry) have prepared recommendations on the definition, classification and nomenclature related to electrochemical biosensors; these recommendations could, in the future, be extended to other types of biosensors. An electrochem-ical biosensor is a self-contained integrated device, which is capable of providing specific quantitative or semi-quantitative analytical information using a biological recognition element (biochemical receptor) which is retained in direct spatial contact with an electrochemical transduction element. Because of their ability to be repeatedly calibrated, we recommend that a biosensor should be clearly distinguished from a bioanalytical system, which requires additional processing steps, such as reagent addition. A device that is both disposable after one measurement, i.e. single use, and unable to monitor the analyte concentration continuously or after rapid and reproducible regeneration, should be designated a single use biosensor. Biosensors may be classified according to the biological specificity-conferring mechanism or, alternatively, to the mode of physico-chemical signal transduction. The biological recognition element may be based on a chemical reaction catalysed by, or on an equilibrium reaction with macromolecules that have been isolated, engineered or present in their original biological environment. In the latter cases, equilibrium is generally reached and there is no further, if any, net consumption of analyte(s) by the immobilized biocomplexing agent incorporated into the sensor. Biosensors may be further classified according to the analytes or reactions that they monitor: direct monitoring of analyte concentration or of reactions producing or consuming such analytes; alternatively, an indirect monitoring of inhibitor or activator of the biological recognition element (biochemical receptor) may be achieved. A rapid proliferation of biosensors and their diversity has led to a lack of rigour in defining their performance criteria. Although each biosensor can only truly be evaluated for a particular application, it is still useful to examine how standard protocols for performance criteria may be defined in accordance with standard IUPAC protocols or definitions. These criteria are recommended for authors, referees and educators and include calibration characteristics (sensitivity, operational and linear concentration range, detection and quantitative determination limits), selectivity, steady-state and transient response times, sample throughput, reproducibility, stability and lifetime.",
+    "keywords_joined":"Analytes; Calibration characteristics; Definition; Electrochemical biosensor; Performance criteria; Single use biosensor",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/kuscholarworks.ku.edu\/bitstream\/1808\/8413\/1\/Wilson_1999_Electrochemical%20Biosensors.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Daniel",
+      "Klara",
+      "Richard",
+      "George"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot",
+      "Toth",
+      "Durst",
+      "Wilson"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Electrochemical biosensor",
+      "Definition",
+      "Single use biosensor",
+      "Calibration characteristics",
+      "Performance criteria",
+      "Analytes"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1086746",
+    "halId_s":"hal-01086746",
+    "title_s":"Critical budget of metal sources and pathways in the Seine River basin (1994–2003) for Cd, Cr, Cu, Hg, Ni, Pb and Zn",
+    "abstract_s":"River basin metal pollution originates from heavy industries (plating, automobile) and from urban sources (Paris conurbation: 2740 km2 , 9.47 million inhabitants). The natural sources of metal have been found to be limited due to sedimentary nature of this catchment and to the very low river sediment transport (10 t km − 2 y − 1). Several types of data have been collected to build the metal budget within the whole Seine River basin: field surveys, economical statistics and environmental models. Environmental contamination and related fluxes have been measured on atmospheric fallout, rural streams particles, and Seine River particles upstream and downstream of Paris and at river mouth. Metal pathways and budgets have been set up for (i) a typical cultivated area, (ii) a Paris combined sewer system, (iii) Paris conurbation and (iv) the whole catchment metal retention effect in floodplain and dredged material. Metal fluxes to the estuary have been decomposed into natural, urban domestic and other sources. The latter are within 1–2 orders of magnitude larger than waste water fluxes directly released into rivers according to an industrial census. These fluxes have been further compared to the annual use (1994–2003) of these metals. Metal excess fluxes exported by the river are now a marginal leak of metal inputs to the catchment (i.e. \"raw\" metals, metals in goods, atmospheric fallout), generally from 0.2 to 5‰. However, due to the very limited dilution power in this basin, the contamination of particles is still relatively high. The Seine River basin is gradually storing metals, mostly in manufactured products used in construction, but also in various waste dumps, industrial soils, agricultural and flood plain soils.",
+    "keywords_joined":"Budget; Cd; Cr; Cu; Heavy metals; Hg; Ni; Pb; River; Seine; Zn",
+    "domain_codes":"sde; chim.inor; chim.anal; sde.es; shs.envir",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal-enpc.archives-ouvertes.fr\/hal-01086746\/file\/Thevenot-STOTEN-Critical-Budget-2007-375-180-203.pdf",
+    "authOrganismId_i":[
+      0
+    ],
+    "authFirstName_s":[
+      "Daniel",
+      "Régis",
+      "Laurence",
+      "Marie-Christine",
+      "Vincent",
+      "Philippe",
+      "Philippe",
+      "Jean-Louis",
+      "Claire",
+      "Michel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot",
+      "Moilleron",
+      "Lestel",
+      "Gromaire",
+      "Rocher",
+      "Cambier",
+      "Bonté",
+      "Colin",
+      "de Pontevès",
+      "Meybeck"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Cr",
+      "Cu",
+      "Cd",
+      "Zn",
+      "Hg",
+      "Pb",
+      "Heavy metals",
+      "Budget",
+      "Seine",
+      "River",
+      "Ni"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1086752",
+    "halId_s":"hal-01086752",
+    "title_s":"Trace metal determination in total atmospheric deposition in rural and urban areas",
+    "abstract_s":"The wet, dry and total atmospheric depositions of some metals (Al, Cd, Cr, Cu, Fe, Na, Pb and Zn) were sampled at two sites and atmospheric fallout fluxes were determined for these locations. This work, led by two different research groups, allowed to reach two main goals: to define a simple analytical procedure to secure accurate shipboard sampling and analysis of atmospheric deposition, and to assess anthropogenic impacts of heavy metals to the environment. The first step about the validation step showed that the prevalent deposition type was dry deposition which represents 40, 60 and 80% for Cd, Cu and Pb, respectively. This prevalence of dry deposition in total atmospheric fallout supported the necessity of funnel wall rinsing which contains 30, 50 and 40% of collected Cd, Cu and Pb, respectively. Moreover, the reproducibility of atmospheric deposition collection was determined. The second step was performed by comparing two sampling sites. A rural sampling site, situated in Morvan's regional park (250 km south-east of Paris), was chosen for its isolation from any local and regional contamination sources. Fluxes obtained in this area were compared with those obtained at an urban site (Creteil, suburb of Paris) allowing comparison between urban and rural areas and demonstrating the impact of anthropogenic activities on atmospheric deposition of Cr, Cu and Pb.",
+    "keywords_joined":"Anthropogenic impacts; Atmospheric fallout; Sampling procedures; Trace elements",
+    "domain_codes":"sde; chim.anal; sde.es; spi",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal-enpc.archives-ouvertes.fr\/hal-01086752\/file\/Azimi-Total-Atm-Deposition-STOTEN-2003-308-247-256.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Sam",
+      "Alexandre",
+      "Daniel",
+      "Jean-Louis"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Azimi",
+      "Ludwig",
+      "Thevenot",
+      "Colin"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "crp",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Anthropogenic impacts",
+      "Sampling procedures",
+      "Atmospheric fallout",
+      "Trace elements"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1087358",
+    "halId_s":"hal-01087358",
+    "title_s":"Ab initio investigations on the CaO<sup>2+<\/sup> dication",
+    "abstract_s":"The low-lying electronic states of the CaO2+ dication are investigated using high level ab initio calculations. The electronic states converging to the first and third dissociation limits are found to be thermochemically stable, with dissociation energies ranging from 0.17 eV to 0.83 eV. The electronic ground state is of 3Sigma− nature and the adiabatic double ionization energy of CaO is computed at 21.16 eV. The main spectroscopic constants of the five low-lying bound electronic states of CaO2+ are reported. The spin-orbit coupling terms related to the X3Sigma− and A3Pi states are computed and used to calculate the vibronic levels of these states.",
+    "keywords_joined":"CaO; Calcium monoxide; MRCI+Q; Spin–orbit coupling; Stable dication; Vibronic states",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-9RPVHCRF-K\/fulltext.pdf?sid=hal",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "V.",
+      "Frédéric",
+      "Céline"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Brites",
+      "Le Quéré",
+      "Léonard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Vibronic states",
+      "Spin–orbit coupling",
+      "MRCI+Q",
+      "Stable dication",
+      "CaO",
+      "Calcium monoxide"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1088019",
+    "halId_s":"hal-01088019",
+    "title_s":"Nanocomposites of Silica Reinforced Polypropylene: Correlation Between Morphology and Properties",
+    "abstract_s":"Polypropylene\/fumed hydrophilic silica nanocomposites were prepared via melt mixing method using a single-screw extruder. Comparative study with and without compatibilizing copolymer agent (maleic anhydride grafted polypropylene: PP-g-AM) was conducted. The obtained results were interpreted in terms of silica nanoparticle-silica nanoparticle and silica nanoparticle-polymer interactions. These results have shown that the addition of nanofillers improves the properties of the nanocomposites. From transmission electron microscopy, it was found that agglomerations of silica particles into the PP matrix increased in average size with increasing silica contents, except in presence of the copolymer. Storage modulus values of the nanocomposites measured by dynamic mechanical thermal analysis were sensitive to the microstructure of the nanocomposites. Higher silica contents resulted in higher storage modulus, revealing that the material became stiffer. By adding the compatibilizer, a further increase of storage modulus was observed due to the finer dispersion of the filler in the matrix and the increased interfacial adhesion. Crystallization rates were found to increase with the increase of silica nanoparticles as well as PP-g-MA content. In addition, silica nanoparticles and the compatibilizing agent present centers of germination and nucleation of crystallites. Thus, the use of the coupling agent resulted in a further enhancement of mechanical properties of the nanocomposites due to the reduction of silica agglomeration.",
+    "keywords_joined":"BLENDS; CARBON NANOTUBES; CLAY NANOCOMPOSITES; COMPOSITES; CRYSTALLIZATION; GAS BARRIER PROPERTIES; MECHANICAL-PROPERTIES; NANOPARTICLES; POLYMER; SILANE-GRAFTED POLYPROPYLENE",
+    "domain_codes":"chim.poly; chim.mate",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/WNG-XS6VKPN7-F\/fulltext.pdf?sid=hal",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "A.",
+      "M.",
+      "Florent",
+      "Valérie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Bouaziz",
+      "Jaziri",
+      "Dalmas",
+      "Massardier"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "SILANE-GRAFTED POLYPROPYLENE",
+      "GAS BARRIER PROPERTIES",
+      "MECHANICAL-PROPERTIES",
+      "CLAY NANOCOMPOSITES",
+      "CARBON NANOTUBES",
+      "POLYMER",
+      "COMPOSITES",
+      "BLENDS",
+      "NANOPARTICLES",
+      "CRYSTALLIZATION"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  }
+]

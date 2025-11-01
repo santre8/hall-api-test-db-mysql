@@ -5,8 +5,8 @@ from pathlib import Path
 # HAL portal + filters
 HAL_PORTAL   = "u-pec"          # UPEC portal
 LANG_FILTER  = 'language_s:en'  # English only
-NEED_N       = 50              # how many rows for the sample
-PAGE_SIZE    = 50              # rows per API page (safe 200–500)
+NEED_N       = 100              # how many rows for the sample
+PAGE_SIZE    = 100              # rows per API page (safe 200–500)
 
 # Disciplines to keep (case-insensitive substring match)
 DISCIPLINES = [
@@ -136,7 +136,7 @@ print("UPEC English + keywords:", probe([LANG_FILTER, KEYWORD_FQ]))
 # === Improved harvest: map domain codes to 5 disciplines and keep crawling until 200 ===
 import re
 
-NEED_N = 200
+
 records, cursor = [], "*"
 
 # 1) mapping from HAL domain codes to  5 disciplines

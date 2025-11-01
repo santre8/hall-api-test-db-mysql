@@ -1,0 +1,3215 @@
+[
+  {
+    "docid":"1002652",
+    "halId_s":"hal-01002652",
+    "title_s":"Urban stormwater source control policies: why and how?",
+    "abstract_s":"Stormwater source control is becoming a common strategy for urban stormwater management in many countries. It relies on regulations or other policy instruments compelling or inciting to implement, for each new urban development, small-scale facilities to locally store and manage stormwater. Local authorities that pioneered source control since the 1980s have already observed that small-scale facilities systematically implemented over a catchment are able to influence its hydrological behaviour. This capability is the main strength of source control, as it allows compensation for the negative effects of urbanization. Yet, it also represents its main risk: if initial decision-making is not sufficiently accurate, source control can produce long term negative effects. Because of its current spreading, source control will acquire an increasing role as a driver of hydrological changes in urban catchments, and the directions of these changes depend on current policy-making practices. This paper presents an analysis and a critical discussion of the main objectives that policy-makers attribute to stormwater source control. The investigation is based on a sample of French case studies, completed by a literature review for international comparison. It identifies four main objectives, some typical of urban stormwater management and some more innovative: flood reduction, receiving waters protection, sustainable development, costs reduction. The discussion focuses on how current policy-making practices are able to translate these objectives in concrete policy instruments, and on which knowledge and tools could improve this process. It is shown that for some objectives, basic knowledge is available, but the creation of policy instruments effective at the catchment scale and adapted to local conditions is still problematic. For others, substantial lacks of knowledge exist, casting doubts on long term effectiveness of current policy instruments. Research directions are identified to improve source control policies and thus the future hydrologic behaviour of many urban catchments.",
+    "keywords_joined":"Policy-making; Source control; Stormwater management; Urban areas",
+    "domain_codes":"shs.envir",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01002652",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Guido",
+      "José-Frédéric",
+      "Bruno"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Petrucci",
+      "Deroubaix",
+      "Tassin"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Stormwater management",
+      "Urban areas",
+      "Source control",
+      "Policy-making"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1006198",
+    "halId_s":"hal-01006198",
+    "title_s":"Harmonic mechanical excitations of steady convective instabilities: a means to get more uniform heat transfers in mixed convection flows?",
+    "abstract_s":"In laminar mixed convection flows, steady thermoconvective patterns generate non uniform heat and\/or mass transfers at walls that can be detrimental in some industrial processes. For instance the longitudinal thermoconvective patterns of Poiseuille-Rayleigh-Bénard (PRB) flows generate non uniform thin films or coatings when they are present in cold wall horizontal Chemical Vapor Deposition (CVD) reactors. The aim of this paper is to show that, when the basic steady flow is convectively unstable against an unsteady flow regime, introducing small harmonic mechanical excitations in the basic flow may enable to obtain more uniform time averaged heat transfers. More specifically, three-dimensional direct numerical simulations are used to characterize the temperature field and wall heat transfer associated with unsteady wavy convective instabilities of PRB flows that result from harmonic excitations of the longitudinal thermoconvective rolls at channel inlet. A design of experiments is used to build cubic response surfaces of the different quantities analyzed (growth length of the wavy rolls, magnitude of their spanwise oscillations, wall Nusselt number ...) on a wide range of the flow parameters. Air PRB flows (Pr=0.71) in channels of aspect ratios equal to Width\/Height=10 and 150 < =Length\/Height < =300, for Reynolds numbers 100 < =Re < =300 and Rayleigh numbers 5000 < =Ra < =16000 are considered. Comparisons with experiments are presented and a good agreement is obtained. The optimal conditions to have uniform heat transfers on the horizontal walls of PRB flows correspond to the minimal growth length of the wavy rolls until saturation and the maximum magnitude of their spanwise oscillations. They are approximately obtained for moderate Reynolds number (Re≈150), high Rayleigh numbers (Ra≈15000), low excitation frequency and rather high excitation magnitude. A discussion of these results for the applications to CVD in horizontal rectangular reactors at atmospheric pressure is finally proposed.",
+    "keywords_joined":"3D numerical simulations; CVD; Convective instability; Design of experiments; Harmonic inlet excitation; Mixed convection; Poiseuille-Rayleigh-Bénard flow; Rectangular channel",
+    "domain_codes":"phys.meca.mefl; spi.meca.mefl",
+    "discipline":"Chemical Engineering",
+    "url_primary":"http:\/\/hal-upec-upem.archives-ouvertes.fr\/docs\/01\/00\/61\/98\/PDF\/Nicolas_Mergui_IJHMT2014_HAL.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Xavier",
+      "S."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Nicolas",
+      "Mergui"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Mixed convection",
+      "Poiseuille-Rayleigh-Bénard flow",
+      "Convective instability",
+      "Rectangular channel",
+      "Harmonic inlet excitation",
+      "CVD",
+      "3D numerical simulations",
+      "Design of experiments"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1015505",
+    "halId_s":"halshs-01015505",
+    "title_s":"The impact of recent reforms on the institutional governance of French universities",
+    "abstract_s":"It is usual to identify France as a latecomer in New Public Management (NPM). As stressed by P. Bezes (2003 and 2009 ), while the souci de soi of the French state has always been present and the reform of the management of French public administration has been a recurrent objective during the Fifth Republic, it is only in the late 1990s and the beginning of the 2000s that the NPM doctrine really diffused into the French public system. The important transformations experienced by the higher education system until then (Musselin 2001[2004]) could therefore not be analysed as a consequence of NPM (Musselin and Paradeise 2009). The introduction of NPM methods and solutions in French administration, now in place for a decade, first reached universities in mid-2000 when the new budgetary process that was introduced into French public administration (the LOLF, Loi organique sur les lois de finances ) was also implemented in public higher education institutions. In order to negotiate their budget, they now have to set objectives and indicators that will then be used to measure the achievement of these objectives a year later, when they will write a report about the past year. Further major changes, which will be described below, were introduced after 2005. They not only brought in new instruments and devices to the management of French universities (more competitive processes, performance-based allocation of resources, empowerment of university leaders, etc.), but more broadly affected some of the principles on which the French university system was built and, in particular, the egalitarian principles that maintained a rather low differentiation among French academics and among French universities and the grades they delivered. The aim of this chapter is, therefore, primarily to describe the governance of French universities after the introduction of the recent reforms and answer the following questions: did these changes affect the governance of French universities or did they resist the transformations that aimed at strengthening the presidents, increasing project-based research and providing them with more autonomy and responsibility?",
+    "keywords_joined":"France; Governance; University",
+    "domain_codes":"shs.gestion",
+    "discipline":"Marketing",
+    "url_primary":"https:\/\/hal.science\/halshs-01015505",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Stéphanie",
+      "Stéphanie",
+      "Christine",
+      "Samuel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chatelain-Ponroy",
+      "Mignot-Gerard",
+      "Musselin",
+      "Sponem"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "France",
+      "University",
+      "Governance"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1015767",
+    "halId_s":"hal-01015767",
+    "title_s":"Clarification about component mode synthesis methods for substructures with physical flexible interfaces",
+    "abstract_s":"The objective of the paper is to clarify a methodology based on the use of the existing component mode synthesis methods for the case of two damped substructures which are coupled through a linking viscoelastic flexible substructure and for which the structural modes with free geometrical interface are used for each main substructure. The proposed methodology corresponds to a convenient alternative to the direct use either of the Craig-Bampton method applied to the three substructures (using the fixed geometric interface modes) or of the flexibility residual approaches initiated by MacNeal (using the free geometric interface modes). In opposite to a geometrical interface which is a topological interface on which there is a direct linkage between the degrees of freedom of substructures, we consider a physical flexible interface which exists in certain present technologies and for which the general framework linear viscoelasticity is used and yields a frequency-dependent damping and stiffness matrices of the physical flexible interface.",
+    "keywords_joined":"Component mode synthesis; Computational mechanics; Dynamic substructuring; Flexible interface",
+    "domain_codes":"spi.meca; spi.meca.vibr; phys.meca.vibr",
+    "discipline":"Civil Engineering",
+    "url_primary":"http:\/\/society.kisti.re.kr\/sv\/SV_svpsbs03V.do?method=download&cn1=JAKO201423366169610",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Roger",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Ohayon",
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "crp"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Component mode synthesis",
+      "Dynamic substructuring",
+      "Flexible interface",
+      "Computational mechanics"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1021415",
+    "halId_s":"hal-01021415",
+    "title_s":"A simple game generator for creating audio\/tactile games",
+    "abstract_s":"We present in this paper a new game generator that aims at facilitating educators to provide new games scenarios to young visually disabled children. A game scenario description is stored in a XML file without any necessary knowledge of this format from the educator. Moreover, scenarios could be easily shared via a web server.",
+    "keywords_joined":"Blind; Computer game; Game authoring tool; Tactile interface; Visually disabled",
+    "domain_codes":"info.info-cy",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01021415",
+    "authOrganismId_i":[
+      300298
+    ],
+    "authFirstName_s":[
+      "Arnaud",
+      "Dominique",
+      "Nicolas",
+      "Mohamed"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Puret",
+      "Archambault",
+      "Monmarché",
+      "Slimane"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":[
+      "Université de Tours"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Tactile interface",
+      "Computer game",
+      "Game authoring tool",
+      "Blind",
+      "Visually disabled"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1023779",
+    "halId_s":"halshs-01023779",
+    "title_s":"Symposium on Circulation of Security Models in Southern African Cities",
+    "abstract_s":"This symposium focuses on the circulation of security governance models in cities of Southern Africa (Johannesburg, Cape Town, Windhoek and Maputo). It consists of three articles analysing at different scales (regional, national and intra-urban) the circulation of specific neighbourhood-based solutions to security issues, such as road closures, gated residential developments and business improvement districts. This spreading process, with the South African case at its core, is analysed within the theoretical framework of neoliberalism. The symposium, via this discussion of security models and the way they reflect the changing relationships between state and private actors locally, discusses the relevance of this framework to a fuller understanding of the transformation of Southern African cities.",
+    "keywords_joined":"Business Improvement Districts; Cape Town; Circulation of models; City Improvement District; Gated residential development; Johannesburg; Maputo; Mobilité des politiques urbaines; Neoliberalization; Néoliberalisation; Renouvellement urbain; Road closures; Security governance; Southern Africa; Sécurité; Transfert de politiques; Windhoek",
+    "domain_codes":"shs.geo",
+    "discipline":"Political Science",
+    "url_primary":"https:\/\/hal.science\/halshs-01023779",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Claire",
+      "Sophie",
+      "Elisabeth"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Bénit-Gbaffou",
+      "Didier",
+      "Peyroux"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "sad",
+      "sad",
+      "sad"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Security governance",
+      "Neoliberalization",
+      "Circulation of models",
+      "Road closures",
+      "Gated residential development",
+      "City Improvement District",
+      "Southern Africa",
+      "Johannesburg",
+      "Cape Town",
+      "Windhoek",
+      "Maputo",
+      "Néoliberalisation",
+      "Transfert de politiques",
+      "Sécurité",
+      "Mobilité des politiques urbaines",
+      "Renouvellement urbain",
+      "Business Improvement Districts"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1025697",
+    "halId_s":"hal-01025697",
+    "title_s":"Identification of a new pseudo-binary hydroxide during calendar corrosion of (La, Mg)2Ni7-type hydrogen storage alloys for Nickel-Metal Hydride batteries",
+    "abstract_s":"To improve the performances of Nickel-Metal Hydride batteries, an important step is the understanding of the corrosion processes that take place in the electrode material. In particular, the present study focuses for the first time on the model (La, Mg)2Ni7 system. The calendar corrosion in 8.7 M KOH medium was investigated from 6 h to 16 weeks immersion. By a unique combination of structural and elemental characterisations, the corrosion products are evidenced in those systems. In particular, we demonstrate that Ni and Mg combine in a pseudo-binary hydroxide Mg1−xNix(OH)2 whereas La corrodes into nanoporous La(OH)3 needles with inner hollow nanochannels.",
+    "keywords_joined":"Combination of techniques; Corrosion; Ni-MH batteries; Raman micro spectroscopy; TEM",
+    "domain_codes":"chim.othe",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.archives-ouvertes.fr\/hal-01025697\/file\/Post-print_P1428.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "J.",
+      "H.",
+      "Suzanne",
+      "J.",
+      "M."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Monnier",
+      "Chen",
+      "Joiret",
+      "Bourgon",
+      "Latroche"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Corrosion",
+      "Ni-MH batteries",
+      "Raman micro spectroscopy",
+      "TEM",
+      "Combination of techniques"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1026130",
+    "halId_s":"hal-01026130",
+    "title_s":"Change and stability interaction processes in SMEs: a comparative case study",
+    "abstract_s":"Purpose - The aim of this paper is to explore interactions between change and stability during the implementation of a specific change initiative (ISO 9000). It attempts to develop a theoretical framework on change and stability management in small firms. Design\/methodology\/approach - This research uses a process approach based on retrospective comparative case study methodology. Data collection in the six companies lasted over a year. This gives the opportunity to contrast failed change initiatives against successful ones. Findings - Two models emerged from this approach; they support the notion that change and stability could be complementary during the different phases of the change initiative the authors analyzed. The findings show that total absence of stability variables in the change initiative could have negative effect on results. Research limitations\/implications - The research is based on a multiple case study approach, which limits the generalizability of the findings. Originality\/value - This is one of the first studies that applies and empirically tests the change and stability relation in small firms.",
+    "keywords_joined":"Case studies; Change; Change management; ISO 9000 series; Mexico; Small firms; Stability",
+    "domain_codes":"shs.gestion",
+    "discipline":"Marketing",
+    "url_primary":"http:\/\/americanae.aecid.es\/americanae\/es\/registros\/registro.do?tipoRegistro=MTD&idBib=565521",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Jorge Humberto",
+      "François",
+      "Georges"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Mejia-Morelos",
+      "Grima",
+      "Trepo"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Stability",
+      "Small firms",
+      "Mexico",
+      "ISO 9000 series",
+      "Change management",
+      "Change",
+      "Case studies"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1052672",
+    "halId_s":"hal-01052672",
+    "title_s":"Belief functions in telecommunications and network technologies: an overview",
+    "abstract_s":"In the last few years, evidence theory, also known as Dempster-Shafer theory or belief functions theory, have received growing attention in many fields such as artificial intelligence, computer vision, telecommunications and networks, robotics, and finance. This is due to the fact that imperfect information permeates the real-world applications, and as a result, it must be incorporated into any information system that aims to provide a complete and accurate model of the real world. Although, it is in an early stage of development relative to classical probability theory, evidence theory has proved to be particularly useful to represent and reason with imperfect information in a wide range of real-world applications. In such cases, evidence theory provides a flexible framework for handling and mining uncertainty and imprecision as well as combining evidence obtained from multiple sources and modeling the conflict between them. The purpose of this paper is threefold. First, it introduces the basics of the belief functions theory with emphasis on the transferable belief model. Second, it provides a practical case study to show how the belief functions theory was used in a real network application, thereby providing guidelines for how the evidence theory may be used in telecommunications and networks. Lastly, it surveys and discusses a number of examples of applications of the evidence theory in telecommunications and network technologies.",
+    "keywords_joined":"INCERTITUDE; RESEAU DE TELECOMMUNICATIONS; TELECOMMUNICATION; THEORIE DES PROBABILITES",
+    "domain_codes":"shs.stat; info.info-ni",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01052672",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Mustapha Reda",
+      "Abdelhamid",
+      "Mohamed Abdelkrim",
+      "Latifa"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Senouci",
+      "Mellouk",
+      "Senouci",
+      "Oukhellou"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "THEORIE DES PROBABILITES",
+      "TELECOMMUNICATION",
+      "RESEAU DE TELECOMMUNICATIONS",
+      "INCERTITUDE"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1053257",
+    "halId_s":"hal-01053257",
+    "title_s":"Belief functions and uncertainty management in networks and telecommunication",
+    "abstract_s":"In the last few years, Dempster–Shafer theory also known as Theory of Belief Functions (TBF) or Evidence theory has received growing attention in many fields of applications such as finance, technology, biomedicine, etc. This theory may be seen as a generalization framework of different instances such as probability, fuzzy sets, and possibility theories. Using Dempster–Shafer belief functions to express available information allows considering two kinds of uncertainty: aleatory uncertainty due to the variability of the variable of interest in the population and epistemic uncertainty due to a lack of knowledge on the state of the variable. Different sources of uncertainty and imprecision may arise in network and telecommunication domains. Such imperfection may be due to imprecision of many aspects regarding the environment: signal, data link, network, etc. For example, it may be due to communication links that might be unreliable, either due to operational tolerance levels or environmental factors. As detailed in the survey paper proposed par Mustapha Reda Senouci, Abdelhamid Mellouk, Mohamed Abdelkrim Senouci, and Latifa Oukhellou in this special issue, the Theory of Belief Functions has proved to be particularly useful to represent and reason with partial information in a wide range of applications, including signal processing, coding, supervision, localization, resource provisioning, etc. In such case, the belief function theory provides a flexible framework for handling and mining imprecision and uncertainty as well as combining different disparate evidence about uncertain events. Indeed, this theory allows modeling different concepts such as imprecision, ambiguity, and ignorance. Also, a variety of combination operators is available in the fusion process. This special issue of Annals of Telecommunications is intended to provide the recent advances on the use of the Theory of Belief Functions and machine learning approaches in telecommunication and network technologies. It focused on how belief functions and machine learning have affected different aspects (protocols, algorithms, paradigm, energy, signal coding, etc.) for a large family of applications (healthcare, medical, underwater, vehicular, robotic, etc.) using network technologies (sensor networks, MANET, VANET, etc.).",
+    "keywords_joined":"INCERTITUDE; RESEAU DE TELECOMMUNICATIONS; TELECOMMUNICATION",
+    "domain_codes":"info.info-ni",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/link.springer.com\/content\/pdf\/10.1007\/s12243-014-0425-8.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Abdelhamid",
+      "Latifa",
+      "Lei",
+      "Glenn"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Mellouk",
+      "Oukhellou",
+      "Shu",
+      "Shafer"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "TELECOMMUNICATION",
+      "INCERTITUDE",
+      "RESEAU DE TELECOMMUNICATIONS"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1059165",
+    "halId_s":"inserm-01059165",
+    "title_s":"Using Pharmacokinetic and Viral Kinetic Modeling To Estimate the Antiviral Effectiveness of Telaprevir, Boceprevir, and Pegylated Interferon during Triple Therapy in Treatment-Experienced Hepatitis C Virus-Infected Cirrhotic Patients.",
+    "abstract_s":"Triple therapy combining a protease inhibitor (PI) (telaprevir or boceprevir), pegylated interferon (PEG-IFN), and ribavirin (RBV) has dramatically increased the chance of eradicating hepatitis C virus (HCV). However, the efficacy of this treatment remains suboptimal in cirrhotic treatment-experienced patients. Here, we aimed to better understand the origin of this impaired response by estimating the antiviral effectiveness of each drug. Fifteen HCV genotype 1-infected patients with compensated cirrhosis, who were nonresponders to prior PEG-IFN\/RBV therapy, were enrolled in a nonrandomized study. HCV RNA and concentrations of PIs, PEG-IFN, and RBV were frequently assessed in the first 12 weeks of treatment and were analyzed using a pharmacokinetic\/viral kinetic model. The two PIs achieved similar levels of molar concentrations (P = 0.5), but there was a significant difference in the 50% effective concentrations (EC50) (P = 0.008), leading to greater effectiveness for telaprevir than for boceprevir in blocking viral production (99.8% versus 99.0%, respectively, P = 0.002). In all patients, the antiviral effectiveness of PEG-IFN was modest (43.4%), and there was no significant contribution of RBV exposure to the total antiviral effectiveness. The second phase of viral decline, which is attributed to the loss rate of infected cells, was slow (0.19 day(-1)) and was higher in patients who subsequently eradicated HCV (P = 0.03). The two PIs achieved high levels of antiviral effectiveness. However, the suboptimal antiviral effectiveness of PEG-IFN\/RBV and the low loss of infected cells suggest that a longer treatment duration might be needed in cirrhotic treatment-experienced patients and that a future IFN-free regimen may be particularly beneficial in these patients.",
+    "keywords_joined":"Early viral kinetics; Hepatitis C virus; Mathematical modeling; Non-linear mixed effect models; Pegylated-interferon; Pharmacokinetic; Protease inhibitor; Ribavirin",
+    "domain_codes":"sdv.spee; sdv.bibs; info.info-bi",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/aac.asm.org\/content\/58\/9\/5332.full.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Cédric",
+      "Patrick",
+      "Martine",
+      "Feryel",
+      "Nathalie",
+      "Fabien",
+      "Lawrence",
+      "Jean-Pierre",
+      "Michelle",
+      "Olivier",
+      "Tarik",
+      "Céline",
+      "Christophe",
+      "Fabrice",
+      "Florence",
+      "Gilles",
+      "France",
+      "Jeremie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Laouénan",
+      "Marcellin",
+      "Lapalus",
+      "Khelifa-Mouri",
+      "Boyer",
+      "Zoulim",
+      "Serfaty",
+      "Bronowicki",
+      "Martinot-Peignoux",
+      "Lada",
+      "Asselah",
+      "Dorival",
+      "Hézode",
+      "Carrat",
+      "Nicot",
+      "Peytavin",
+      "Mentré",
+      "Guedj"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Pharmacokinetic",
+      "Mathematical modeling",
+      "Ribavirin",
+      "Pegylated-interferon",
+      "Protease inhibitor",
+      "Hepatitis C virus",
+      "Non-linear mixed effect models",
+      "Early viral kinetics"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1060481",
+    "halId_s":"hal-01060481",
+    "title_s":"π-Conjugated sulfonium-based photoacid generators: an integrated molecular approach for efficient one and two-photon polymerization",
+    "abstract_s":"The cationic photoinitiating abilities of a series of 'push-pull' sulfonium-based photoacid generators (PAGs) have been investigated. In this linear π-conjugated series, a 4-<i>N,N<\/i>-diphenylaminostilbene subunit is associated with different types of sulfonium substituents, which are connected to the stilbene moiety either in the 4′ position or in the 3′ position. This <i>para<\/i>-to-<i>meta<\/i> substitution effect leads to a strong increase of the quantum yield for acid generation with a maximum value of <i>ca<\/i>. 0.5. Such a positioning effect has a strong influence on the efficiency of the S-C bond cleavage. A detailed photolysis mechanism has been proposed. In contrast to commercially available sulfonium salts, these highly reactive π-conjugated PAGs all exhibit large absorption in the visible range as well as large two-photon absorption cross-sections (δ<sub>max<\/sub> > 600 GM) in the near-infrared region. As a consequence, efficient one and two-photon polymerization reactions are observed at 405 nm and 800 nm, respectively, using typical monomers such as cyclohexene oxide, <i>n<\/i>-butyl vinyl ether or SU-8 photoresists. By the fabrication of well resolved two-dimensional microstructures, we finally demonstrate the potential use of these new generation PAGs in the fields of one and two-photon lithography.",
+    "keywords_joined":"20902069; 21074094; 51173134; National natural science foundation of china; Nsfc",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01060481",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "M.",
+      "H.",
+      "J.",
+      "J.P.",
+      "A.",
+      "O.",
+      "D.",
+      "H.",
+      "D.L.",
+      "T.",
+      "Patrice",
+      "O.",
+      "S."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Jin",
+      "Hong",
+      "Xie",
+      "Malval",
+      "Spangenberg",
+      "Soppera",
+      "Wan",
+      "Pu",
+      "Versace",
+      "Leclerc",
+      "Baldeck",
+      "Poizat",
+      "Knopf"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "20902069",
+      "Nsfc",
+      "National natural science foundation of china",
+      "21074094",
+      "51173134"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1061949",
+    "halId_s":"hal-01061949",
+    "title_s":"Reduced-order model for the dynamical analysis of complex structures with a high modal density",
+    "abstract_s":"The low-frequency (LF) band is classically characterized by the presence of relatively well separated resonances associated with global elastic modes (non local elastic modes). In this work, we are interested in predicting the dynamical response of complex structures presenting several structural scales (for instance, the presence of flexible panels connected to a stiff master structure). For such structures, a high modal density can be observed in the low- and in the medium-frequency bands. This high modal density for the low-frequency band is not the usual case considered by the modal analysis which would require a large number of elastic modes to represent the response with a good accuracy. In this context, a new methodology is introduced for constructing a small-size reduced-order basis adapted to span the global displacements space.",
+    "keywords_joined":"High modal density; ROM; Reduced-order model; Structural dynamics",
+    "domain_codes":"spi.meca; spi.meca.vibr",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01061949",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "O.",
+      "Anas",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Ezvan",
+      "Batou",
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Reduced-order model",
+      "Structural dynamics",
+      "High modal density",
+      "ROM"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1064345",
+    "halId_s":"hal-01064345",
+    "title_s":"Modelling the time fluctuation of indoor air formaldehyde concentrations: variability structure identification and forecasting using non linear models",
+    "abstract_s":"This study explores the possibility to forecast formaldehyde (HCHO) concentration from past observations in an office. A monitoring campaign of HCHO was performed during 96 days, with a short time-step (1 minute). The monitored formaldehyde time series exhibited, in particular, abrupt changes and structural breaks in variance, that cannot be modelled implicitly using simple models. To overcome this problem, hybrid model for forecasting HCHO time series (characterized by nonlinear and nonstationary behaviour) was used. The periodicities of the data were modelled by Fast Fourier Transform (FFT). A Self-Exciting Threshold AutoRegressive (SETAR) model was used to model the FFT component. SETAR models are typically designed to accommodate the nonlinear features and can explain two regimes in a time series. The residuals of the FFT component subtracted from raw data was modelled using a second SETAR model. The output of the two models were summed and compared to raw test data.",
+    "keywords_joined":"Clustering; Forecasting; Formaldehyde; SETAR; SOTA",
+    "domain_codes":"sde",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01064345",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Rachid",
+      "Anda",
+      "Olivier",
+      "Yves",
+      "Viorel",
+      "Lucille"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Ouaret",
+      "Ionescu",
+      "Ramalho",
+      "Candau",
+      "Petrehus",
+      "Labat"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Formaldehyde",
+      "Clustering",
+      "Forecasting",
+      "SOTA",
+      "SETAR"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1064711",
+    "halId_s":"hal-01058198",
+    "title_s":"Turing degree spectra of minimal subshifts",
+    "abstract_s":"Subshifts are shift invariant closed subsets of $\\Sigma^{\\mathbb{Z}^d}$ , minimal subshifts are subshifts in which all points contain the same patterns. It has been proved by Jeandel and Vanier that the Turing degree spectra of non-periodic minimal subshifts always contain the cone of Turing degrees above any of its degree. It was however not known whether each minimal subshift's spectrum was formed of exactly one cone or not. We construct inductively a minimal subshift whose spectrum consists of an uncountable number of cones with disjoint base.",
+    "keywords_joined":"Cone; Minimal subshift; Spectra; Subshift; Turing degree",
+    "domain_codes":"info.info-dm; math.math-ds; info.info-lo",
+    "discipline":"Computer Science",
+    "url_primary":"http:\/\/arxiv.org\/pdf\/1408.6487",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Michael",
+      "Pascal"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Hochman",
+      "Vanier"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Minimal subshift",
+      "Spectra",
+      "Cone",
+      "Subshift",
+      "Turing degree"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1064801",
+    "halId_s":"hal-01064801",
+    "title_s":"Nucleophilic or Electrophilic Interactions of C2 with HX systems (X=F, Cl, Br)",
+    "abstract_s":"Highly correlated ab-initio wavefunctions within the MRCI approach are used in a comparative study of the interactions between C2 and the three hydrogen halides HX (X = F, Cl, Br). Test calculations are also presented using the UCCSD(T)-F12 approach. The asymptotic regions are investigated for different relative orientations of the two moieties. It is shown that the three systems C2 + HX are bound, for intermolecular distances close to 3 Ang, through nucleophilic interactions between C2 and HX for approaches perpendicular to the C-C axis, with decreasing interaction energies from HF to HBr. For HX approaching C2 along its axis, the interactions, governed by the electrophilic character of C2 are decreasing from HBr to HF. Even though the reactions towards the molecular systems HCCX or CCHX are exothermic, activation barriers (0.58 eV and more) are calculated at short distances, preventing the direct reactions towards the corresponding tetra-atomic systems",
+    "keywords_joined":"Ab-initio calculations; Hydrogen halides; Long range interactions; Potential curves",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01064801",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "D.",
+      "H.",
+      "Gilberte"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Khiri",
+      "Gritli",
+      "Chambaud"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Potential curves",
+      "Long range interactions",
+      "Ab-initio calculations",
+      "Hydrogen halides"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1065102",
+    "halId_s":"halshs-01065102",
+    "title_s":"School evaluation and educating States : trends in four European countries",
+    "abstract_s":"Are we witnessing the decline of state involvement in education or is it being reshaped, and if so how? Surprisingly, this question has received little attention from researchers in education studies, sociology and political science. This book aims to fill this gap by exploring school evaluation policies in four European countries: England, France, Scotland and Switzerland. It shows that the same policy tool - promoted in many European and international arenas concerned with good practice in educational governance - can actually give rise in each system to a variety of policy configurations in which forms of state control can differ. Written from a policy sociology perspective, the book aims to go beyond the decline\/permanence dichotomy and proposes a specific conceptual framework within which to consider both contextualised forms of state intervention and their potential similarities and combinations. By doing this, the authors not only aim to counterbalance or supplement dominant views on the Europeanisation and transnationalisation of education policies but also to imagine new possibilities for state policy analysis.",
+    "keywords_joined":"Education Policies; England; France; School Evaluation; Scotland; Switzerland",
+    "domain_codes":"shs.socio; shs.scipo",
+    "discipline":"Political Science",
+    "url_primary":"https:\/\/hal.science\/halshs-01065102",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Hélène",
+      "Xavier"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Buisson-Fenet",
+      "Pons"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "School Evaluation",
+      "Education Policies",
+      "France",
+      "England",
+      "Scotland",
+      "Switzerland"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1066522",
+    "halId_s":"hal-01066522",
+    "title_s":"Maximum entropy modeling of discrete uncertain properties with application to friction",
+    "abstract_s":"The first part of the present investigation focuses on the formulation of a novel stochastic model of uncertain properties of media homogenous in the mean which are represented as stationary processes. In keeping with standard spatial discretization methods (e.g., finite elements), the process is discrete. It is further required to exhibit a specified mean, standard deviation, and a global measure of the correlation length. The specification of the random process is completed by imposing that it yields a maximum of the entropy. If no constraint on the sign of the process exists, the maximum entropy is achieved for a Gaussian process the autocorrelation of which is constructed. The case of a positive process is considered next and an algorithm is formulated to simulate the non-Gaussian process yielding the maximum entropy. In the second part of the paper, this non-Gaussian model is used to represent the uncertain friction coefficient in a simple, lumped mass model of an elastic structure resting on a frictional support. The dynamic response of this uncertain system to a random excitation at its end is studied, focusing in particular on the occurrence of slip and stick.",
+    "keywords_joined":"Friction; Maximum entropy; Microslip; Simulation; Stochastic process; Uncertainty",
+    "domain_codes":"spi.meca; math.math-pr; math.math-st",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01066522",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "R.",
+      "B.-K.",
+      "X.Q.",
+      "M. C.",
+      "M. P.",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Murthy",
+      "Choi",
+      "Wang",
+      "Sipperley",
+      "Mignolet",
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Friction",
+      "Uncertainty",
+      "Microslip",
+      "Stochastic process",
+      "Maximum entropy",
+      "Simulation"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1067996",
+    "halId_s":"hal-01067996",
+    "title_s":"In situ analysis of Titan's tholins by Laser 2 steps Desorption Ionisation",
+    "abstract_s":"The main objective of the whole project developed in collaboration (LISA\/LATMOS) is to provide a better understanding of the chemical composition of Titan aerosols laboratory analogs, called tholins, and thereby of their formation pathways. The tholins are produced in the PAMPRE reactor (French acronyme for Aerosols Microgravity Production by Reactives Plasmas) developed at LATMOS. These tholins are generated in levitation (wall effects are thus limited) in a low pressure radiofrequency plasma. Up to now, the determination of the physical and chemical properties of these tholins was achieved after their collection and ex-situ analysis by several methods. Their bulk composition was then determined but their insoluble part is still unknown. Other studies were performed after the transfer of the soluble part of the aerosols to different analytical instruments. Therefore, possible artifacts could have influenced the results. We present the SMARD (a French acronym for Mass Spectrometry of Aerosols by InfraRed Laser Desorption) program. A challenging issue of our work is to perform the soluble and unsoluble parts of PAMPRE tholins' analysis in real time and in situ. The coupling of the PAMPRE reactor to a unique instrument (Single Particle Laser Ablation Mass Spectrometry) developed at LISA should allow determining in real time and in situ the characteristics (chemical composition together with granulometry) of the nanometric aerosols. The later are introduced in the analytical instrument using an aerodynamic lens device. Their detection and aerodynamic diameter are determined using two continuous diode lasers operating at λ = 403 nm. Then, the L2DI (Laser 2 steps Desorption Ionisation) technique is used in order to access to the chemical composition of individual particles: they are vaporized using a 10 μm CO2 pulsed laser and the gas produced is then ionized by a 248 nm KrF Excimer laser. Finally, the molecular ions are analyzed by a 1 m linear time-of-flight mass spectrometer. As a first step, tests have been realized using a model of aerosols particles [Dioctylphthalate, C6H4(COOC8H17)2, PM = 390] as well as tholins which have been solubilized in water. Both types of particles have been introduced in the system via a nebulizer placed at the entrance of the aerodynamic lens device. The results, that demonstrate the feasibility of the L2DI technique, will be presented. Aware that the KrF Excimer laser might induce dissociative ionization and only allow to detect aromatic molecular compounds, we plan to use a VUV (λ = 121.56 nm) laser. This would promote direct ionization (one photon process) of all kinds of species according to their respective threshold. The final step will be to directly analyze the tholins generated in the PAMPRE reactor.",
+    "keywords_joined":"0305 ATMOSPHERIC COMPOSITION AND STRUCTURE Aerosols and particles; 5210 PLANETARY SCIENCES ASTROBIOLOGY Planetary atmospheres; 5405 PLANETARY SCIENCES SOLID SURFACE PLANETS Atmospheres; And hazes; Clouds",
+    "domain_codes":"sdu.astr.ep; phys.astr.ep",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01067996",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Y.",
+      "Nathalie",
+      "Guy",
+      "M.",
+      "Ahmed",
+      "Cyril",
+      "M."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Benilan",
+      "Carrasco",
+      "Cernogora",
+      "Gazeau",
+      "Mahjoub",
+      "Szopa",
+      "Schwell"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "5210 PLANETARY SCIENCES ASTROBIOLOGY Planetary atmospheres",
+      "Clouds",
+      "And hazes",
+      "5405 PLANETARY SCIENCES SOLID SURFACE PLANETS Atmospheres",
+      "0305 ATMOSPHERIC COMPOSITION AND STRUCTURE Aerosols and particles"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1068081",
+    "halId_s":"hal-01068081",
+    "title_s":"The Nearest Neighbor entropy estimate: an adequate tool for adaptive MCMC evaluation",
+    "abstract_s":"Many recent and often adaptive Markov Chain Monte Carlo (MCMC) methods are associated in practice to unknown rates of convergence. We propose a simulation-based methodology to estimate MCMC efficiency, grounded on a Kullback divergence criterion requiring an estimate of the entropy of the algorithm successive densities, computed from iid simulated chains. We recently proved in Chauveau and Vandekerkhove (2013) some consistency results in MCMC setup for an entropy estimate based on Monte-Carlo integration of a kernel density estimate based on Györfi and Van Der Meulen (1989). Since this estimate requires some tuning parameters and deteriorates as dimension increases, we investigate here an alternative estimation technique based on Nearest Neighbor estimates. This approach has been initiated by Kozachenko and Leonenko (1987) but used mostly in univariate situations until recently when entropy estimation has been considered in other fields like neuroscience. Theoretically, we prove that, under certain uniform control conditions, the successive densities of a generic class of Adaptive Metropolis-Hastings algorithms to which most of the strategies proposed in the recent literature belong can be estimated consistently with our method. We then show that in MCMC setup where moderate to large dimensions are common, this estimate seems appealing for both computational and operational considerations, and that the problem inherent to a non neglictible bias arising in high dimension can be overcome. All our algorithms for MCMC simulation and entropy estimation are implemented in an R package taking advantage of recent advances in high performance (parallel) computing.",
+    "keywords_joined":"Adaptive MCMC algorithms; Bayesian model; Entropy; Kullback divergence; Metropolis-Hastings algorithm; Nearest neighbor estimation; Nonparametric statistic",
+    "domain_codes":"math.math-st; stat.th",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01068081",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Didier",
+      "Pierre"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chauveau",
+      "Vandekerkhove"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Adaptive MCMC algorithms",
+      "Bayesian model",
+      "Entropy",
+      "Kullback divergence",
+      "Metropolis-Hastings algorithm",
+      "Nearest neighbor estimation",
+      "Nonparametric statistic"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1068317",
+    "halId_s":"hal-01068317",
+    "title_s":"Analysis of dissociated dislocations in a deformed bicrystal close to the rhombohedral twin orientation in -alumina",
+    "abstract_s":"A bicrystal close to a rhombohedral twin orientation in -alumina has been deformed by compression at high temperature. After deformation the twin contained a periodic array of intrinsic dislocations. This configuration is interpreted by the decomposition of incoming basal lattice dislocations into interfacial disconnections and further interactions between sessile and glissile products. The dislocations are widely dissociated and the separation width between partials being close to 30 angstrom. The translation state of the interfacial structure between partials is different from those of the perfect twin. Possible structural models are envisaged and simulated using ab initio calculations and the less efficient Streitz and Mintmire modelling. One model in particular fits the experimental image rather well. The interfacial energies are higher than those estimated using elasticity theory.",
+    "keywords_joined":"Alumina; Bicrystal; Dislocations; Dissociation; Grain boundary; Plasticity; Transmission electron microscopy",
+    "domain_codes":"spi.meca",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01068317",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "S.",
+      "Olivier",
+      "K.P.D.",
+      "S.",
+      "A."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Lartigue-Korinek",
+      "Hardouin Duparc",
+      "Lagerlof",
+      "Moulahem",
+      "Hallil"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Grain boundary",
+      "Alumina",
+      "Bicrystal",
+      "Plasticity",
+      "Dislocations",
+      "Dissociation",
+      "Transmission electron microscopy"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1075166",
+    "halId_s":"hal-01075166",
+    "title_s":"On the use of information theory for the generation of accelerograms compatible with specifications",
+    "abstract_s":"This research concerns the generation of seismic accelerograms compatible with physical properties, a given response spectrum and other design specifications. The accelerogram is modeled by a time series represented by a random vector in high dimension. The specifications related to the accelerograms are directly taken into account in the construction of the probability distribution of this random vector by using the Maximum Entropy (MaxEnt) principle under constraints defined by an appropriate available information. A new algorithm, adapted to the high stochastic dimension, is proposed to identify the Lagrange multipliers introduced in the MaxEnt principle to take into account the constraints. This algorithm is based on (1) the minimization of an appropriate convex functional and (2) the construction of the probability distribution defined as the invariant measure of an Itô Stochastic Differential Equation in order to estimate the integrals in high dimension of the problem. The algorithm is validated through an application for which the available information is related to the envelop of the accelerogram, statistics on the response spectrum, statistics on the Peak Ground Acceleration (PGA), statistics on the Cumulative Absolute Velocity (CAV), statistics on the Arias Intensity (AI), the end-velocity and the end-displacement.",
+    "keywords_joined":"Accelerograms; Earthquake; Generation of Accelerograms; Information theory; Maximum Entropy; Stochastic process",
+    "domain_codes":"spi.meca; math.math-pr; math.math-st",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01075166",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Anas",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Batou",
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Accelerograms",
+      "Earthquake",
+      "Stochastic process",
+      "Information theory",
+      "Maximum Entropy",
+      "Generation of Accelerograms"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1076408",
+    "halId_s":"halshs-01076408",
+    "title_s":"Consumer responses to elimination of overpackaging on private label products",
+    "abstract_s":"Purpose – Eliminating overpackaging is a central question in sustainable development, and poses a dilemma for retailers. Since packaging is a differentiation tool for private labels, eliminating it could limit the capacity to give those labels an equivalent image to national brands just as much as it could be a sustainable development opportunity and a positioning instrument. Drawing on the attribution theory framework, this article examines how eliminating overpackaging influences consumers’ perception of products sold under generic and mimic private labels, and their purchase intention. Methodology – This research uses a 2 (overpackaging: present vs. absent) x 2 (brand concept: generic vs. mimic private label) between-subjects experiment on a convenience sample of 217 French consumers. The conceptual framework was tested using ANCOVA and mediation analyses. Findings – Our experiment shows that eliminating overpackaging does have an influence on mimic private labels’ image, particularly on perceived quality, convenience and environmental friendliness. We also find that this influence negatively transfers to purchase intention for mimic private labels through lower perceived quality and convenience. No such effect appears for generic private labels’ image. Value – This study addresses an issue as yet unexplored in marketing – the effect of overpackaging on private label products – and proposes areas for managerial and societal reflection relevant to retail chains interested in eliminating overpackaging.",
+    "keywords_joined":"Consumer behaviour; Overpackaging; Packaging; Private label; Product image",
+    "domain_codes":"shs.gestion",
+    "discipline":"Marketing",
+    "url_primary":"https:\/\/hal.science\/halshs-01076408",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Elisa",
+      "Fanny",
+      "Béatrice"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Monnot",
+      "Reniou",
+      "Parguel"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Overpackaging",
+      "Packaging",
+      "Private label",
+      "Product image",
+      "Consumer behaviour"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1078652",
+    "halId_s":"hal-01078652",
+    "title_s":"MCMC2 (version 1.1): A Monte Carlo code for multiply-charged clusters",
+    "abstract_s":"This new version of the MCMC2 program for modeling the thermodynamic and structural properties ofmultiply-charged clusters by means of parallel classical Monte Carlo methods provides some enhancementsand corrections to the earlier version [1]. In particular, histograms for negatively and positivelycharged particles are separated, parallel Monte Carlo simulations can be performed by attempting exchangesbetween all the replica pairs and not only one randomly chosen pair, a new random numbergenerator is supplied, and the contribution of Coulomb repulsion to the total heat capacity is corrected.The main functionalities of the original MCMC2 code (e.g., potential-energy surfaces and Monte Carlo algorithms)have not been modified.",
+    "keywords_joined":"Charged clusters; Charged droplets; Coarse-grained models; Electrospray ionisation; Monte Carlo simulations; Parallel Charging; Parallel Tempering",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01078652",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "David",
+      "Marius",
+      "Marie-Pierre"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Bonhommeau",
+      "Lewerenz",
+      "Gaigeot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Parallel Charging",
+      "Parallel Tempering",
+      "Electrospray ionisation",
+      "Charged droplets",
+      "Charged clusters",
+      "Coarse-grained models",
+      "Monte Carlo simulations"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1078896",
+    "halId_s":"hal-01078896",
+    "title_s":"Are there Stable Excited Triplet States of NCS-\/CNS- and NCO-\/CNO-?",
+    "abstract_s":"Highly correlated ab initio wave functions within the UCCSD(T)-F12 approach have been used to map portions of the potential energy surfaces (PESs) and to study the stability of the first excited triplet states of the NCS-\/CNS- and NCO-\/CNO- anions. These a3Π states for linear geometries, or their 3A' and 3A\" bent components, correlate with the lowest dissociation asymptote of NCX- (X = S and O) along the NC-X coordinates. The X1Σ+ linear ground states of these anions are known to be stable with respect to dissociation to the X2Π ground state of the corresponding neutral molecule with a rather large electron affinity (EA). The a3Π state of the NCS- anion is positioned below the X state of the neutral at long NC-S distances and its minimum of energy is found for bent geometries. The stability of its two components in bent geometries has been investigated, and it is found that some anionic forms are stable with respect to the X state of the neutral. The linear CNS- and CNO- isomers present a minimum only at long CN-X distances, located below the minimum of their corresponding neutral CNX ground states.",
+    "keywords_joined":"Excited states; Molecular anions; Potential energy functions",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01078896\/file\/NCSm-article.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "D.",
+      "H.",
+      "K.",
+      "Gilberte"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Khiri",
+      "Gritli",
+      "Peterson",
+      "Chambaud"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Potential energy functions",
+      "Excited states",
+      "Molecular anions"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1081822",
+    "halId_s":"hal-01081822",
+    "title_s":"A history of basin inversion, scarp retreat and shallow denudation: The Araripe basin as a keystone for understanding long-term landscape evolution in NE Brazil",
+    "abstract_s":"At the border between the states of Ceará and Pernambuco (northeast Brazil), the Chapada do Araripe is a high plateau (800–1000 m a.s.l.) formed by a slab of Cenomanian fluvial sandstone. This caprock is underlain by lacustrine or marine Albian layers and older rift deposits. During the Cretaceous, the Araripe basin lay at a palaeoelevation close to sea-level. Through a presentation and discussion of original field and cartographic data we analyse the mechanisms of topographic inversion in this sedimentary basin in relation to local or regional crustal upwarp. The contrast between the plateau — a weakly dissected structural surface — and the surrounding lowlands is explained through a study of the erosional scarps — cuesta-like landforms and their outliers — that fringe the Chapada. No evidence of local tectonic inversion is found. River incision, spring sapping, landslides and other forms of mass movement are listed as efficient processes of topographic inversion and scarp retreat, the rates and patterns of which appear to be controlled by lithological contrasts and conditions of exhumation of the basement. Geometric relationships with regional stepped surfaces (e.g., the low-elevation Sertaneja Surface), exhumed palaeosurfaces and regional drainage systems are analysed. Our estimation of the amplitude of denudation and topographic inversion (0.6–0.7 km) differs significantly from apatite fission-track-derived estimates reported in recent literature, which would imply burial by considerable thicknesses of younger sediments followed by 1.5 km or more of post-rift denudation — not just in the study area, but also in the Tucano–Jatoba basin to the south. The exhumation and reworking of surrounding basement surfaces probably began during the early Cenozoic, as shown to the northwest of the Chapada by the presence of widespread laterites of probable Palaeogene age. A second stage of topographic inversion occurred during the Oligocene or later. This would correspond to the major stages of river incision, partial planation and basin inversion.",
+    "keywords_joined":"Denudation history; Palaeolandforms; Scarp retreat; Soil distribution; Topographic inversion",
+    "domain_codes":"sdu.stu.gm",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-3MFLQ21B-J\/fulltext.pdf?sid=hal",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Jean-Pierre",
+      "François"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peulvast",
+      "Bétard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Palaeolandforms",
+      "Topographic inversion",
+      "Denudation history",
+      "Soil distribution",
+      "Scarp retreat"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1081825",
+    "halId_s":"hal-01081825",
+    "title_s":"Late Cenozoic and present-day hillslope erosion dynamics in a passive margin context: stability or instability? Case studies in Northeast Brazil",
+    "abstract_s":"Steep slopes form the marginal scarp of the semi-arid northern Brazilian “Nordeste”, above depressions or corridors connected to a low erosion plain merging seaward with a coastal erosional-gradational piedmont. Dissected pediments and sparse debris fans visible at the base of some escarpments suggest recent erosive activity and possible slope retreat, although most of these forms are decoupled from major valleys. We describe the morphostructural patterns of chosen escarpments, in the basement as well as in the sedimentary cover, and the morphodynamic conditions of their evolution since the Miocene. Only a few scarps show strong structural control. Many of them are mainly inherited landforms, initiated during the Early Cretaceous rifting or the later margin uplift, a situation which suggests long-term stability. Later on, except in one case (the Araripe scarp), only slight or local backwearing took place, associated with downwearing on low surfaces and pediments, probably in diachronic ways. The Neogene clastic sedimentation on piedmonts and coastal areas mainly reflects the occurrence of dry periods inducing widespread stripping of deep soil horizons and erosion of bare rock slopes and surfaces. Dissection stages occurred in periods of more humid climate and\/or low sea level. Marks of strong recent of present activity are mainly registered in the rims of the Chapada do Araripe, owing to favourable structural, hydrogeological and climatic conditions. The moderate volumes of Neogene clastic sediments imply overall low uplift and erosion rates until the Present, favourable to morphological and lithological resistance effects in the landscapes. However, slope instabilities are not uncommon, locally leading to well characterized processes, landforms and deposits of gullying and mass wasting. Therefore, hazards related with slope processes never may be neglected, although only small scale events were recorded in recent times, and times of recurrence of larger events are probably much longer than the historic times.",
+    "keywords_joined":"Backwearing; Brazil; Downwearing; Hillslope landforms and processes; Mass wasting; Morphological resistance; Tropical geomorphology",
+    "domain_codes":"sdu.stu.gm",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01081825",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Jean-Pierre",
+      "François"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peulvast",
+      "Bétard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Tropical geomorphology",
+      "Backwearing",
+      "Hillslope landforms and processes",
+      "Brazil",
+      "Morphological resistance",
+      "Downwearing",
+      "Mass wasting"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1082459",
+    "halId_s":"hal-01082459",
+    "title_s":"Landforms and neotectonics in the equatorial passive margin of Brazil",
+    "abstract_s":"Neotectonic movements have been proposed in the literature in order to explain some landforms of the equatorial, passive margin of northeastern Brazil. Its seismo-tectonic activity is concentrated in a few sectors located on or near the coast. Active or recently active structures are mainly identified in Neogene deposits. Identifying a contribution of neotectonics to the morphogeny is difficult in a context where most major morphostructural patterns are explained by Cretaceous tectonics related to oceanic opening and by differential erosion induced by Tertiary epeirogenic uplift. We aim to assess the nature of features considered as possibly neotectonic in origin. Seismogenic faults are not related to significant topographic breaks, except on the coast, where they usually reach only a few meters in height. A study of landforms located near zones of seismo-tectonic activity indicates a possible, probably weak, contribution of neotectonics to the formation of a few high scarps. These scarps occur along or near fault zones reactivated in Cretaceous times. We conclude that neotectonic movements are the result of ongoing deformation along predominantly strike-slip fault zones, with long term deformation rates similar to those recorded by dated landmarks (0.01 mm.yr-1). Despite reported deformation rates that can amount in places to 0.4 mm.yr-1, neotectonic rates are lower than erosion rates. The consequence is that major structural landforms in the region mainly originated in Cretaceous to early Tertiary events.",
+    "keywords_joined":"Differential erosion; Fault scarp; Neotectonics; Passive margin; Seismicity",
+    "domain_codes":"sdu.stu.gm",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/www.tandfonline.com\/doi\/pdf\/10.3166\/ga.19.51-71?needAccess=true&role=button",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Jean-Pierre",
+      "Vanda",
+      "Francisco Hilario",
+      "Francois"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peulvast",
+      "Claudino Sales",
+      "Bezerra",
+      "Betard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Fault scarp",
+      "Neotectonics",
+      "Passive margin",
+      "Seismicity",
+      "Differential erosion"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1082502",
+    "halId_s":"hal-01082502",
+    "title_s":"Basin inversion, scarp retreat and soil distribution in the Araripe basin (northeast Brazil): implications for denudation history",
+    "abstract_s":"At the border between the Ceará, Piauí, and Pernambuco states (northeast Brazil), the high sandstone table called Chapada do Araripe overlooks lower and drier plateaus and depressions shaped into underlying post-rift and rift layers, in the east, or in the basement, to the west and south. The modes and rates of relief inversion that lead the upper layers of the Araripe basin to their culminating position are examined in relation with geological structure and regional uplift, through the presentation and discussion of morphostructural patterns and types of escarpments, differential erosion landforms, soil sequences, modalities of scarp retreat, and possible differential vertical movements (tectonic inversion). The geomorphic and pedological contrast between the plateau (a near-structural surface covered by Ferralsols) and its lower surroundings (either an exhumed Pre-Cenomanian paleosurface covered by Plinthosols, or lower surfaces with relatively immature soils of Luvisol type, often associated with Leptosols) is explained through a study of the evolution of the cuesta-like scarps or glints and outliers that fringe the chapada above sedimentary depressions and basement surfaces. A reconstruction of the conditions and chronology of relief inversion and corresponding area reduction is proposed, according to principles and methods of morphostratigraphy and morphopedology. It brings elements for discussing recently published models of episodic burial and exhumation history, based upon interpretations of thermochronological data obtained in nearby regions. This discussion also bears strong implications about long-term landform evolution in northeast Brazil and other passive margin areas. From a more general point of view, the present work is considered as a case study for analysing processes and rates of vertical erosion and scarp retreat in tropical tabular structures and sandstone plateaus.",
+    "keywords_joined":"Denudation history; Palaeolandforms; Relief inversion; Scarp retreat; Soil distribution",
+    "domain_codes":"sdu.stu.gm",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01082502",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Jean-Pierre",
+      "François"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peulvast",
+      "Bétard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Soil distribution",
+      "Relief inversion",
+      "Denudation history",
+      "Scarp retreat",
+      "Palaeolandforms"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1082504",
+    "halId_s":"hal-01082504",
+    "title_s":"High- and low-frequency morphodynamic events and natural risks in mountain catchments of the semi-arid Brazilian “Nordeste”: Crato (Ceará)",
+    "abstract_s":"Usually known as prone to severe droughts, the inner Northeast Brazil (“sertão”) is still hardly considered as an area of hazards and risks related to violent geodynamic events. However, such past or present phenomena are now recognized in a few narrow humid mountains exposed to the trade-winds, such as the eastern “Chapada do Araripe”, a high tabular sandstone plateau located at the border between the Ceará and Pernambuco states. Here, a 400-500 m high cuesta-like scarp covered by a dense forest overlooks drier dissected lowlands. The city of Crato (110,000 inhabitants) is built along one of its short rivers, the Rio Grangeiro, 4 km from the rim. Whereas existing works only bear on current and historically observed dynamics, flash-floods, gullying, and small-scale mass movements, we consider a wider range of geodynamic phenomena. So far, only the violent floods that periodically occur along the Grangeiro River have been taken into account in urban management, with the construction of a 2 km long concrete channel through the city. According to our analysis of climate-hydrological data over the last decade, big floods aggravated by this inadequate canalization have devastated the centre almost every year. Our study of landforms and deposits in the city and upstream also evidences largely distributed marks of past large-scale mass movements, debris flows, landslides, and even Sturzstrom. We show the importance of recurrent gravitational dynamics as usual processes in scarp evolution. Since such phenomena induced by favourable climatic and geological factors still might occur in a now densely populated area, and since some of them were catastrophic, they must be included in natural hazards and risks, in spite of the current lack of data on their chronology. Our first results justify further integrated studies of the past and current conditions of occurrence of both high frequency-low magnitude, and low frequency-extreme events identified through short-and long-terms records.",
+    "keywords_joined":"Floods; Hillslope dynamics; Mass movements; Natural hazards; Northeast Brazil",
+    "domain_codes":"sdu.stu.gm; sde.es",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01082504",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Alexsandra de Oliveira",
+      "Jean-Pierre",
+      "François"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Magalhães",
+      "Peulvast",
+      "Bétard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Northeast Brazil",
+      "Natural hazards",
+      "Mass movements",
+      "Floods",
+      "Hillslope dynamics"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1082513",
+    "halId_s":"hal-01082513",
+    "title_s":"The Chapada do Araripe (Northeast Brazil): shallow basin inversion, implications for regional uplift and denudation history",
+    "abstract_s":"At the border between the Ceará and Pernambuco states (northeast Brazil), the Chapada do Araripe is a high tabular plateau (900-1000 m a.s.l.) shaped into Cenomanian fluvial conglomerates and sandstones underlain by fossiliferous lacustrine or marine Albian layers. The Araripe basin lay at the time at a palaeoelevation close to palaeosea level. We analyse the mechanisms of relief inversion in the Araripe sedimentary basin in relation with local or regional crustal upwarp, in the light of original field and cartographic data. The contrast between the plateau – a near-structural surface – and the surrounding depressions is explained through a study of the erosion scarps that fringe the chapada above sedimentary depressions (east, southwest: segments with cuesta-like landforms and wide inland “peripheric” depressions; cuesta-like landforms and deep box-valleys without wide depressions) or basement surfaces (north, west, south: glints and outliers). No evidence of tectonic inversion is found. Sapping, landslides and other mass movements appear as common processes of relief inversion and scarp retreat, the rates and results of which appear to be controlled by sediment litholoy and paleolandforms of the rifted basement. Geometric relationships with regional stepped surfaces, in particular the low Sertaneja Surface, and exhumed paleosurfaces are analysed. Our estimation of the amplitude of relief inversion (0.6-0.7 km) differs significantly from AFT-derived estimates reported from Palaeozoic and Mesozoic sandstones, which would imply burial by a considerable thickness of younger section and, later, 1.5 km of post-rift denudation. The exhumation of surrounding basement surfaces probably began very early, as shown to the northwest of the chapada by the presence of widespread Palaeogene laterites. A later stage of basin topographic inversion, in the Oligocene and later, would correspond to the major stages of river incision, partial planation and basin inversion.",
+    "keywords_joined":"Brazil; Denudation depths; Laterites; Palaeolandforms; Relief inversion; Tectonics",
+    "domain_codes":"sdu.stu.gm",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01082513",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Jean-Pierre",
+      "Francois"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peulvast",
+      "Betard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Relief inversion",
+      "Tectonics",
+      "Denudation depths",
+      "Palaeolandforms",
+      "Laterites",
+      "Brazil"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1082533",
+    "halId_s":"hal-01082533",
+    "title_s":"Morphology of scarps and piedmonts on the equatorial passive margin of northeast Brazil: Neogene to present evolution and its factors",
+    "abstract_s":"Steep slopes form the marginal scarp of the semi-arid northern Brazilian “Nordeste” and bound inner residual plateaus and ridges rising up to 800-1,200 m. They overlook a low pediplain merging seaward with a well developed coastal erosional-gradational piedmont. Only a few of them coincide with geological contacts and\/or fault zones. Their location, their straight or sinuous outlines, and the presence or lack of residual landforms in front of them give indications on their origin and evolution. Dissected pediments and sparse debris fans visible at the base of some escarpments suggest recent erosive activity and possible slope retreat, although most of these forms are decoupled from major valleys. In order to understand scarp morphology and evolution in a context where various factors (lithology, neotectonics, climatic and eustatic changes) can be considered, we describe the morphostructural patterns of chosen escarpments, as well as the morphodynamic conditions of their evolution since the Neogene. Only a few scarps retained in our study show strong structural control. It could not be determined in all cases whether they are residual or active fault scarps, or fault-line scarps. Most of them, straight or sinuous, controlled or not by local structures, are mainly inherited landforms, initiated during the Cretaceous rifting (south of the Potiguar basin) or later. The Neogene clastic sedimentation on the piedmonts and on coastal areas probably reflect the occurrence of dry periods inducing widespread stripping of deep soil horizons and erosion of bare rock slopes and surfaces, even without tectonic forcing. Dissection stages occurred in periods of more humid climate and\/or low sea level. Only slight or local backwearing of slopes occurred, associated with downwearing on pediments, probably in diachronic ways. The moderate volumes of Neogene clastic sediments imply overall low uplift and erosion rates until the Present, still to be more precisely quantified, and favourable to morphological and lithological resistance effects in the landscapes.",
+    "keywords_joined":"Backwearing; Downwearing; Fault scarp; Marginal scarp; Neotectonics",
+    "domain_codes":"sdu.stu.gm",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01082533",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Jean-Pierre",
+      "Francois",
+      "Vanda"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peulvast",
+      "Betard",
+      "Claudino Sales"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Backwearing",
+      "Downwearing",
+      "Fault scarp",
+      "Marginal scarp",
+      "Neotectonics"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1082539",
+    "halId_s":"hal-01082539",
+    "title_s":"GIS and morphostructural mapping: a contribution to the morphotectonic study of the Baturité massif, Northeastern Brazil",
+    "abstract_s":"A method for regional-scale morphostructural mapping that is useful for morphotectonic studies in basement areas is presented for the Baturité massif, Northeastern Brazil. Belonging to an Early Cretaceous intracontinental rift shoulder and to the northern marginal scarp of the Brazilian “Nordeste”, this high plateau is suspected to be a residual relief preserved above a low regional planation surface (the Sertaneja pediplain) and the coastal piedmont, but tectonic controls on several of its outer border scarps cannot be excluded. In order to explain its outstanding position, we use a methodology consisting in integration of a wide set of digital data (SRTM DEM, geological maps, Landsat imagery, etc.) in a Geographic Information System that appears as a relevant technique to compare topographic features with geological structure. The results of the detailed morphostructural mapping reveal that differential erosion has played a predominant role in the geomorphic outlines of the Baturité massif. These observations confirm the incompatibility of important neotectonic movements in the relief differentiation. When replaced in its regional morphotectonic context, they rather suggest the partial preservation of the northwest shoulder of the Neocomian Potiguar rift, giving new constraints for a relevant modelling of the regional morphotectonic evolution.",
+    "keywords_joined":"GIS; Morphotectonic studies; Neotectonics; SRTM DEM; Structural geomorphology",
+    "domain_codes":"sdu.stu.gm",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01082539",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Francois",
+      "Jean-Pierre",
+      "Vanda"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Betard",
+      "Peulvast",
+      "Claudino Sales"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "GIS",
+      "SRTM DEM",
+      "Structural geomorphology",
+      "Morphotectonic studies",
+      "Neotectonics"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1082540",
+    "halId_s":"hal-01082540",
+    "title_s":"Reconstructing the morphotectonic evolution of passive margins: a morphogenetic study of the northern Brazilian “Nordeste”",
+    "abstract_s":"Rich in paleolandforms, the northern Brazilian “Nordeste” offers unique opportunities to reconstruct its history by morphostratigraphic methods, to obtain reliable timings and rates of morphotectonic evolution as well as depths of denudation, and to constrain available models of passive margins. Its relief reflects a complex geological history in which the most significant events are the Early Cretaceous rifting, followed by unequal post-rift subsidence, transform oceanic opening (Aptian-Albian), and formation of the margin, with differentiated evolution of compartments inherited from rifting and break-up patterns. On the basis of morphostructural data and of published stratigraphic and thermochronometric results, we propose a reconstruction of its evolution, illustrated by a series of sketch block-diagrammes, and an evaluation of the uplift and erosion values and rates. Through an analysis of the roles of tectono-eustatic controls and morphotectonic-climatic couplings, it offers new insights on the influence of superposed structural legacies in the geomorphic development and lateral variations of marginal escarpments. From our observations, northeastern Brazil appears as an ideal place for calibrating results of low temperature thermochronometry and for developing new conceptual models of morphotectonic evolution of passive margins and marginal scarps.",
+    "keywords_joined":"Denudation rates; Marginal scarp; Morphostratigraphy; Paleolandforms; Passive margin",
+    "domain_codes":"sdu.stu.gm",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01082540",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Jean-Pierre",
+      "Vanda",
+      "Francois"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peulvast",
+      "Claudino Sales",
+      "Betard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Denudation rates",
+      "Marginal scarp",
+      "Morphostratigraphy",
+      "Paleolandforms",
+      "Passive margin"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1083001",
+    "halId_s":"hal-01083001",
+    "title_s":"245 - A highly sensitive glucose electrode using glucose oxidase collagen film",
+    "abstract_s":"Industrially reconstituted collagen films have shown excellent prop­erties for beta-D-glucose oxidase coupling. Associated with a platinum anode for amperometric detection of hydrogen peroxide, these enzymatic films form a very simple and easy to handle glucose electrode; this device presents a very high sensitivity (ca. 10-8 M) giving responses proportional to glucose concentration over 5 orders of magnitude.",
+    "keywords_joined":"Amperometric biosensor; Biosensors; Collagen; Glocose oxidase",
+    "domain_codes":"chim.anal; sdv.bbm",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/api.istex.fr\/document\/6691CFECF2A230772693D6DFDE81EE4EE32E5AA7\/fulltext\/pdf?sid=hal",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Daniel",
+      "Robert",
+      "Pierre",
+      "Danièle"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot",
+      "Sternberg",
+      "Coulet",
+      "Gautheron"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Glocose oxidase",
+      "Amperometric biosensor",
+      "Collagen",
+      "Biosensors"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1083004",
+    "halId_s":"hal-01083004",
+    "title_s":"Electrochemical biosensors: Recommended definitions and classification (Technical Report)",
+    "abstract_s":"Two Divisions of the International Union of Pure and Applied Chemistry (IUPAC), namely Physical Chemistry (Commission I.7 on Biophysical Chemistry, formerly Steering Committee on Biophysical Chemistry) and Analytical Chemistry (Commission V.5 on Electroanalytical Chemistry), have prepared recommendations on the definition, classification and nomenclature related to electrochemical biosensors; these recommendations could, in the future, be extended to other types of biosensors.An electrochemical biosensor is a self-contained integrated device, which is capable of providing specific quantitative or semi-quantitative analytical information using a biological recognition element (biochemical receptor) which is retained in direct spatial contact with an electrochemical transduction element. Because of their ability to be repeatedly calibrated, we recommend that a biosensor should be clearly distinguished from a bioanalytical system, which requires additional processing steps, such as reagent addition. A device which is both disposable after one measurement, i.e. single use, and unable to monitor the analyte concentration continuously or after rapid and reproducible regeneration should be designated a single-use biosensor.Biosensors may be classified according to the biological specificity-conferring mechanism or, alternatively, the mode of physicochemical signal transduction. The biological recognition element may be based on a chemical reaction catalysed by, or on an equilibrium reaction with, macromolecules that have been isolated, engineered or present in their original biological environment. In the latter case, equilibrium is generally reached and there is no further, if any, net consumption of analyte(s) by the immobilized biocomplexing agent incorporated into the sensor. Biosensors may be further classified according to the analytes or reactions that they monitor: direct monitoring of analyte concentration or of reactions producing or consuming such analytes; alternatively, an indirect monitoring of inhibitor or activator of the biologicalrecognition element (biochemical receptor) may be achieved.A rapid proliferation of biosensors and their diversity has led to a lack of rigour in defining their performance criteria. Although each biosensor can only truly be evaluated for a particular application, it is still useful to examine how standard protocols for performance criteria may be defined in accordance with standard IUPAC protocols or definitions. Thesecriteria are recommended for authors, referees and educators and include calibration characteristics (sensitivity, operational and linear concentration range, detection and quantitative determination limits), selectivity, steady-state and transient response times, sample throughput, reproducibility, stability and lifetime.Republication or reproduction of this report or its storage and\/or dissemination by electronic means is permitted without the need for formal IUPAC permission on condition that an acknowledgement, with full reference to the source along with use of the copyright symbol q, the name IUPAC and the year of publication are prominently visible. Publication of a translation into another language is subject to the additional condition of prior approval from the relevant IUPAC National Adhering Organization.",
+    "keywords_joined":"Classification; Definition; Electrochemical biosensor",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083004",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Daniel",
+      "Klara",
+      "Richard",
+      "George"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot",
+      "Toth",
+      "Durst",
+      "Wilson"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Electrochemical biosensor",
+      "Classification",
+      "Definition"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1083007",
+    "halId_s":"hal-01083007",
+    "title_s":"Problems in Adapting a Glucose-Oxidase Electrochemical Sensor into an Implantable Glucose-Sensing Device",
+    "abstract_s":"Taking into account the analytic patterns of different types of glucose-oxidase electrochemical sensors, the specific problems which have to be solved for such a sensor to be implantable are outlined. Of partic-ular interest is the lifetime of enzymatic membrane and the dependence of the sensor responses to oxygen concentration and hydrodynamics.",
+    "keywords_joined":"Electrochemical biosensor; Glucose; Glucose oxidase; Implantable sensor",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083007",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Daniel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Electrochemical biosensor",
+      "Implantable sensor",
+      "Glucose",
+      "Glucose oxidase"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1083014",
+    "halId_s":"hal-01083014",
+    "title_s":"A glucose electrode using high-stability glucose-oxidase collagen membranes",
+    "abstract_s":"A very sensitive glucose electrode was developed using a glucose-oxidase membrane and an anodically polarized platinum disk. Calibration curves were linear over 4.5 concentration decades. It was adapted for human blood samples. The lifetime of glucose-oxidase collagen membranes was greater than 3 yr at 4°C and was ~ 6 month at 20-30°C.",
+    "keywords_joined":"Electrochemical biosensor; Glucose; Glucose oxidase",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083014",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Daniel",
+      "Robert",
+      "Pierre"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot",
+      "Sternberg",
+      "Coulet"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Electrochemical biosensor",
+      "Glucose",
+      "Glucose oxidase"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1083157",
+    "halId_s":"hal-01083157",
+    "title_s":"From Alchemy to modern Chemistry: the concept of Chemical binding",
+    "abstract_s":"A wide panorama is presented from the very beginning of chemistry to the present state of theoretical chemistry. The successive models are described that contributed to the elaboration of the modern theory including the intermediate concepts based on the discovery of the atoms, of the molecules and of the electrons on which could be built quantum chemistry. A brief survey of the state of the art in theoretical chemistry follows.",
+    "keywords_joined":"Chemical bond concepts; Chemistry history",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083157",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Gilberte"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chambaud"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Chemistry history",
+      "Chemical bond concepts"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1083160",
+    "halId_s":"hal-01083160",
+    "title_s":"Is C2 a nucleophilic or an electrophilic system?",
+    "abstract_s":"Highly correlated ab-initio wavefunctions within the MRCI and UCCSD(T)-F12 formalisms are used to study the long range interactions and the reactive path between C2 and the three hydrogen halides HX (X = F, Cl, Br). The asymptotic regions are investigated for different relative orientations of the two moieties. It is shown that the three van der Waals systems C2 + HX are bound through nucleophilic interactions between C2 and HX for approaches perpendicular to the C-C axis, with decreasing interaction energies from HF to HBr. For HX approaching C2 along its axis, the van der Waals interactions, governed by the electrophilic character of C2 are weaker, with decreasing interaction energies from HBr to HF. Activation barriers towards the molecular systems HCCX or CCHX (0.64 eV and more) are calculated at short distances, making difficult the reaction towards the corresponding tetra-atomic systems.",
+    "keywords_joined":"Long range interactions; Potential energy functions",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083160",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Gilberte",
+      "D."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chambaud",
+      "Khiri"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Long range interactions",
+      "Potential energy functions"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1083743",
+    "halId_s":"hal-01083743",
+    "title_s":"Optimization of the optical particle properties for a high temperature solar particle receiver,",
+    "abstract_s":"A non-homogeneous slab of particle dispersion composed of two-layers at high temperature, submitted to a concentrated and collimated solar radiation flux with a reflective receiver bottom wall is considered as a model of a solar particle receiver. The Radiative Transfer Equation (RTE) is solved using a twostream method and an appropriate hybrid modified Eddington-delta function approximation. The single particle optical properties are modeled using the Lorenz-Mie theory, the single particle phase function is approximated by the Henyey-Greenstein phase function. A Particle Swarm Optimization (PSO) algorithm is used to optimize the particle radius (0.1 μm ≤ r ≤ 100 μm), the volume fraction (1 × 10−7 ≤ fv ≤ 1 × 10−4) and the refractive index (2.0 ≤ n ≤ 4.5 and 0.0001 ≤ k ≤ 25) of an ideal theoretical material to use in a solar particle receiver. Single- and two-layer receivers with known temperature profiles were optimized to maximize the receiver efficiencies. Spectral selective behavior of the optimized refractive index is discussed with the influence of particle radii and volume fractions. The theoretical ideal optical properties found for the particles have given the maximum efficiency reachable by the studied receivers and have shown that an optimized single-layer receiver will perform as well as a two-layer receiver.",
+    "keywords_joined":"High temperature; Receiver efficiency; Solar particle receiver",
+    "domain_codes":"phys.meca.ther",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-KWG6N0X1-V\/fulltext.pdf?sid=hal",
+    "authOrganismId_i":[
+      441569
+    ],
+    "authFirstName_s":[
+      "F.",
+      "Cyril",
+      "Françoise",
+      "Guy"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Ordonez",
+      "Caliot",
+      "Bataille",
+      "Lauriat"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":[
+      "Centre National de la Recherche Scientifique"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Solar particle receiver",
+      "Receiver efficiency",
+      "High temperature"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1084520",
+    "halId_s":"hal-01084520",
+    "title_s":"Relation between redox potential and oxygen levels in activated-sludge reactors",
+    "abstract_s":"The importance of dissolved oxygen level in determining the platinum electrode potential in activated sludge has been clearly demonstrated by current-potential curves plotted at different oxygen concentration. Tests have been carried out, in the laboratory and in full scale treatment plants, to define the relationship between the platinum electrode potential at equilibrium (Eh) and the dissolved oxvgen [02) concentration in the activated sIudqe. These two parameters obey a law in the form Eh = a + b log [O2]. The measured values of coefficients a and b differ widely to those found from the oxygen reduction reaction in water (a = 0.8 V at pH 7 and b = 15 mV per decade). Factors a and b mainly depend on the sludge loading, the aeration conditions and the sludge concentration. Using non-polished stationary platinum ring electrodes, the following values of a were obtained (at pH between 7 and 7.6): + 410 mV\/NHE for sludge aerated for several hours without feeding, + 265 mV\/NHE for over-aerated\/low-loaded sludge (Cm = 0.2 kg BOD.kg MLVSS-1.day-1). Factor b would seem to lie between 55 and 65 mV when the sludge is continuously aerated without feeding. At low loads with excess aeration, it lies between 70 and 90 mV. When the medium is slightly septic at low dissolved oxygen concentrations (insufficient daily aeration time, high sludge concentration or aerators shut down for too long periods), factor b increases and can reach 200 mV. In the same way, at high loads, factor b can become 150 mV. These results demonstrate the importance of dissolved oxygen concentration in the mechanisms which determine the metal electrode potentials in activated sludge. They also illustrate the role that the electroactive species play in the process. The type and concentration of these species depend on parameters such as the sludge loading, the overall oxygen supply, the aeration sequence and the sludge concentration.",
+    "keywords_joined":"Activated sludge; Control; Instrumentation; Oxygen; Redox potential; Waste water treatment plant",
+    "domain_codes":"sde; chim.anal",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01084520",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Alain",
+      "Daniel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Heduit",
+      "Thevenot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Control",
+      "Instrumentation",
+      "Waste water treatment plant",
+      "Oxygen",
+      "Activated sludge",
+      "Redox potential"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1084536",
+    "halId_s":"hal-00869727",
+    "title_s":"Directed connected operators: Asymmetric hierarchies for image filtering and segmentation",
+    "abstract_s":"Connected operators provide well-established solutions for digital image processing, typically in conjunction with hierarchical schemes. In graph-based frameworks, such operators basically rely on symmetric adjacency relations between pixels. In this article, we introduce a notion of directed connected operators for hierarchical image processing, by also considering non-symmetric adjacency relations. The induced image representation models are no longer partition hierarchies (i.e., trees), but directed acyclic graphs that generalize standard morphological tree structures such as component trees, binary partition trees or hierarchical watersheds. We describe how to efficiently build and handle these richer data structures, and we illustrate the versatility of the proposed framework in image filtering and image segmentation.",
+    "keywords_joined":"Antiextensive filtering; Connected operators; Hierarchical image representation; Mathematical morphology; Segmentation",
+    "domain_codes":"info.info-ti; info.info-cv",
+    "discipline":"Computer Science",
+    "url_primary":"http:\/\/hal.inria.fr\/docs\/00\/86\/97\/27\/PDF\/internalReport-DirectedConnectedOperators.pdf",
+    "authOrganismId_i":[
+      7569
+    ],
+    "authFirstName_s":[
+      "Benjamin",
+      "Jean",
+      "Olena",
+      "Hugues",
+      "Nicolas"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Perret",
+      "Cousty",
+      "Tankyevych",
+      "Talbot",
+      "Passat"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":[
+      "Université de Reims Champagne-Ardenne"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Mathematical morphology",
+      "Segmentation",
+      "Antiextensive filtering",
+      "Hierarchical image representation",
+      "Connected operators"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1084567",
+    "halId_s":"hal-01084567",
+    "title_s":"Toxic metals in urban runoff: physico-chemical mobility assessment using speciation schemes",
+    "abstract_s":"Physico-chemical characterization of lead, zinc and cadmium has been carried out on eight samples from both separate and combined sewers. Dissolved and particulate total metal levels have been determined. A speciation scheme has been used ta further divide these phases in two dissolved fractions, bioavailable and stable, and five particulate fractions, ion-exchangeable, acid-soluble, reducible, oxidizable and residual. TotaJ dissolved lead concentrations were found ta be largely below European Community (EC) directives for drinking water production. Lead was represented by stable forms while zinc and cadmium were mainly bioavailable. Particulate concentrations were higher than naturallevels found in the Seine-Nolmandie basin. Zinc was characteristic for municipal effluents, and lead and cadmium were more concentrated in separate sewers. Correlations have been observed between particulate heavy metals and volatile matter on the ring highway, or with iron at the Savigny site. The particulate meral speciation scheme has demonstrated the important dependence of heavy metal distribution on the sampling site, as weil as the potentially more mobile nature of zinc and cadmium, compared to that of lead. The structural modifications undergone by solids during their transport along the sewer networks had a significant impact on particulate metal mobility. This has been clearly noted for lead, whose mobility decreased from upstream ta downstream in the studied system.",
+    "keywords_joined":"Combined sewer overflow; Detention pond; Heavy metals; Impact; Pollution; Sediment; Speciation; Storm sewer overflow",
+    "domain_codes":"sde",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01084567",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Julio",
+      "Anne-Laure",
+      "Daniel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Flores-Rodrîguez",
+      "Bussy",
+      "Thevenot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "crp"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Impact",
+      "Heavy metals",
+      "Pollution",
+      "Storm sewer overflow",
+      "Combined sewer overflow",
+      "Detention pond",
+      "Sediment",
+      "Speciation"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1084657",
+    "halId_s":"hal-01084657",
+    "title_s":"Influence of calcium on glucose biosensor response and on hydrogen peroxide detection",
+    "abstract_s":"Of small species capable of reaching a platinum working electrode from biological samples, calcium cations have been found to inhibit significantly glucose biosensor responses. The sensitivities to glucose of sensors immersed in carbonate buffer saline solutions decreased when 0.5 mM calcium chloride was added. The degree of inhibition was proportional to the glucose response in the absence of calcium (0-17% of the normalized current). Likewise, sensor sensitivities to hydrogen peroxide decreased, in the 5-90% range, in the presence of 0.5 mM calcium. Bare Pt-Ir wires show a reversible inhibition of hydrogen peroxide sensitivity. This reversible inhibition is directly related to the decrease of hydrogen peroxide oxidation rate at the platinum anode: this has been evidenced, using rotating disk electrodes, by plotting Koutecky-Levich plots. Such inhibition has been found both for free and chelated calcium cations at levels below 1 mM. Several hypotheses for possible reactions between platinum, hydrogen per-oxide and calcium are discussed.",
+    "keywords_joined":"Calcium; Glucose sensor; Hydrogen peroxide; Koutecky-Levich plots; Platinum",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-BJW07D28-5\/fulltext.pdf?sid=hal",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Nathalie",
+      "Daniel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Labat-Allietta",
+      "Thevenot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "crp"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Glucose sensor",
+      "Calcium",
+      "Hydrogen peroxide",
+      "Koutecky-Levich plots",
+      "Platinum"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1084678",
+    "halId_s":"hal-01084678",
+    "title_s":"Electrochemical biosensors: recommended definitions and classification",
+    "abstract_s":"Two Divisions of the International Union of Pure and Applied Chemistry (IUPAC), namely Physical Chemistry (Commission I.7 on Biophysical Chemistry formerly Steering Committee on Biophysical Chemistry) and Analytical Chemistry (Commission V.5 on Electroanalytical Chemistry) have prepared recommendations on the definition, classification and nomenclature related to electrochemical biosensors; these recommendations could, in the future, be extended to other types of biosensors. An electrochem-ical biosensor is a self-contained integrated device, which is capable of providing specific quantitative or semi-quantitative analytical information using a biological recognition element (biochemical receptor) which is retained in direct spatial contact with an electrochemical transduction element. Because of their ability to be repeatedly calibrated, we recommend that a biosensor should be clearly distinguished from a bioanalytical system, which requires additional processing steps, such as reagent addition. A device that is both disposable after one measurement, i.e. single use, and unable to monitor the analyte concentration continuously or after rapid and reproducible regeneration, should be designated a single use biosensor. Biosensors may be classified according to the biological specificity-conferring mechanism or, alternatively, to the mode of physico-chemical signal transduction. The biological recognition element may be based on a chemical reaction catalysed by, or on an equilibrium reaction with macromolecules that have been isolated, engineered or present in their original biological environment. In the latter cases, equilibrium is generally reached and there is no further, if any, net consumption of analyte(s) by the immobilized biocomplexing agent incorporated into the sensor. Biosensors may be further classified according to the analytes or reactions that they monitor: direct monitoring of analyte concentration or of reactions producing or consuming such analytes; alternatively, an indirect monitoring of inhibitor or activator of the biological recognition element (biochemical receptor) may be achieved. A rapid proliferation of biosensors and their diversity has led to a lack of rigour in defining their performance criteria. Although each biosensor can only truly be evaluated for a particular application, it is still useful to examine how standard protocols for performance criteria may be defined in accordance with standard IUPAC protocols or definitions. These criteria are recommended for authors, referees and educators and include calibration characteristics (sensitivity, operational and linear concentration range, detection and quantitative determination limits), selectivity, steady-state and transient response times, sample throughput, reproducibility, stability and lifetime.",
+    "keywords_joined":"Analytes; Calibration characteristics; Definition; Electrochemical biosensor; Performance criteria; Single use biosensor",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/kuscholarworks.ku.edu\/bitstream\/1808\/8413\/1\/Wilson_1999_Electrochemical%20Biosensors.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Daniel",
+      "Klara",
+      "Richard",
+      "George"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot",
+      "Toth",
+      "Durst",
+      "Wilson"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Electrochemical biosensor",
+      "Definition",
+      "Single use biosensor",
+      "Calibration characteristics",
+      "Performance criteria",
+      "Analytes"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1086746",
+    "halId_s":"hal-01086746",
+    "title_s":"Critical budget of metal sources and pathways in the Seine River basin (1994–2003) for Cd, Cr, Cu, Hg, Ni, Pb and Zn",
+    "abstract_s":"River basin metal pollution originates from heavy industries (plating, automobile) and from urban sources (Paris conurbation: 2740 km2 , 9.47 million inhabitants). The natural sources of metal have been found to be limited due to sedimentary nature of this catchment and to the very low river sediment transport (10 t km − 2 y − 1). Several types of data have been collected to build the metal budget within the whole Seine River basin: field surveys, economical statistics and environmental models. Environmental contamination and related fluxes have been measured on atmospheric fallout, rural streams particles, and Seine River particles upstream and downstream of Paris and at river mouth. Metal pathways and budgets have been set up for (i) a typical cultivated area, (ii) a Paris combined sewer system, (iii) Paris conurbation and (iv) the whole catchment metal retention effect in floodplain and dredged material. Metal fluxes to the estuary have been decomposed into natural, urban domestic and other sources. The latter are within 1–2 orders of magnitude larger than waste water fluxes directly released into rivers according to an industrial census. These fluxes have been further compared to the annual use (1994–2003) of these metals. Metal excess fluxes exported by the river are now a marginal leak of metal inputs to the catchment (i.e. \"raw\" metals, metals in goods, atmospheric fallout), generally from 0.2 to 5‰. However, due to the very limited dilution power in this basin, the contamination of particles is still relatively high. The Seine River basin is gradually storing metals, mostly in manufactured products used in construction, but also in various waste dumps, industrial soils, agricultural and flood plain soils.",
+    "keywords_joined":"Budget; Cd; Cr; Cu; Heavy metals; Hg; Ni; Pb; River; Seine; Zn",
+    "domain_codes":"sde; chim.inor; chim.anal; sde.es; shs.envir",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal-enpc.archives-ouvertes.fr\/hal-01086746\/file\/Thevenot-STOTEN-Critical-Budget-2007-375-180-203.pdf",
+    "authOrganismId_i":[
+      0
+    ],
+    "authFirstName_s":[
+      "Daniel",
+      "Régis",
+      "Laurence",
+      "Marie-Christine",
+      "Vincent",
+      "Philippe",
+      "Philippe",
+      "Jean-Louis",
+      "Claire",
+      "Michel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot",
+      "Moilleron",
+      "Lestel",
+      "Gromaire",
+      "Rocher",
+      "Cambier",
+      "Bonté",
+      "Colin",
+      "de Pontevès",
+      "Meybeck"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Cr",
+      "Cu",
+      "Cd",
+      "Zn",
+      "Hg",
+      "Pb",
+      "Heavy metals",
+      "Budget",
+      "Seine",
+      "River",
+      "Ni"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1086752",
+    "halId_s":"hal-01086752",
+    "title_s":"Trace metal determination in total atmospheric deposition in rural and urban areas",
+    "abstract_s":"The wet, dry and total atmospheric depositions of some metals (Al, Cd, Cr, Cu, Fe, Na, Pb and Zn) were sampled at two sites and atmospheric fallout fluxes were determined for these locations. This work, led by two different research groups, allowed to reach two main goals: to define a simple analytical procedure to secure accurate shipboard sampling and analysis of atmospheric deposition, and to assess anthropogenic impacts of heavy metals to the environment. The first step about the validation step showed that the prevalent deposition type was dry deposition which represents 40, 60 and 80% for Cd, Cu and Pb, respectively. This prevalence of dry deposition in total atmospheric fallout supported the necessity of funnel wall rinsing which contains 30, 50 and 40% of collected Cd, Cu and Pb, respectively. Moreover, the reproducibility of atmospheric deposition collection was determined. The second step was performed by comparing two sampling sites. A rural sampling site, situated in Morvan's regional park (250 km south-east of Paris), was chosen for its isolation from any local and regional contamination sources. Fluxes obtained in this area were compared with those obtained at an urban site (Creteil, suburb of Paris) allowing comparison between urban and rural areas and demonstrating the impact of anthropogenic activities on atmospheric deposition of Cr, Cu and Pb.",
+    "keywords_joined":"Anthropogenic impacts; Atmospheric fallout; Sampling procedures; Trace elements",
+    "domain_codes":"sde; chim.anal; sde.es; spi",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal-enpc.archives-ouvertes.fr\/hal-01086752\/file\/Azimi-Total-Atm-Deposition-STOTEN-2003-308-247-256.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Sam",
+      "Alexandre",
+      "Daniel",
+      "Jean-Louis"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Azimi",
+      "Ludwig",
+      "Thevenot",
+      "Colin"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "crp",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Anthropogenic impacts",
+      "Sampling procedures",
+      "Atmospheric fallout",
+      "Trace elements"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1087358",
+    "halId_s":"hal-01087358",
+    "title_s":"Ab initio investigations on the CaO<sup>2+<\/sup> dication",
+    "abstract_s":"The low-lying electronic states of the CaO2+ dication are investigated using high level ab initio calculations. The electronic states converging to the first and third dissociation limits are found to be thermochemically stable, with dissociation energies ranging from 0.17 eV to 0.83 eV. The electronic ground state is of 3Sigma− nature and the adiabatic double ionization energy of CaO is computed at 21.16 eV. The main spectroscopic constants of the five low-lying bound electronic states of CaO2+ are reported. The spin-orbit coupling terms related to the X3Sigma− and A3Pi states are computed and used to calculate the vibronic levels of these states.",
+    "keywords_joined":"CaO; Calcium monoxide; MRCI+Q; Spin–orbit coupling; Stable dication; Vibronic states",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-9RPVHCRF-K\/fulltext.pdf?sid=hal",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "V.",
+      "Frédéric",
+      "Céline"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Brites",
+      "Le Quéré",
+      "Léonard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Vibronic states",
+      "Spin–orbit coupling",
+      "MRCI+Q",
+      "Stable dication",
+      "CaO",
+      "Calcium monoxide"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1088019",
+    "halId_s":"hal-01088019",
+    "title_s":"Nanocomposites of Silica Reinforced Polypropylene: Correlation Between Morphology and Properties",
+    "abstract_s":"Polypropylene\/fumed hydrophilic silica nanocomposites were prepared via melt mixing method using a single-screw extruder. Comparative study with and without compatibilizing copolymer agent (maleic anhydride grafted polypropylene: PP-g-AM) was conducted. The obtained results were interpreted in terms of silica nanoparticle-silica nanoparticle and silica nanoparticle-polymer interactions. These results have shown that the addition of nanofillers improves the properties of the nanocomposites. From transmission electron microscopy, it was found that agglomerations of silica particles into the PP matrix increased in average size with increasing silica contents, except in presence of the copolymer. Storage modulus values of the nanocomposites measured by dynamic mechanical thermal analysis were sensitive to the microstructure of the nanocomposites. Higher silica contents resulted in higher storage modulus, revealing that the material became stiffer. By adding the compatibilizer, a further increase of storage modulus was observed due to the finer dispersion of the filler in the matrix and the increased interfacial adhesion. Crystallization rates were found to increase with the increase of silica nanoparticles as well as PP-g-MA content. In addition, silica nanoparticles and the compatibilizing agent present centers of germination and nucleation of crystallites. Thus, the use of the coupling agent resulted in a further enhancement of mechanical properties of the nanocomposites due to the reduction of silica agglomeration.",
+    "keywords_joined":"BLENDS; CARBON NANOTUBES; CLAY NANOCOMPOSITES; COMPOSITES; CRYSTALLIZATION; GAS BARRIER PROPERTIES; MECHANICAL-PROPERTIES; NANOPARTICLES; POLYMER; SILANE-GRAFTED POLYPROPYLENE",
+    "domain_codes":"chim.poly; chim.mate",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/WNG-XS6VKPN7-F\/fulltext.pdf?sid=hal",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "A.",
+      "M.",
+      "Florent",
+      "Valérie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Bouaziz",
+      "Jaziri",
+      "Dalmas",
+      "Massardier"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "SILANE-GRAFTED POLYPROPYLENE",
+      "GAS BARRIER PROPERTIES",
+      "MECHANICAL-PROPERTIES",
+      "CLAY NANOCOMPOSITES",
+      "CARBON NANOTUBES",
+      "POLYMER",
+      "COMPOSITES",
+      "BLENDS",
+      "NANOPARTICLES",
+      "CRYSTALLIZATION"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1088866",
+    "halId_s":"hal-01088866",
+    "title_s":"Formation of analogs of cometary nitrogen-rich refractory organics from thermal degradation of tholin and hcn polymer",
+    "abstract_s":"Nitrogen-rich refractory organics are scarce phases recovered as a fraction of stratospheric IDPs and constitute the bulk of the organic matter of some ultracarbonaceous Antarctic micrometeorites. They are likely formed under very specific conditions within a nitrogen-rich environment and may provide valuable clues on the origin of the population of interplanetary dusts accreted by Earth. In this study, we produced relevant analogs of such refractory organics characterized in three ultracarbonaceous Antarctic micrometeorites, starting from the carbonization of an HCN polymer and a tholin. Indeed, carbonization is a process that can increase the polyaromatic character toward a structure similar to that observed in these cosmomaterials. Both these precursors were degraded in an Ar atmosphere at 300, 500, 700 and 1000°C over ∼1 hour and characterized by elemental analysis, micro-FTIR and Raman micro-spectroscopy (at 244 and 514 nm excitation wavelengths). Our results show that the precursors evolve along distinct chemical and structural pathways during carbonization and that the influence of the precursor structure is still very strong at 1000°C. Interestingly, these different carbonization routes appear in the spectral characteristics of the G and D bands of their Raman spectra. Several of the residues present chemical and structural similarities with three recently studied ultracarbonaceous micrometeorites [Dobrica et al. (2011)Meteoritics Planet. Sci.46, 1363; Dartois et al. (2013)Icarus224, 243] and with N-rich inclusions in stratospheric IDPs. However the residues do not simultaneously account for the carbon structure (Raman) and the chemical composition (IR, N\/C ratio). This indicates that the precursors and\/or heating conditions in our experiments are not fully relevant. Despite this lack of full relevancy, the formation of a polyaromatic structure fairly similar to that of UCAMMs and IDPs suggests that the origin of N-rich refractory organics lies in a thermal process in the proto-solar disk, however radiolysis cannot be excluded.",
+    "keywords_joined":"Comets; Cosmochemistry; Interplanetary dust; Organic chemistry; Solar nebula",
+    "domain_codes":"phys.phys.phys-ao-ph",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-40W07G3C-2\/fulltext.pdf?sid=hal",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Jean-Yves",
+      "Eric",
+      "Arnaud",
+      "Roland",
+      "Cyril",
+      "Nathalie",
+      "Guy",
+      "Nicolas",
+      "Hervé",
+      "Léna",
+      "Gilles",
+      "Emmanuel",
+      "Rosario",
+      "Cécile",
+      "Jean"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Bonnet",
+      "Quirico",
+      "Buch",
+      "Thissen",
+      "Szopa",
+      "Carrasco",
+      "Cernogora",
+      "Fray",
+      "Cottin",
+      "Le Roy",
+      "Montagnac",
+      "Dartois",
+      "Brunetto",
+      "Engrand",
+      "Duprat"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Cosmochemistry",
+      "Organic chemistry",
+      "Solar nebula",
+      "Comets",
+      "Interplanetary dust"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1090627",
+    "halId_s":"hal-01090627",
+    "title_s":"A Stretching Algorithm for Parallel Real-time DAG Tasks on Multiprocessor Systems",
+    "abstract_s":"Parallelism is becoming more important nowadays due to the increasing use of multiprocessor systems. In this paper, we study the problem of scheduling periodic parallel real-time Directed Acyclic graph (DAG) tasks on m homogeneous multiprocessor systems. A DAG task is an example of inter-subtask parallelism. It consists of a collection of dependent subtasks under precedence constraints. The dependencies between subtasks make scheduling process more challenging. We propose a stretching algorithm applied on each DAG tasks to transform them into a set of independent sequential threads with intermediate offsets and deadlines. The threads obtained with the transformation are two types, (i) fully-stretched master threads with utilization equal to 1 and (ii) constrained-deadline independent threads. The fully-stretched master threads are assigned to dedicated processors and the remaining processors m' ≤ m, are scheduled using global EDF scheduling algorithm. Then, we prove that preemptive global EDF scheduling of stretched threads has a resource augmentation bound equal to (3+ √ 5)\/2 for all tasksets with n < ϕ * m , where n is the number of tasks in the taskset and ϕ is the golden ratio 1 .",
+    "keywords_joined":"Directed Acyclic Graphs; Global EDF scheduling; Parallel tasks; Real-time scheduling; Speedup factor",
+    "domain_codes":"info; info.info-ds; info.info-dc",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01090627\/file\/ManarQamhieh_RTNS2014.pdf",
+    "authOrganismId_i":[
+      302035
+    ],
+    "authFirstName_s":[
+      "Manar",
+      "Laurent",
+      "Serge"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Qamhieh",
+      "George",
+      "Midonnet"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":[
+      "ESIEE Paris"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Speedup factor",
+      "Global EDF scheduling",
+      "Directed Acyclic Graphs",
+      "Parallel tasks",
+      "Real-time scheduling"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1090755",
+    "halId_s":"hal-01090755",
+    "title_s":"Discrete curvature: theory and applications",
+    "abstract_s":"The present volume contains the proceedings of the 2013 Meeting on discrete curvature, held at CIRM, Luminy, France. The aim of this meeting was to bring together researchers from various backgrounds, ranging from mathematics to computer science, with a focus on both theory and applications. With 27 invited talks and 8 posters, the conference attracted 70 researchers from all over the world. The challenge of finding a common ground on the topic of discrete curvature was met with success, and these proceedings are a testimony of this work",
+    "keywords_joined":"Digital geometry; Discrete calculus; Discrete curvature; Geometry; Integrable theory; Laplace-Beltrami operator; Optimal transport",
+    "domain_codes":"math.math-dg; info.info-dm",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01090755",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Laurent",
+      "Pascal"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Najman",
+      "Romon"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "sad",
+      "sad"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Digital geometry",
+      "Integrable theory",
+      "Laplace-Beltrami operator",
+      "Optimal transport",
+      "Geometry",
+      "Discrete calculus",
+      "Discrete curvature"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1092881",
+    "halId_s":"hal-01092881",
+    "title_s":"Cicero as User and Critic of Traditional Rhetorical Patterns: Structural Authority from De inuentione to De oratore",
+    "abstract_s":"Cet article démontre que l’organisation des premiers traités rhétoriques latins (Rhétorique à Herennius, De inventione) ne se contente pas de reproduire des structures traditionnelles de présentation, mais qu’elle fait un usage stratégique des modes de prescription dont elle hérite. En reprenant et en adaptant des structures éprouvées, en exploitant des effets de liste et en s’appuyant sur des références textuelles reconnues, ces traités cherchent à produire des effets d’autorité et à valider les choix théoriques effectués par leurs auteurs.",
+    "keywords_joined":"Oratory; Rhetoric",
+    "domain_codes":"shs.class",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01092881",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Charles"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Guérin"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Rhetoric",
+      "Oratory"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1094204",
+    "halId_s":"hal-01094204",
+    "title_s":"Role of size and shape selectivity in interaction between gold nanoclusters and imidazole: a theoretical study",
+    "abstract_s":"We present a theoretical study on the structure, stability, spectra and electronic properties of imidazole (Im) adsorbed on gold nanoclusters (Aun, n = 2, 4, 6, 8, 10, and 20). These computations are performed using various density functional theories with and without inclusion of Grimme’s (D3) dispersion correction. For small clusters, we also carried out wavefunction based ab initio (MP2 and SCS-MP2) computations for comparison. Vibrational, AIM and NBO analyses clearly reveal the occurrence of charge transfer (CT) through covalent (N1-Au) and noncovalent interactions that play important roles in the stability of the Im@Aun complexes with anchor assisted H-bonds (Cα-H•••Au). Therefore, gold clusters can act as H-bond acceptor with biomolecules for development of new materials and applications. Our study establishes also the ability and reliability of PBE0 and M05-2X functionals compared to B3LYP and PBE for the accurate description of covalent and noncovalent interactions between Im and gold clusters since they lead to close agreement with MP2. Finally, we show that Au8 cluster may be viewed as large enough to mimic 3D gold surface.",
+    "keywords_joined":"Ab initio; Biomolecules; Gold clusters; NBO AIM; TDDFT",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01094204",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "M.",
+      "Gilberte",
+      "M. Mogren",
+      "M"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Prakash",
+      "Chambaud",
+      "Al-Mogren",
+      "Hochlaf"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "crp"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Gold clusters",
+      "Biomolecules",
+      "NBO AIM",
+      "Ab initio",
+      "TDDFT"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1095274",
+    "halId_s":"hal-01095274",
+    "title_s":"OptiDis: A parallel Fast Multipole Dislocation Dynamics code",
+    "abstract_s":"Among all the steps involved in DD simulations, the computation of the internal elastic forces and energy are by far the most resources consuming. However, since these are long-ranged and fast decreasing interactions, hierarchical algorithms like the Fast Multipole Method (FMM) are well suited for their fast evaluation. The relatively low accuracy required for the interaction forces between dislocations brought us to develop a more efficient approximation method for the farfield. On the other hand, the nearfield interactions are still evaluated analytically, which required a rather performant implementation (AVX, GPU...). Regarding parallelism, our code benefits from a hybrid OpenMP\/MPI paradigm and a cache-conscious data structure. Finally, an accurate handling of topological elements intersecting the structure of the octree was considered. The latter feature implied careful modifications of the P2M\/L2P operators in order to deal with shared memory model of parallelism.",
+    "keywords_joined":"Dislocation Dynamics Simulations; Fast Fourier Transform; Fast Multipole Method",
+    "domain_codes":"info.info-mo; info.info-ds; phys.meca.msmeca",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01095274",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Pierre",
+      "Arnaud",
+      "Olivier",
+      "Laurent",
+      "Marc",
+      "Eric"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Blanchard",
+      "Etcheverry",
+      "Coulaud",
+      "Dupuy",
+      "Bletry",
+      "Darve"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Dislocation Dynamics Simulations",
+      "Fast Multipole Method",
+      "Fast Fourier Transform"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1095322",
+    "halId_s":"hal-01095322",
+    "title_s":"OptiDis: Toward fast anisotropic dislocation dynamics based on Stroh formalism",
+    "abstract_s":"Dislocation Dynamics (DD) simulations in the hypothesis of isotropic elasticity have proved great reliability in order to predict the plastic behaviour of crystalline materials. However it is often the case at high temperature (for instance in irradiated BCC iron) that the structural properties of a material will be better described using full anisotropic treatment of the elastic interaction between dislocations. The computation of the internal elastic forces is by far the most resources consuming step in DD simulations, which is even more true for anisotropic elasticity in the absence of explicit Green's function. L. Dupuy, J. Soulacroix and M. Fivel showed that the approaches based on Willis-Steed-Lothe or Brown formulae can be accelerated using spherical harmonics expansions of the Stroh matrices. This feature was implemented in the DD code OptiDis in order to power the anisotropic forces computation. Here we recall the formalism and we discuss optimizations, performances as well as motivations for future developments.",
+    "keywords_joined":"Anisotropic elasticity; Dislocation Dynamics Simulations; Spherical harmonics; Stroh formalism",
+    "domain_codes":"info.info-mo; info.info-ds; phys.meca.msmeca",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01095322",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Pierre",
+      "Arnaud",
+      "Olivier",
+      "Laurent",
+      "Marc"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Blanchard",
+      "Etcheverry",
+      "Coulaud",
+      "Dupuy",
+      "Bletry"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Spherical harmonics",
+      "Stroh formalism",
+      "Anisotropic elasticity",
+      "Dislocation Dynamics Simulations"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1095426",
+    "halId_s":"hal-01095426",
+    "title_s":"Partitioning of the pesticide trifluralin between dissolved organic matter and water using automated SPME-GC\/MS",
+    "abstract_s":"Solid-phase microextraction (SPME) was used to determine the equilibrium association constant for a pesticide, trifluralin (TFR), with dissolved organic matter (DOM). After optimization of the SPME method for the analysis of TFR, partition coefficients (KDOM) with three different sources ofDOM were determined in buffered solutions at pH 7. Commercial humic acids and DOM fractions isolated from two surface waters were used. The values of log KDOM varied from 4.3 to 5.8, depending on the nature of the organic material. A good correlation was established between log KDOM and DOMproperties (as measured with the H\/O atomic ratio and UV absorbance), in agreement with literature data. This is consistent with the effect of polarity and aromaticity for governing DOM-pollutant associations, regardless of the origin of DOM. This association phenomenon is relevant to better understand the behavior of pesticides in the environment since it controls part of pesticide leaching and fate in aquatic systems.",
+    "keywords_joined":"Dissolved organic matter; KDOM partition coefficient; SPME; Trifluralin",
+    "domain_codes":"chim.anal; sde.es",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01095426",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Emilie",
+      "Arnaud",
+      "Patrick",
+      "Jean-Philippe"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Caupos",
+      "Touffet",
+      "Mazellier",
+      "Croué"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "SPME",
+      "KDOM partition coefficient",
+      "Dissolved organic matter",
+      "Trifluralin"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1096239",
+    "halId_s":"hal-00676422",
+    "title_s":"Historical perspective of heavy metals contamination (Cd, Cr, Cu, Hg, Pb, Zn) in the Seine River basin (France) following a DPSIR approach (1950-2005).",
+    "abstract_s":"The Driver-Pressures-State-Impact-Response approach is applied to heavy metals in the Seine River catchment (65,000 km(2); 14 million people of which 10 million are aggregated within Paris megacity; 30% of French industrial and agricultural production). The contamination pattern at river mouth is established on the particulate material at different time scales: 1930-2000 for floodplain cores, 1980-2003 for suspended particulate matter (SPM) and bed-sediments, 1994-2003 for atmospheric fallout and annual flood deposits. The Seine has been among the most contaminated catchments with maximum contents recorded at 130 mg kg(-1) for Cd, 24 for Hg, 558 for Pb, 1620 for Zn, 347 for Cu, 275 for Cr and 150 for Ni. Today, the average levels for Cd (1.8 mg kg(-1)), Hg (1.08), Pb (108), Zn (370), Cu (99), Cr (123) and Ni (31) are much lower but still in the upper 90% of the global scale distribution (Cr and Ni excepted) and well above the natural background values determined on pre-historical deposits. All metal contents have decreased at least since 1955\/65, well before metal emission regulations that started in the mid 1970's and the metal monitoring in the catchment that started in the early 1980's. In the last 20 y, major criteria changes for the management of contaminated particulates (treated urban sludge, agricultural soils, dredged sediments) have occurred. In the mid 1990's, there was a complete shift in the contamination assessment scales, from sediment management and water usage criteria to the good ecological state, now required by the 2000 European Directive. When comparing excess metal outputs, associated to river SPM, to the average metal demand within the catchment from 1950 to 2000, the leakage ratios decrease exponentially from 1950 to 2000 for Cd, Cr, Cu, Pb and Zn, meanwhile, a general increase of the demand is observed: the rate of recycling and\/or treatment of metals within the anthroposphere has been improved ten-fold. Hg environmental trajectory is very specific: there is a marked decontamination from 1970 to 2000, but the leakage ratio remains very high (10 to 20%) during this period. Drivers and Pressures are poorly known prior to 1985; State evolution since 1935 has been reconstructed from flood plain cores analysis; Impacts were maximum between 1950 and 1970 but remained unknown due to analytical limitation and lack of awareness. Some Responses are lagging 10 y behind monitoring and have much evolved in the past 10 y.",
+    "keywords_joined":"Cd; Contamination; Cr; Cu; DPSIR; Heavy metals; Hg; Pb; Seine River; Zn",
+    "domain_codes":"sde; sde.es; chim; chim.inor; shs.envir; sdu.envi",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal-enpc.archives-ouvertes.fr\/hal-00676422\/file\/STOTEN%20Metal-Trends-Meybecketal-2006-07-20.pdf",
+    "authOrganismId_i":[
+      93591,
+      108028
+    ],
+    "authFirstName_s":[
+      "Michel",
+      "Laurence",
+      "Philippe",
+      "Régis",
+      "Jean Louis",
+      "Olivier",
+      "Hervé",
+      "Claire",
+      "Cécile",
+      "Daniel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Meybeck",
+      "Lestel",
+      "Bonté",
+      "Moilleron",
+      "Colin",
+      "Rousselot",
+      "Daniel",
+      "de Pontevès",
+      "Grosbois",
+      "Thevenot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":[
+      "Université Pierre et Marie Curie - Paris 6",
+      "AGROCAMPUS OUEST"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Cu",
+      "Zn",
+      "Cr",
+      "Contamination",
+      "Hg",
+      "Pb",
+      "Cd",
+      "Seine River",
+      "DPSIR",
+      "Heavy metals"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1096583",
+    "halId_s":"halshs-01096583",
+    "title_s":"Academics’ values in French universities. Is commitment to performance compatible with commitment to university ‘publicness’?",
+    "abstract_s":"This study analyzes academics’ values in relation with the reforms led in the public sector of higher education. We claim that studying values\/attitudes in a given field is critical to anticipate future institutional changes (Greenwood and Hinnings, 1996), since they are often precursors of concrete practices and behaviors (Campbell, 1963; Summers, 1970). As the reforms of higher education led recently in France have stressed the notion of “performance” – present both in the NPM and Neo-Weberian narratives –, we investigate to what extent the adhesion to a culture of performance is compatible with the maintenance of the commitment to the university “publicness” (Bozeman, 2007) – which is antithetical to the ideology promoted by NPM. In addition, investigating the robustness of university publicness contributes to the debate upon the transformation of public servants’ values.",
+    "keywords_joined":"Academics' values; Higher education; Performance; Publicness; University",
+    "domain_codes":"shs.gestion",
+    "discipline":"Marketing",
+    "url_primary":"https:\/\/hal.science\/halshs-01096583",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Stéphanie",
+      "Stéphanie",
+      "Christine",
+      "Samuel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chatelain-Ponroy",
+      "Mignot-Gerard",
+      "Musselin",
+      "Sponem"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "University",
+      "Academics' values",
+      "Performance",
+      "Publicness",
+      "Higher education"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1100173",
+    "halId_s":"hal-01100173",
+    "title_s":"Itô SDE-based generator for a class of non-Gaussian vector-valued random fields in uncertainty quantification",
+    "abstract_s":"This paper is concerned with the derivation of a generic sampling technique for a class of non-Gaussian vector-valued random fields. Such an issue typically arises in uncertainty quantification for complex systems, where the input coefficients associated with the elliptic operators must be identified by solving statistical inverse problems. Specifically, we consider the case of non-Gaussian random fields with values in some arbitrary bounded or semi-bounded subsets of R^n. The approach involves two main features. The first one is the construction of a family of random fields converging, at a user-controlled rate, towards the target random field. Each of these auxialiary random fields can be subsequently simulated by solving a family of Itô stochastic differential equations. The second ingredient is the definition of an adaptive discretization algorithm. The latter allows refining the integration step on-the-fly and prevents the scheme from diverging. The proposed strategy is finally exemplified on three examples, each of which serving as a benchmark, either for the adaptivity procedure or for the convergence of the diffusions.",
+    "keywords_joined":"Adaptive algorithm; Itô stochastic differential equation; Random field; Uncertainty quantification",
+    "domain_codes":"math.math-pr; spi.meca",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01100173\/document",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "J.",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Guilleminot",
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Random field",
+      "Itô stochastic differential equation",
+      "Adaptive algorithm",
+      "Uncertainty quantification"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1105959",
+    "halId_s":"hal-01105959",
+    "title_s":"Polynomial chaos expansion of a multimodal random vector",
+    "abstract_s":"A methodology and algorithms are proposed for constructing the polynomial chaos expansion (PCE) of multimodal random vectors. An algorithm is developed for generating independent realizations of any multimodal multivariate probability measure that is constructed from a set of independent realizations using the Gaussian kernel-density estimation method. The PCE is then performed with respect to this multimodal probability measure, for which the realizations of the polynomial chaos are computed with an adapted algorithm. Finally, a numerical application is presented for analyzing the convergence properties.",
+    "keywords_joined":"High dimension; Multimodal probability distribution; Polynomial chaos; Random vector",
+    "domain_codes":"math; math.math-pr; math.math-st; spi; spi.meca",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01105959\/file\/publi-2015-SIAM-ASA-JUQ-3%281%2934-60-soize-preprint.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Random vector",
+      "High dimension",
+      "Polynomial chaos",
+      "Multimodal probability distribution"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1107668",
+    "halId_s":"hal-01107668",
+    "title_s":"Job vs. portioned partitioning for the earliest deadline ﬁrst semi-partitioned scheduling",
+    "abstract_s":"In this paper, we focus on the semi-partitioned scheduling of sporadic tasks with constrained deadlines and identical processors. We study two cases of semi-partitioning: (i) the case where the worst case execution time (WCET) of a job can be portioned, each portion being executed on a dedicated processor, according to a static pattern of migration; (ii) the case where the jobs of a task are released on a processor, 1 time out of p, where p is an integer at most equal to the number of processors, according to a round-robin migration pattern. The first approach has been investigated in the state-of-the-art by migrating a job at its local deadline, computed from the deadline of the task it belongs to. We study several local deadline assignment heuristics (fair, based on processor utilization and based on the minimum acceptable local deadline for a job on a processor). In both cases, we propose feasibility conditions for the schedulability of sporadic tasks scheduled using earliest deadline first (EDF) semi-partitioned scheduling. We show that the load function used for global scheduling to establish the feasibility of sporadic task sets exhibits interesting properties in the semi-partitioning context. We carry out simulations to study the performance of the two approaches in terms of success rate and number of migrations, for platforms composed of four and eight processors. We compare the performance of these semi-partitioned heuristics with the performance of classical partitioned scheduling algorithms and with a global scheduling heuristic which is currently considered to have good performances.",
+    "keywords_joined":"Deadline assignment; EDF; Multiprocessor; Performance evaluation; Portioned scheduling; Real-time; Semi-partitioned scheduling",
+    "domain_codes":"info.info-ni",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-H1VNZDM3-N\/fulltext.pdf?sid=hal",
+    "authOrganismId_i":[
+      302035
+    ],
+    "authFirstName_s":[
+      "Laurent",
+      "Pierre",
+      "Yves"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "George",
+      "Courbin",
+      "Sorel"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":[
+      "ESIEE Paris"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Semi-partitioned scheduling",
+      "Multiprocessor",
+      "Real-time",
+      "Portioned scheduling",
+      "EDF",
+      "Performance evaluation",
+      "Deadline assignment"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1111761",
+    "halId_s":"hal-01111761",
+    "title_s":"Correlation between the nanocrystalline Sm(Fe,Mo)12 and its out of equilibrium phase Sm(Fe,Mo)10",
+    "abstract_s":"Nanostructured Sm-Fe-Mo semi-hard magnetic material exhibiting enhanced magnetic properties can be pro-duced by ball milling followed by recrystallization. Milled samples were annealed for 30 min in a vacuum at different temperatures (T A) between 700 and 1190 • C. The effects of heat treatment and Mo content on struc-tural and magnetic property changes have been investigated by means of x-ray diffraction using the Rietveld method, transmission electron microscopy and magnetic measurements. For samples annealed at T A > 900 • C the tetragonal ThMn 12 -type structure is identified, while for 700 < T A <900 • C a new out of equilibrium P 6\/mmm type structure was found as the major phase. This novel nanocrystalline phase has never been synthesized before. The correspondent stoichiometry is determined on the basis of the vacancy model. The Rietveld analysis gives a stoichiometry ratio equal to 1:10, for the out of equilibrium hexagonal phase, which is described with three crystallographic transition metal sites: 3g is fully occupied, 6l occupation is limited to hexagons surrounding the Fe dumbbell pairs 2e. We have performed a magnetic and structural study of nanocrystalline metastable P 6\/mmm Sm(Fe 1−x Mo x) 10 , correlated to structural transformation towards its equilibrium derivative I4\/mmm Sm(Fe 1−x Mo x) 12 . A maximum of the coercive field H C (H C > 5 kOe) has been observed for the new hexagonal P 6\/mmm phase suggesting that nanocrystalline Sm(Fe,Mo) 10 , is a semi-hard material, and is potential candidate for magnetic recording.",
+    "keywords_joined":"A Rare-earth intermetallics; B Magnetic property; C Mechanical alloying and milling; Electron microscopy transmission; F Diffrac-tion; G Magnetic application",
+    "domain_codes":"phys",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01111761",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "S",
+      "L",
+      "G",
+      "N"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Khazzan",
+      "Bessais",
+      "van Tendeloo",
+      "Mliki"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "A Rare-earth intermetallics",
+      "B Magnetic property",
+      "C Mechanical alloying and milling",
+      "F Diffrac-tion",
+      "Electron microscopy transmission",
+      "G Magnetic application"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1111801",
+    "halId_s":"hal-01111230",
+    "title_s":"An incremental–iterative method for modeling damage evolution in voxel-based microstructure models",
+    "abstract_s":"Numerical methods motivated by rapid advances in image processing techniques have been intensively developed during recent years and increasingly applied to simulate heterogeneous materials with complex microstructure. The present work aims at elaborating an incremental–iterative numerical method for voxel-based modeling of damage evolution in quasi-brittle microstructures. The iterative scheme based on the Lippmann–Schwinger equation in the real space domain (Yvonnet, in Int J Numer Methods Eng 92:178–205, 2012) is first cast into an incremental form so as to implement nonlinear material models efficiently. In the proposed scheme, local strain increments at material grid points are computed iteratively by a mapping operation through a transformation array, while local stresses are determined using a constitutive model that accounts for material degradation by damage. For validation, benchmark studies and numerical simulations using microtomographic data of concrete are performed. For each test, numerical predictions by the incremental–iterative scheme and the finite element method, respectively, are presented and compared for both global responses and local damage distributions. It is emphasized that the proposed incremental–iterative formulation can be straightforwardly applied in the framework of other Lippmann–Schwinger equation-based schemes, like the fast Fourier transform method.",
+    "keywords_joined":"Incremental–iterative scheme · Lippmann–Schwinger equation · Tensile damage · Heterogeneous materials · Tomographic microstructures",
+    "domain_codes":"spi.meca.solid",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01111230",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Q.-Z.",
+      "Julien"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Zhu",
+      "Yvonnet"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Incremental–iterative scheme · Lippmann–Schwinger equation · Tensile damage · Heterogeneous materials · Tomographic microstructures"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1118014",
+    "halId_s":"hal-01118014",
+    "title_s":"What drives personnel out of public organizations?",
+    "abstract_s":"In this article, including a state of the art on Public Service Motivation (PSM) and its relationships to Affective Organizational Commitment (AOC), the interface of PSM with Organizational Behavior constructs is analyzed.",
+    "keywords_joined":"Intention to quit; Organizational commitment; Perceived superior support; Public service motivation",
+    "domain_codes":"shs.gestion",
+    "discipline":"Marketing",
+    "url_primary":"https:\/\/hal.science\/hal-01118014",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Claire"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Edey Gamassou"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Perceived superior support",
+      "Organizational commitment",
+      "Public service motivation",
+      "Intention to quit"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1118026",
+    "halId_s":"hal-01118026",
+    "title_s":"All motivated by public service? The links between hierarchical position and public service motivation",
+    "abstract_s":"Research into public service motivation is currently witnessing exponential growth. However, the universal application of the concept to all categories of public employees raises questions. Indeed, the origins of the concept, which can be traced back to political science studies in the United States, may suggest that the concept applies mainly to senior management but much less to operatives of various types, whose motivations seem more instrumental . Research into the antecedents of PSM has thus shown that high hierarchical levels were associated with employee profiles with a high level of PSM (Bright, 2005; Camilleri, 2007). Some authors go as far as to consider that the concept does not apply at all to operative jobs (Gabris and Simo, 1995). The purpose of this article is therefore to analyse the differences between the public service motivation of operatives and that of other categories of employees. To do so, we draw on two empirical studies, one quantitative (n = 2 868), conducted among the public employees of cities in 12 countries, and the other qualitative, conducted among public employees working in the technical service of a French town. Our results show that the level of PSM is not lower among operatives but that, on the other hand, it is different in its nature and dimensions. Notes to practitioners The issue of the PSM of operative public employees takes on a managerial dimension. Indeed, it has potential policy implications for human resource management policies to be implemented and on the segmentation of the public employees in the light of these policies. Our results thus argue for the mainstreaming of the public service dimension in the management of executives and would suggest that it is in the interest of public organisations to encourage the public service motivation of their employees by designing tasks in such a way that public employees can better appreciate the result of their work among customers and users.",
+    "keywords_joined":"Human resources management; Managers; Measurement scale of public service motivation; Operatives; Public service motivation",
+    "domain_codes":"shs.gestion",
+    "discipline":"Marketing",
+    "url_primary":"http:\/\/journals.sagepub.com\/doi\/pdf\/10.1177\/0020852313509553",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Céline",
+      "Claire"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Desmarais",
+      "Edey Gamassou"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Operatives",
+      "Public service motivation",
+      "Human resources management",
+      "Measurement scale of public service motivation",
+      "Managers"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1118039",
+    "halId_s":"hal-01118039",
+    "title_s":"Engagement",
+    "abstract_s":null,
+    "keywords_joined":"Epuisement professionnel; Fatigue émotionnelle; Identité; Implication; Motivation; Workaholism",
+    "domain_codes":"shs; shs.gestion",
+    "discipline":"Marketing",
+    "url_primary":"https:\/\/hal.science\/hal-01118039",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Claire"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Edey Gamassou"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Identité",
+      "Implication",
+      "Motivation",
+      "Workaholism",
+      "Fatigue émotionnelle",
+      "Epuisement professionnel"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1119244",
+    "halId_s":"hal-01119244",
+    "title_s":"From Industry to Luxury: French Perfume in the Nineteenth Century",
+    "abstract_s":"The production of perfumery articles became an industry in the nineteenth century, and their broader social diffusion invites questions about the accuracy of perfume’s identification at that time as a luxury product. The innovations generated or adopted by perfumers, whether they involved new extraction methods or the use of synthetic compounds, not only introduced new creative possibilities but also allowed wider margins on sales. The shift from artisanal fabrication to industrial manufacturing accompanied relatively steep increases in the price of perfumes. Nineteenth-century perfumers developed marketing strategies to build the value of their products and to position them as luxury goods.",
+    "keywords_joined":"Parfum; Parfumerie; Perfume; Perfumery",
+    "domain_codes":"shs.hist; shs.gestion",
+    "discipline":"Marketing",
+    "url_primary":"https:\/\/hal.science\/hal-01119244",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Perfume",
+      "Perfumery",
+      "Parfum",
+      "Parfumerie"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1119263",
+    "halId_s":"hal-01119263",
+    "title_s":"Le patrimoine des industries du luxe : Bernardaud et Baccarat à l’heure de la valorisation",
+    "abstract_s":null,
+    "keywords_joined":"Industrial heritage; Luxe; Luxury; Patrimoine industriel",
+    "domain_codes":"shs.hist; shs.gestion",
+    "discipline":"Marketing",
+    "url_primary":"https:\/\/hal.science\/hal-01119263",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Luxury",
+      "Industrial heritage",
+      "Patrimoine industriel",
+      "Luxe"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1119266",
+    "halId_s":"hal-01119266",
+    "title_s":"La mode : naissance et développement d’un objet d’étude en sociologie",
+    "abstract_s":null,
+    "keywords_joined":"Fashion; Histoire des idées; History of ideas; Mode",
+    "domain_codes":"shs.hist; shs.gestion; shs.socio; shs.hisphilso",
+    "discipline":"Marketing",
+    "url_primary":"https:\/\/hal.science\/hal-01119266",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Eugénie",
+      "Alain"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot",
+      "Quemin"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "History of ideas",
+      "Fashion",
+      "Mode",
+      "Histoire des idées"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1119281",
+    "halId_s":"hal-01119281",
+    "title_s":"Fashion sprayed and displayed : the parisian market of perfumery at the turn of the XXth century",
+    "abstract_s":null,
+    "keywords_joined":"Parfumerie; Perfumery",
+    "domain_codes":"shs.hist; shs.gestion",
+    "discipline":"Marketing",
+    "url_primary":"https:\/\/hal.science\/hal-01119281",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Perfumery",
+      "Parfumerie"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1119287",
+    "halId_s":"hal-01119287",
+    "title_s":"Uses of Heritage by French Luxury Houses : between Tourism Development and Brand Communication",
+    "abstract_s":null,
+    "keywords_joined":"Industrial heritage; Patrimoine industriel",
+    "domain_codes":"shs.hisphilso; shs.hist; shs.gestion",
+    "discipline":"Marketing",
+    "url_primary":"https:\/\/hal.science\/hal-01119287",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Industrial heritage",
+      "Patrimoine industriel"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1119298",
+    "halId_s":"hal-01119298",
+    "title_s":"Compte-rendu de lecture de Morag Martin, Selling Beauty: Cosmetics, Commerce, and French Society, 1750-1830, Baltimore, John Hopkins University Press, 2009",
+    "abstract_s":null,
+    "keywords_joined":"Histoire du marketing; History of marketing",
+    "domain_codes":"shs.hist; shs.gestion",
+    "discipline":"Marketing",
+    "url_primary":"https:\/\/hal.science\/hal-01119298",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "History of marketing",
+      "Histoire du marketing"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1119300",
+    "halId_s":"hal-01119300",
+    "title_s":"Compte-rendu de lecture de Luc Marco, Histoire managériale du Bazar Bonne-Nouvelle : Galeries marchandes à Paris, 1835-1863",
+    "abstract_s":null,
+    "keywords_joined":"Histoire du marketing; History of marketing",
+    "domain_codes":"shs.hist; shs.gestion",
+    "discipline":"Marketing",
+    "url_primary":"https:\/\/hal.science\/hal-01119300",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Eugénie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Briot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "History of marketing",
+      "Histoire du marketing"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1119721",
+    "halId_s":"hal-01119721",
+    "title_s":"Knowledge management in a French research community: a case study of GeCSO congress",
+    "abstract_s":"This paper aims to present the state of the art of a rising French research community on knowledge management, who organized during the past four years, a French speaking congress (GeCSO). Interests in knowledge management (KM) come from various disciplines: economy, social, engineering. These interests are not often linked. Within the firms, KM practices vary a lot depending on national cultures and on activity sectors. However, one can identify a potential symmetry between the diversity of practices and the partitioning of scientific approaches. Design\/methodology\/approach – In order to synthesize the different approaches in KM, the authors studied the 62 papers published in the first three conferences. To have a first representation of the diversity, they analyzed the keywords that were used: among 173 keywords used by the authors, eight keywords represent 27 per cent of the total amount. Findings – Three main dimensions which emerged from the articles are analysed: the practical dimension, the epistemological point of view, and the intention to define a theory of action. Originality\/value – KM is an emerging domain, especially in French culture. This paper can be seen as a first foundation of the domain, and also a manifesto to develop interdisciplinary research on this topic.",
+    "keywords_joined":"Activity theory-based approach; Business modelling; Knowing communities; Knowing in action; Knowledge engineering Paper type Conceptual paper; Knowledge management; Knowledge modelling; Knowledge transfer; Situated learning; Tacit knowledge",
+    "domain_codes":"shs; shs.gestion; shs.info; shs.socio",
+    "discipline":"Marketing",
+    "url_primary":"https:\/\/hal.archives-ouvertes.fr\/hal-01119721\/file\/Paraponaris%20VINE%20%20JIKMS%20%202012.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Claude",
+      "Jean-Louis",
+      "Claude",
+      "Pascal"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Paraponaris",
+      "Ermine",
+      "Guittard",
+      "Lièvre"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Situated learning",
+      "Knowledge engineering Paper type Conceptual paper",
+      "Activity theory-based approach",
+      "Knowing in action",
+      "Knowledge modelling",
+      "Knowing communities",
+      "Tacit knowledge",
+      "Business modelling",
+      "Knowledge management",
+      "Knowledge transfer"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1120299",
+    "halId_s":"hal-01120299",
+    "title_s":"Semantic interoperability platform for Healthcare Information Exchange",
+    "abstract_s":"Objectives: An important barrier to electronic healthcare information exchanges (HIE) is the lack of interoperability between information systems especially on the semantic level. In the scope of the ANR (Agence Nationale pour la Recherche)\/TeRSan (Terminology and Data Elements Repositories for Healthcare Interoperability) project, we propose to set and use a semantic interoperability platform, based on semantic web technologies, in order to facilitate standardized healthcare information exchanges between heterogeneous Electronic Healthcare Records (EHRs) in different care settings. Material and methods: The platform is a standard-based expressive and scalable semantic interoperability framework. It includes centrally managed Common Data Elements bounded to international\/national reference terminologies such as ICD10, CCAM, SNOMED CT, ICD-O, LOINC and PathLex. It offers semantic services such as dynamic mappings between reference and local terminologies. Results: A pilot implementation of semantic services was developed and evaluated within an HIE prototype in telepathology for remote expert advice. The semantic services developed for transcoding local terms into reference terms take into account the type of message and the exchange context defined within standard-based integration profiles. Conclusion: The TeRSan platform is an innovative semantic interoperability framework that (1) provides standard-based semantic services applicable to any HIE infrastructure and (2) preserves the use of local terminologies and local models by end users (health professionals' priority).",
+    "keywords_joined":"Health information systems; Information model; Interface terminology; Reference terminology; Semantic interoperability; Semantic web",
+    "domain_codes":"info.info-hc; sdv.mhep",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.sorbonne-universite.fr\/hal-01120299\/file\/Aim%C3%A9_Semantic.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Xavier",
+      "Lamine",
+      "Amina",
+      "Eric",
+      "David",
+      "Jean",
+      "Marie-Christine",
+      "Stefan",
+      "Nicolas",
+      "Florence",
+      "Lydia",
+      "Eric",
+      "Christel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Aimé",
+      "Traoré",
+      "Chniti",
+      "Sadou",
+      "Ouagne",
+      "Charlet",
+      "Jaulent",
+      "Darmoni",
+      "Griffon",
+      "Amardeilh",
+      "Bascarane",
+      "Lepage",
+      "Daniel"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Semantic interoperability",
+      "Health information systems",
+      "Information model",
+      "Reference terminology",
+      "Semantic web",
+      "Interface terminology"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  }
+]

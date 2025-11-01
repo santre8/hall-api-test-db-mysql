@@ -1,0 +1,947 @@
+[
+  {
+    "docid":"1131185",
+    "halId_s":"hal-01131185",
+    "title_s":"Les « rivières de pierres » : une formation en marge des catégories classiques. Questions posées dans le cas du massif du Mézenc (Velay oriental, Sud-Est du Massif central, France).",
+    "abstract_s":"La province volcanique du Velay oriental (SE du Massif central) compte une forte concentration de pierriers d’origine et d’appellation diverses (éboulis, chirats), issus du démantèlement des affleurements rocheux (rebords de coulées et, surtout, dômes et intrusions phonolitiques). Parmi ces accumulations figurent les « rivières de pierres » ou blockstreams de la littérature anglophone. Il s’agit de langues de blocs métriques redressés en tous sens, sans matrice en surface, déconnectées des amonts pourvoyeurs (gélifraction) et présentes jusque sur des pentes très faibles. Elles ont souvent été assimilées par défaut à d'anciens glaciers rocheux et rattachées sur la base d’arguments morpho-stratigraphiques au Pléniglaciaire supérieur. Elles sont en fait d’origine et d’âge mal connu et ne répondent pas clairement au modèle classique d’un glacier rocheux de haute montagne. Les observations de terrain (caractères intrinsèques, rapports stratigraphiques avec les autres formations, position dans la topographie, distance aux zones-source, contexte structural...), suggèrent des processus de mise en place par fluage et\/ou lavage qui restent à préciser, la possibilité d’une chenalisation des blocs par la topographie préexistante (ravines), et posent la question de l’âge, de l’efficacité des processus en jeu et de l’existence éventuelle de plusieurs générations. L’acquisition récente de photographies aériennes traitées en photogrammétrie (orthophotographies, MNT) doit permettre de préciser la description de l’organisation de surface (modelé, fabrique) révélatrice des contraintes liées aux processus de mise en place. D'autre part, les investigations géophysiques menées (GPR et tomographie électrique) pourraient apporter d'intéressants éléments de compréhension. Cette étude s’intègre au programme de recherche WRACC, financé par L’Etablissement Public Loire et le FEDER.",
+    "keywords_joined":"Blockstream; Eastern Velay; French Massif central; Glacier rocheux; Late Glacial; Massif central français; Morphologie et processus périglaciaires; Mézenc; Periglacial morphology and process; Pleistocene; Rivière de pierres; Rock glacier; Tardiglaciaire; Velay oriental",
+    "domain_codes":"sdu.stu.gm; sdu.envi; sde.mcg",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01131185",
+    "authOrganismId_i":[
+      810
+    ],
+    "authFirstName_s":[
+      "Coline",
+      "Emmanuelle",
+      "Alexandre",
+      "Charles",
+      "Clément",
+      "Franck",
+      "Erwan",
+      "Jean-Pierre",
+      "Yanni"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Peignelin",
+      "Defive",
+      "Poiraud",
+      "Le Coeur",
+      "Virmoux",
+      "Vautier",
+      "Roussel",
+      "Toumazet",
+      "Gunnell"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":[
+      "Laboratoire de Géographie Physique et Environnementale"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "French Massif central",
+      "Blockstream",
+      "Rock glacier",
+      "Periglacial morphology and process",
+      "Pleistocene",
+      "Late Glacial",
+      "Eastern Velay",
+      "Mézenc",
+      "Morphologie et processus périglaciaires",
+      "Rivière de pierres",
+      "Glacier rocheux",
+      "Velay oriental",
+      "Massif central français",
+      "Tardiglaciaire"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1148833",
+    "halId_s":"hal-01148833",
+    "title_s":"Dunkl kernel associated with dihedral group",
+    "abstract_s":"In this paper, we pursue the investigations started in \\cite{Mas-You} where the authors provide a construction of the Dunkl intertwining operator for a large subset of the set of regular multiplicity values. More precisely, we make concrete the action of this operator on homogeneous polynomials when the root system is of dihedral type and under a mild assumption on the multiplicity function. In particular, we obtain a formula for the corresponding Dunkl kernel and another representation of the generalized Bessel function already derived in \\cite{Demni0}. When the multiplicity function is everywhere constant, our computations give a solution to the problem of counting the number of decompositions of an element from a dihedral group into a fixed number of (non necessarily simple) reflections. In the remainder of the paper, we supply another method to derive the Dunkl kernel associated with dihedral systems from the corresponding generalized Bessel function. This time, we use the shift principle together with multiple combinations of Dunkl operators corresponding to the vectors of the canonical basis of $\\mathbb{R}^2$. When the dihedral system is of order six and only in this case, a single combination suffices to get the Dunkl kernel and agrees up to an isomorphism with the formula recently obtained by Amri \\cite[Lemma1]{Amri} in the case of a root system of type $A_2$. We finally derive an integral representation for the Dunkl kernel associated with the dihedral system of order eight.",
+    "keywords_joined":"Dihedral root systems; Dunkl kernel; Generalized Bessel function",
+    "domain_codes":"math.math-gr",
+    "discipline":"Civil Engineering",
+    "url_primary":"http:\/\/arxiv.org\/pdf\/1504.07220",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Luc",
+      "Nizar",
+      "Hassan"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Deleaval",
+      "Demni",
+      "Youssfi"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "crp"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Dunkl kernel",
+      "Dihedral root systems",
+      "Generalized Bessel function"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1158275",
+    "halId_s":"hal-01158275",
+    "title_s":"Experimental identification of a stochastic computational dynamical model using modal data measured for a family of built-up structures",
+    "abstract_s":"This research is focused on the construction and the identification of a stochastic computational model (SCM), using experimental eigenfrequencies and mode shapes measured for a family of real structures exhibiting slight differences that induce variability in the measured quantities. The statistical properties of the SCM are controlled by a set of hyperparameters such as mean values, coefficients of variation, etc. The hyperparameters are identified using the first experimental natural frequencies, and the associated experimental mass-normalized mode shapes measured for the family of real structures. The methodology proposed introduces a random transformation of the computational modal quantities (computational eigenfrequencies and computational mode shapes) in order to make them almost surely in correspondence with the experimental modal data of each measured real structure. Thus this methodology automatically takes into account the mode crossings and mode veerings which can take place between the experimental configurations and the computational realizations of the SCM. Then the hyperparameters are identified using the maximum likelihood method. The proposed methodology is applied to a booster pump of thermal units for which experimental modal data have been measured on several sites.",
+    "keywords_joined":"Computational stochastic dynamics; Experimental modal analysis; Mode crossing; Model identification; Structural dynamics; Uncertainty Quantification",
+    "domain_codes":"spi.meca; math.math-pr; math.math-st",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01158275",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Anas",
+      "Christian",
+      "S."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Batou",
+      "Soize",
+      "Audebert"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Structural dynamics",
+      "Model identification",
+      "Computational stochastic dynamics",
+      "Mode crossing",
+      "Experimental modal analysis",
+      "Uncertainty Quantification"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1158278",
+    "halId_s":"hal-01158278",
+    "title_s":"Global reduced-order model adapted to the low- and medium-frequency analysis of complex dynamical structures",
+    "abstract_s":"In structural dynamics, the use of the vibration eigenmodes (elastic modes) allows for obtaining an accurate small-dimension reduced-order model (ROM) for the low-frequency range analysis. For some complex structures with distinct structural levels (presence of flexible parts attached to a stiff master part), numerous local elastic modes are intertwined with the usual global elastic modes, yielding high-dimension ROM. To circumvent this difficulty, a general method is proposed in order to construct a small-dimension ROM whose reduction vector basis is constituted of the global displacements only. The method is applied to an automobile complex structure.",
+    "keywords_joined":"Computational model; Frequency range; Global modes; Medium-frequency range; Reduced-order model; Structural dynamics",
+    "domain_codes":"spi.meca",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01158278",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Olivier",
+      "Anas",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Ezvan",
+      "Batou",
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Structural dynamics",
+      "Reduced-order model",
+      "Global modes",
+      "Computational model",
+      "Frequency range",
+      "Medium-frequency range"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1162161",
+    "halId_s":"hal-01162161",
+    "title_s":"Advanced Computational Vibroacoustics - Reduced-Order Models and Uncertainty Quantification",
+    "abstract_s":"Advanced Computational Vibroacoustics presents an advanced computational method for the prediction of sound and structural vibrations in low- and mediumfrequency ranges – complex structural acoustics and fluid-structure interaction systems encountered in aerospace, automotive, railway, naval, and energy-production industries. The formulations are presented within a unified computational strategy and are adapted for the present and future generation ofmassively parallel computers. A reduced-order computational model is constructed using the finite element method for the damped structure and the dissipative internal acoustic fluid (gas or liquid with or without free surface) and using an appropriate symmetric boundaryelementmethod for the external acoustic fluid (gas or liquid). This book allows direct access to computational methods that have been adapted for the future evolution of general commercial software. Written for the global market, it is an invaluable resource for academic researchers, graduate students, and practicing engineers.",
+    "keywords_joined":"Computational Vibroacoustics; Reduced-order model; Structural Acoustics; Uncertainty Quantification; Vibration; Vibroacoustic",
+    "domain_codes":"spi.meca; spi.acou; math.math-pr; math.math-st",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01162161",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Roger",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Ohayon",
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Vibroacoustic",
+      "Structural Acoustics",
+      "Vibration",
+      "Uncertainty Quantification",
+      "Computational Vibroacoustics",
+      "Reduced-order model"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1164483",
+    "halId_s":"hal-01164483",
+    "title_s":"Uncertainty quantification for an industrial mistuned bladed disk with geometrical nonlinearities",
+    "abstract_s":"Recently, a methodology allowing a stochastic nonlinear reduced-order model to be constructed in the context of the non-linear mistuning induced by geometric nonlinearities has been proposed. The present work is devoted to an industrial application for which the centrifugal stiffening due to rotational effects is also included. The nonlinear mistuned forced response is investigated in the time-domain by using a spatial cyclic load over a given excitation frequency range. The geometric nonlinear mis-tuned analysis is performed over the frequency range by using the Fast-Fourier Transform of the time response. A sensitivity analysis is conducted with respect to the load level, giving rise to secondary resonances, which appear outside the excitation frequency range and which can exhibit a particular sensitivity to uncertainties. Such new complex dynamical situation, induced by the coupling between the geometrical nonlinearities and the mistuning phenomenon, is analyzed in details.",
+    "keywords_joined":"Geometrical nonlinearities; Mistuned bladed disk; Nonlinear structural dynamics; Uncertainty quantification",
+    "domain_codes":"spi.meca; math.math-pr; math.math-st",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01164483",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Evangéline",
+      "Christian",
+      "Moustapha"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Capiez-Lernout",
+      "Soize",
+      "Mbaye"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Uncertainty quantification",
+      "Nonlinear structural dynamics",
+      "Mistuned bladed disk",
+      "Geometrical nonlinearities"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1165987",
+    "halId_s":"hal-01165987",
+    "title_s":"Computational homogenization of nonlinear elastic materials using neural networks",
+    "abstract_s":"In this work, a decoupled computational homogenization method for nonlinear elastic materials is proposed using Neural Networks (NN). In this method, the effective potential is represented as a response surface parameterized by the macroscopic strains and some microstructural parameters. The discrete values of the effective potential are computed by FEM through random sampling in the parameter space, and NN are used to approximate the surface response and to derive the macroscopic stress and tangent tensor components. We show through several numerical convergence analyses that smooth functions can be efficiently evaluated in parameter spaces with dimension up to 10, allowing to consider 3D Representative Volume Elements (RVE) and an explicit dependence of the effective behavior on microstructural parameters like volume fraction. We present several applications of this technique to the homogenization of nonlinear elastic composites, involving a two-scale example of heterogeneous structure with graded nonlinear properties.",
+    "keywords_joined":"Computational homogenization; High-dimensional approximation; Multiscale methods; Neural Networks; Nonlinear homogenization",
+    "domain_codes":"spi",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.archives-ouvertes.fr\/hal-01007100\/file\/YVC.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "B.A.",
+      "Julien",
+      "Qi-Chang"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Le",
+      "Yvonnet",
+      "He"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "crp",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Multiscale methods",
+      "Neural Networks",
+      "High-dimensional approximation",
+      "Computational homogenization",
+      "Nonlinear homogenization"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1169135",
+    "halId_s":"hal-01169135",
+    "title_s":"Robust optimization of horizontal drillstring rate of penetration through a nonlinear stochastic dynamic model",
+    "abstract_s":"A drillstring is a long column under rotation, composed by a sequence of connected drill-pipes and auxiliary equipment, which is used to drill the soil in oil prospecting. During its operation, this column presents a three-dimensional dynamics, subjected to longitudinal, lateral, and torsional vibrations, besides the effects of friction, shock, and bit-rock interaction. The study of the dynamics of this equipment is very important in many engineering applications, especially to reduce costs in the oil exploration process. In this sense, this work aims to formulate and solve a robust optimization problem that seeks to maximize horizontal drillstrings rate of penetration into of the soil, subjected to the restriction imposed by the structural limits of the column. To analyze the nonlinear dynamics of drillstrings in horizontal configuration, a computational model, which uses a nonlinear beam theory of Timoshenko type is considered. This model also takes into account the effects of friction and shock, induced by the lateral impacts between the drill-string and borehole wall, as well as bit-rock interaction effects. The uncertainties of the bit-rock interaction model are taken into account using a parametric probabilistic approach. Two optimizations problems (one deterministic and one robust), where the objective is to maximize the drillstring rate of penetration (ROP) into the soil, respecting its structural limits, are formulated and solved. In order to optimize the ROP, it is possible to vary the drillstring velocities of translation and rotation. The solutions of these optimization problems provided two different strategies to maximize the ROP.",
+    "keywords_joined":"Drillstring dynamics; Horizontal drillstring; Parametric probabilistic approach; Robust optimization",
+    "domain_codes":"spi.meca; math.math-pr; math.math-st",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01169135",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Americo",
+      "Christian",
+      "Rubens"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Cunha Jr",
+      "Soize",
+      "Sampaio"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Drillstring dynamics",
+      "Horizontal drillstring",
+      "Parametric probabilistic approach",
+      "Robust optimization"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1178296",
+    "halId_s":"hal-01162717",
+    "title_s":"Model updating in structural dynamics - Uncertainties on the position and orientation of sensors and actuators",
+    "abstract_s":"This research concerns the updating of computational models in presence of uncertainties related to the position and the orientation of the sensors and actuators. Such uncertainties yield uncertainties in the correspondence between the experimental dynamical responses and the dynamical responses calculated using the computational model. These uncertainties in the response increase with frequency and have to be taken into account when updating the parameters of the computational model in order to obtain a robust estimation of these parameters. This paper provides a complete methodology to take into account and analyse such uncertainties. Furthermore, an optimal sensor placement method is proposed so that (1) the measured data are as sensitive as possible with respect to updating parameters and (2) the measured data are as robust as possible with respect to position\/orientation uncertainties. The methodologies developed here are illustrated through two numerical applications.",
+    "keywords_joined":"Bayesian inference; Model updating; Optimal sensor placement; Uncertain position",
+    "domain_codes":"phys.meca.vibr; spi.meca; stat",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01162717\/file\/manuscript_R2.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Anas"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Batou"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Optimal sensor placement",
+      "Model updating",
+      "Bayesian inference",
+      "Uncertain position"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1178297",
+    "halId_s":"hal-01162722",
+    "title_s":"A global\/local probabilistic approach for reduced-order modeling adapted to the low- and mid-frequency structural dynamics",
+    "abstract_s":"The research presented here is devoted to the construction of a probabilistic reduced-order computational model adapted to the low- and mid-frequency structural dynamics. The methodology presented here is based on a global\/lo\\-cal separation of the space of admissible displacements by solving two separated eigenvalue problems in which the kinetic energy is modified. This paper presents a general framework for constructing the modified kinetic energy by introducing classes of kinematic reductions. The global\/local separation allows the construction of a probabilistic model of uncertainties for which the fluctuations of the global displacements and the fluctuations of the local displacements can be controlled separately.",
+    "keywords_joined":"High modal density; Low-frequency range; Mid-frequency range; Uncertainty quantification",
+    "domain_codes":"phys.meca.vibr; math.math-pr",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01162722",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Anas"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Batou"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Uncertainty quantification",
+      "Mid-frequency range",
+      "High modal density",
+      "Low-frequency range"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1183655",
+    "halId_s":"hal-01183655",
+    "title_s":"Potential of Directionally Solidified Eutectic Ceramics for High Temperature Applications",
+    "abstract_s":"Directionally solidified eutectic (DSE) ceramics add new potentialities to the advantages of sintered ceramics: a higher strength, almost constant, up to temperatures close to the melting point and a better creep resistance. The microstructure of melt-growth composites (MGC) of ceramic oxides consists in three-dimensional and continuous interconnected networks of single-crystal eutectic phases. After solidification of binary eutectics, the eutectic phases are alumina and either a perovskite or garnet phase. In ternary systems, cubic zirconia is added as a third phase. For very high temperature structural applications such as turbine blades in future aeronautical turbines or thermal power generation systems, the investigation is focused on both binary (Al2O3-Y3Al5O12 (YAG), Al2O3-Er3Al5O12 (EAG) and Al2O3-GdAlO3 (GAP)) and ternary (Al2O3-YAG-ZrO2, Al2O3-EAG-ZrO2 and Al2O3-GAP-ZrO2) eutectics. Improving the strength and toughness of DSE ceramics being essential for such practical applications, results concerning the mechanical behavior of these eutectics will be reported after a short presentation concerning microstructure and crystallography. This better knowledge of DSE ceramics has led to the development of a specific Bridgman furnace to produce large crystals and investigate possible applications of DSE ceramics to a new generation of very high temperature gas turbines, e.g. hollow non-cooled nozzles, turbine blades or combustor liner panels.",
+    "keywords_joined":"CERAMIQUE DSE; COMPOSITE OXYDE CERAMIQUE; CRISTALLOGRAPHIE; FOUR BRIDGMAN; HAUTE TEMPERATURE; MICROSTRUCTURE; MONOCRISTALLIN; NOUVELLE GENERATION; POINT FUSION; RESISTANCE FLUAGE; TURBINE GAZ",
+    "domain_codes":"spi.mat",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01183655",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "M.",
+      "R.",
+      "L.",
+      "S.",
+      "L."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Parlier",
+      "Valle",
+      "Perrière",
+      "Lartigue-Korinek",
+      "Mazerolles"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "HAUTE TEMPERATURE",
+      "POINT FUSION",
+      "RESISTANCE FLUAGE",
+      "COMPOSITE OXYDE CERAMIQUE",
+      "MONOCRISTALLIN",
+      "MICROSTRUCTURE",
+      "CRISTALLOGRAPHIE",
+      "CERAMIQUE DSE",
+      "FOUR BRIDGMAN",
+      "NOUVELLE GENERATION",
+      "TURBINE GAZ"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1188399",
+    "halId_s":"hal-01188399",
+    "title_s":"Multilevel reduced-order computational model in structural dynamics for the low-and medium-frequency ranges",
+    "abstract_s":"This work deals with the dynamical analysis of complex structures composed of several structural levels and characterized by the presence of numerous local elastic modes intertwined with global modes, in the medium-frequency range as well as in the low-frequency range. For constructing the ROM, a family of global-displacements eigenvectors are calculated and are used instead of the classical elastic modes. Since it is also of importance to adapt the physical models (damping , level of uncertainties, etc) to each one of the structural levels, a multilevel ROM is proposed. A validation is performed for an automobile complex structure .",
+    "keywords_joined":"Computational model; Frequency range; Medium-frequency range; Multilevel ROM; Multilevel reduced-order model; Structural dynamics",
+    "domain_codes":"spi.meca",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01188399\/file\/publi-2015-C%26S-160%28%29111-125-ezvan-batou-soize-preprint.pdf",
+    "authOrganismId_i":[
+      301243
+    ],
+    "authFirstName_s":[
+      "Olivier",
+      "Anas",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Ezvan",
+      "Batou",
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "crp"
+    ],
+    "authOrganism_s":[
+      "Université Paris-Est Marne-la-Vallée"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Structural dynamics",
+      "Multilevel reduced-order model",
+      "Multilevel ROM",
+      "Computational model",
+      "Frequency range",
+      "Medium-frequency range"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1192565",
+    "halId_s":"hal-01192565",
+    "title_s":"Solution of a robust optimization problem to maximize the rate of penetration of horizontal drillstrings using a nonlinear stochastic dynamic model",
+    "abstract_s":"A drillstring is a long column under rotation, composed by a sequence of connected drill-pipes and auxiliary equipment, which is used to drill the soil in oil prospecting. During its operation, this column presents a three-dimensional dynamics, subjected to longitudinal, lateral, and torsional vibrations, besides the effects of friction, shock, and bit-rock interaction. Due to the relevance of this equipment in some engineering applications, this work aims to analyze the nonlinear dynamics of drillstrings in horizontal configuration. A computational model, which uses a nonlinear beam theory of Timoshenko type that takes into account the coupling between longitudinal, transverse, and torsional vibrations, is considered. This model also takes into account the effects of friction and shock, induced by the lateral impacts between the drillstring and borehole wall, as well as bit-rock interaction effects. The uncertainties of the bit-rock interaction model are taken into account using a parametric probabilistic approach. Numerical simulations have shown that the mechanical system of interest has a very rich dynamics, which reproduces phenomena such as bit-bounce, stick-slip, and transverse impacts. Two optimizations problems (one deterministic and one robust), where the objective is to maximize the drillstring rate of penetration (ROP) into the soil, respecting its structural limits, are formulated and solved. In order to optimize the ROP, it is possible to vary the drillstring velocities of translation and rotation. The solutions of these optimization problems provided two different strategies to maximize the ROP.",
+    "keywords_joined":"Drillstring dynamics; Stochastic dynamics",
+    "domain_codes":"spi.meca; math.math-pr; math.math-st",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01192565",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Americo",
+      "Christian",
+      "Rubens"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Cunha Jr",
+      "Soize",
+      "Sampaio"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Drillstring dynamics",
+      "Stochastic dynamics"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1194190",
+    "halId_s":"hal-01194190",
+    "title_s":"Computational modeling of the nonlinear stochastic dynamics of horizontal drillstrings",
+    "abstract_s":"This work intends to analyze the nonlinear stochastic dynamics of drillstrings in horizontal configuration. For this purpose, it considers a beam theory, with effects of rotatory inertia and shear deformation, which is capable of reproducing the large displacements that the beam undergoes. The friction and shock effects, due to beam\/borehole wall transversal impacts, as well as the force and torque induced by bit-rock interaction, are also considered in the model. Uncertainties of bit-rock interaction model are taken into account using a parametric probabilistic approach. Numerical simulations have shown that the mechanical system of interest has a very rich nonlinear stochastic dynamics, which generate phenomena such as bit-bounce, stick-slip, and transverse impacts. A study aiming to maximize the drilling process efficiency, varying drillstring velocities of translation and rotation is presented. Also, the work presents the definition and solution of two optimizations problems, one deterministic and one robust, where the objective is to maximize drillstring rate of penetration into the soil respecting its structural limits.",
+    "keywords_joined":"Horizontal drill-string; Nonlinear dynamics; Parametric probabilistic approach; Robust optimization; Uncertainty quantification",
+    "domain_codes":"spi.meca; math.math-pr; math.math-st",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01194190\/document",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Americo",
+      "Christian",
+      "Rubens"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Cunha Jr",
+      "Soize",
+      "Sampaio"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "crp",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Nonlinear dynamics",
+      "Horizontal drill-string",
+      "Uncertainty quantification",
+      "Parametric probabilistic approach",
+      "Robust optimization"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1211157",
+    "halId_s":"inserm-01211157",
+    "title_s":"Genetic and functional analyses demonstrate a role for abnormal glycinergic signaling in autism",
+    "abstract_s":"Autism spectrum disorder (ASD) is a common neurodevelopmental condition characterized by marked genetic heterogeneity. Recent studies of rare structural and sequence variants have identified hundreds of loci involved in ASD, but our knowledge of the overall genetic architecture and the underlying pathophysiological mechanisms remains incomplete. Glycine receptors (GlyRs) are ligand-gated chloride channels that mediate inhibitory neurotransmission in the adult nervous system but exert an excitatory action in immature neurons. GlyRs containing the α2 subunit are highly expressed in the embryonic brain, where they promote cortical interneuron migration and the generation of excitatory projection neurons. We previously identified a rare microdeletion of the X-linked gene GLRA2, encoding the GlyR α2 subunit, in a boy with autism. The microdeletion removes the terminal exons of the gene (GLRA2Δex8-9). Here, we sequenced 400 males with ASD and identified one de novo missense mutation, p.R153Q, absent from controls. In vitro functional analysis demonstrated that the GLRA2Δex8-9 protein failed to localize to the cell membrane, while the R153Q mutation impaired surface expression and markedly reduced sensitivity to glycine. Very recently, an additional de novo missense mutation (p.N136S) was reported in a boy with ASD, and we show that this mutation also reduced cell-surface expression and glycine sensitivity. Targeted glra2 knockdown in zebrafish induced severe axon-branching defects, rescued by injection of wild type but not GLRA2Δex8-9 or R153Q transcripts, providing further evidence for their loss-of-function effect. Glra2 knockout mice exhibited deficits in object recognition memory and impaired long-term potentiation in the prefrontal cortex. Taken together, these results implicate GLRA2 in non-syndromic ASD, unveil a novel role for GLRA2 in synaptic plasticity and learning and memory, and link altered glycinergic signaling to social and cognitive impairments.",
+    "keywords_joined":"Autism spectrum disorder; Axon branching; Biotinylation; De novo; Deletion; Electrophysiology; Excitatory-inhibitory imbalance; Functional analysis; GLRA2; Glycine receptor; Glycinergic signaling; Immunohistochemistry; Intellectual disability; Interneuron; Knock-out mice; Language delay; Learning and memory; Locomotor activity; Long term potentiation; Loss of function; Microarray; Morris water maze; Mutation; Mutation screening; Novel object recognition; Prefrontal cortex; Rare variants; Repetitive behaviors; Rescue analyses; Rotarod; Sequencing; Site-directed mutagenesis; Social interaction; Synaptic plasticity; Whole-cell recording; X chromosome; Zebrafish; Α2 subunit",
+    "domain_codes":"sdv.gen; sdv.mhep.psm; sdv.neu",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC5382231\/pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Marion",
+      "Coralie",
+      "Hervé",
+      "Anaïs",
+      "Jing",
+      "Stéphanie",
+      "Elsa",
+      "Brigitte",
+      "Vincent",
+      "Françoise",
+      "Richard",
+      "Gudrun",
+      "Maria",
+      "Jochen C",
+      "Satoru",
+      "Hélène",
+      "Victoria M",
+      "Maya",
+      "T. N.",
+      "Christopher",
+      "Marion",
+      "Bruno",
+      "Sophie",
+      "Jamilé",
+      "Robert J",
+      "Pascal",
+      "Catalina"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Pilorge",
+      "Fassier",
+      "Le Corronc",
+      "Potey",
+      "Bai",
+      "de Gois",
+      "Delaby",
+      "Assouline",
+      "Guinchat",
+      "Devillard",
+      "Delorme",
+      "Nygren",
+      "Råstam",
+      "Meier",
+      "Otani",
+      "Cheval",
+      "James",
+      "Topf",
+      "Dear",
+      "Gillberg",
+      "Leboyer",
+      "Giros",
+      "Gautron",
+      "Hazan",
+      "Harvey",
+      "Legendre",
+      "Betancur"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "crp"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Whole-cell recording",
+      "Site-directed mutagenesis",
+      "Electrophysiology",
+      "Immunohistochemistry",
+      "Biotinylation",
+      "Loss of function",
+      "Zebrafish",
+      "Axon branching",
+      "Rescue analyses",
+      "Knock-out mice",
+      "Sequencing",
+      "Mutation screening",
+      "Long term potentiation",
+      "Synaptic plasticity",
+      "Language delay",
+      "Excitatory-inhibitory imbalance",
+      "Interneuron",
+      "Intellectual disability",
+      "Deletion",
+      "Rare variants",
+      "Glycinergic signaling",
+      "GLRA2",
+      "Autism spectrum disorder",
+      "Repetitive behaviors",
+      "Social interaction",
+      "Locomotor activity",
+      "Rotarod",
+      "Microarray",
+      "X chromosome",
+      "De novo",
+      "Mutation",
+      "Glycine receptor",
+      "Α2 subunit",
+      "Prefrontal cortex",
+      "Learning and memory",
+      "Novel object recognition",
+      "Morris water maze",
+      "Functional analysis"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1213943",
+    "halId_s":"hal-01213943",
+    "title_s":"A phase-field method for computational modeling of interfacial damage interacting with crack propagation in realistic microstructures obtained by microtomography",
+    "abstract_s":"In this work, a formulation is developed within the phase field method for mod-eling interactions between interfacial damage and bulk brittle cracking in complex microstructures. The method is dedicated to voxel-based models of highly complex microstructures, as obtained from X-ray microtomography images. A smoothed displacement jump approximation is introduced by means of level-set functions to overcome the issue of pixelized interfaces in voxel-based models. A simple technique is proposed to construct the level-set function in that case. Compared to recent work aiming at modeling cohesive cracks within the phase field method, our framework differs in several points: the formulation is such that interfaces are not initially damaged; no additional variables are required to describe the discontinuities at the interface and fatigue cracks can be modeled. The technique allows interaction between bulk and interface cracks, e.g. nucleation from interfaces and propagation within the matrix, and for arbitrary geometries and interactions between cracks. Several benchmarks are presented to validate the model. The technique is illustrated through numerical examples involving complex microcracking in X-ray CT image-based models of concrete microstructures.",
+    "keywords_joined":"Cracks; Highly heterogenous materials; Interfacial damage; Microcracking; Phase field; Voxel-based models",
+    "domain_codes":"spi.meca; spi.meca.stru; spi",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01213943\/document",
+    "authOrganismId_i":[
+      301545
+    ],
+    "authFirstName_s":[
+      "T.T.",
+      "Julien",
+      "Q.-Z",
+      "Michel",
+      "Camille"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Nguyen",
+      "Yvonnet",
+      "Zhu",
+      "Bornert",
+      "Chateau"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":[
+      "École nationale des ponts et chaussées"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Microcracking",
+      "Voxel-based models",
+      "Interfacial damage",
+      "Cracks",
+      "Phase field",
+      "Highly heterogenous materials"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1226337",
+    "halId_s":"hal-01226337",
+    "title_s":"Stochastic modeling of mesoscopic elasticity random field",
+    "abstract_s":"In the homogenization setting, the effective properties of a heterogeneous material can be retrieved from the solution of the so-called corrector problem. In some cases of practical interest, obtaining such a solution remains a challenging computational task requiring an extremely fine discretization of microstructural features. In this context, Bignonnet et al. recently proposed a framework where smooth mesoscopic elasticity random fields are defined through a filtering procedure. In this work, we investigate the capabilities of information-theoretic random field models to accurately represent such mesoscopic elasticity fields. The aim is to substantially reduce the homogenization cost through the use of coarser discretizations while solving mesoscale corrector problems. The analysis is performed on a simple but non-trivial model microstructure. First of all, we recall the theoretical background related to the filtering and multiscale frameworks, and subsequently characterize some statistical properties of the filtered stiffness field. Based on these properties, we further introduce a random field model and address its calibration through statistical estimators and the maximum likelihood principle. Finally, the validation of the model is discussed by comparing some quantities of interest that are obtained either from numerical experiments on the underlying random microstructure or from model-based simulations. It is shown that for the case under study, the information-theoretic model can be calibrated with a limited set of realizations and still allows for accurate predictions of the effective properties.",
+    "keywords_joined":"MaxEnt principle; Numerical Homogenization; Probabilistic model",
+    "domain_codes":"spi.meca.mema",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01226337",
+    "authOrganismId_i":[
+      301545
+    ],
+    "authFirstName_s":[
+      "V-P",
+      "J",
+      "Sébastien",
+      "Karam"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Tran",
+      "Guilleminot",
+      "Brisard",
+      "Sab"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":[
+      "École nationale des ponts et chaussées"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Probabilistic model",
+      "MaxEnt principle",
+      "Numerical Homogenization"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1237381",
+    "halId_s":"hal-01237381",
+    "title_s":"Infrared thermography applied to surface temperature survey of enhanced pavement sample addressing self-de-icing functionality",
+    "abstract_s":"The mobility during winter season in France mainly relies on the use of de-icers, with an amount ranging from two hundreds thousands tons up to two millions tons for the roads only. Besides the economic impact, there are many concerns on their environmental and infrastructure, both on roads and on airports. In such context and in the framework of the R5G (5th Generation Road) project driven by IFSTTAR, investigations were carried out on the way to modify the infrastructure to maintain pavement surface at a temperature above water freezing point. Two distinct approaches, that can could be combined, were selected. The first one consisted in having a heated fluid circulating in a porous layer within an asphalt concrete pavement sample. The second one specifically relied on the use of paraffin phase change materials (PCM) in cement concrete pavement ones. Experiments on enhanced pavement samples were conducted in a climatic chamber to simulate winter conditions for several continuous days, including wind and precipitations, and monitored by infrared thermography. Studies concerning the first approach consisted in identifying the temperature range of the fluid to maintain asphalt concrete surface freezing-free. Both experimental and numerical approaches were conducted showing the importance of the role of the hydraulic conductivity of the porous layer. The analysis of infrared images indicated a surface temperature above freezing excepted in one situation, for which cold air convection and precipitations were combined at pavement surface. A temperature gradient along the surface was also observed. A good agreement was found between numerical and experimental results. To moderate the effect of precipitation, several PCM insertions were chosen and inserted at different depths, with various volumes and packaging (liquid, or powder of encapsulated liquid paraffin). At this stage of the study, rather mixed results were obtained. Delay in the surface ice formation was not conclusive, probably due to deeper location and an unsufficient amount of PCM used. Further investigation to carry out by coupling numerical and experimental approaches would help in refining the use of PCM for this application. The proposed paper will address the presentation of infrared monitoring developed during these studies. (a) (b) (c) (d)",
+    "keywords_joined":"Infrared Thermography; Phase change materials; Porous asphalt concrete; Winter maintenance",
+    "domain_codes":"spi.meca.ther; spi.gciv",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01237381",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "M",
+      "Jean",
+      "Nicolas",
+      "M",
+      "S",
+      "Thomas",
+      "Jean Michel",
+      "L"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Marchetti",
+      "Dumoulin",
+      "Le Touz",
+      "Moutton",
+      "Ludwig",
+      "Gabet",
+      "Piau",
+      "Ibos"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Infrared Thermography",
+      "Porous asphalt concrete",
+      "Phase change materials",
+      "Winter maintenance"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1239651",
+    "halId_s":"hal-01239651",
+    "title_s":"The 1979 nice airport tsunami: mapping of the flood in Antibes",
+    "abstract_s":"On 16 October 1979, a tsunami of a local origin hits the French Riviera around Nice, France, killing 8 people and generating important economic losses. Its impact was felt from Hyères to Menton, France. The main effect of this tsunami was flooding in the neighborhoods of La Salis and La Garoupe, Antibes, France. A synthesis of unpublished reports written in the context of an administrative investigation was conducted. Various archives were also consulted (newspapers, fire and rescue unit reports, insurance reports, etc.), and a field survey was organized in 2009 to record testimonies from the inhabitants who witnessed the flood in La Salis, Antibes, the area where the effects of the tsunami were the greatest. A geo-database of the neighborhood of La Salis was built using available aerial imagery, land cover data and digital terrain models, to reconstruct the surface of the flooded area as it was in 1979 and as it is now. Comparing precise testimonies and the 1979 topographic information available allowed the authors to precisely map the flood and to deduce the runup values which reached 3.5 m locally, with a maximal distance of flooding of 150 m inland. This paper provides modelers with precious information about the extent of flooding and the time sequence in order to reconstitute the propagation and flooding of the 16 October 1979 tsunami. This information highlights the fact that the French Riviera is a low hazard, but high vulnerability area.",
+    "keywords_joined":"1979; Antibes; Civil Engineering; Environmental Management; Geo-database; Geophysics\/Geodesy; Geotechnical Engineering; Hydrogeology; Mapping; Mediterranean Sea; Nice airport; Tsunami",
+    "domain_codes":"shs.geo",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/VQC-NNPH4N0S-7\/fulltext.pdf?sid=hal",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Alexandre",
+      "Anne"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Sahal",
+      "Lemahieu"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "crp"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "1979",
+      "Antibes",
+      "Civil Engineering",
+      "Environmental Management",
+      "Geo-database",
+      "Geophysics\/Geodesy",
+      "Geotechnical Engineering",
+      "Hydrogeology",
+      "Mapping",
+      "Mediterranean Sea",
+      "Nice airport",
+      "Tsunami"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1252441",
+    "halId_s":"tel-01252441",
+    "title_s":"Modeling and uncertainty quantification in the nonlinear stochastic dynamics of horizontal drillstrings",
+    "abstract_s":"Oil prospecting uses an equipment called drillstring to drill the soil until the reservoir level. This equipment is a long column under rotation, composed by a sequence of connected drill-pipes and auxiliary equipment. The dynamics of this column is very complex because, under normal operational conditions, it is subjected to longitudinal, lateral, and torsional vibrations, which presents a nonlinear coupling. Also, this structure is subjected to friction and shocks effects due to the mechanical contacts between the pairs drill-bit\/soil and drill-pipes\/borehole. This work presents a mechanical-mathematical model to analyze a drillstring in horizontal configuration. This model uses a beam theory which accounts rotatory inertia, shear deformation, and the nonlinear coupling between three mechanisms of vibration. The model equations are discretized using the finite element method. The uncertainties in bit-rock interaction model parameters are taken into account through a parametric probabilistic approach, and the random parameters probability distributions are constructed by means of maximum entropy principle. Numerical simulations are conducted in order to characterize the nonlinear dynamic behavior of the structure, specially, the drill-bit. Dynamical phenomena inherently nonlinear, such as slick-slip and bit-bounce, are observed in the simulations, as well as shocks. A spectral analysis shows, surprisingly, that slick-slip and bit-bounce phenomena result from the lateral vibration mechanism, and that shock phenomena comes from the torsional vibration. Seeking to increase the efficiency of the drilling process, an optimization problem that aims to maximize the rate of penetration of the column into the soil, respecting its structural limits, is proposed and solved",
+    "keywords_joined":"Drilling optimization; Drillstring dynamics; Dynamique des tubes de forage; Dynamique non linéaire; Modélisation stochastique; Nonlinear dynamics; Optimisation de forage; Quantification des incertitudes; Stochastic modeling; Uncertainty quantification",
+    "domain_codes":"spi.meca.mema",
+    "discipline":"Civil Engineering",
+    "url_primary":"https:\/\/hal.science\/tel-01252441",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Americo"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Barbosa da Cunha Junior"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Drillstring dynamics",
+      "Nonlinear dynamics",
+      "Stochastic modeling",
+      "Uncertainty quantification",
+      "Drilling optimization",
+      "Dynamique des tubes de forage",
+      "Dynamique non linéaire",
+      "Modélisation stochastique",
+      "Quantification des incertitudes",
+      "Optimisation de forage"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  }
+]

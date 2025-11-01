@@ -5,13 +5,17 @@ from pathlib import Path
 from api.apimodule import NEED_N, choose_url, consolidate_domains, consolidate_keywords, \
     fallback_text_match_for_discipline, fetch_page, hal_record_url, map_codes_to_discipline, savetojson
 
+NEED_N = 5
+FIELD ="Chemical Engineering"
+FILE ="upec_chemical_20_5.json"
+
 records, cursor = [], "*"
 
 if __name__ == '__main__':
     """call api module"""
     # Crawl
-    print("pepeas")
-    while len(records) < NEED_N/3:
+    
+    while len(records) < NEED_N:
         data = fetch_page(cursor)
         docs = data.get("response", {}).get("docs", [])
         if not docs: #si nohay documentos no hago nada
@@ -46,6 +50,9 @@ if __name__ == '__main__':
                 )
             if discipline is None:
                 continue  # not one of your 5 buckets
+
+            if discipline != FIELD:
+                 continue
 
             d["discipline"] = discipline
 
@@ -97,7 +104,7 @@ if __name__ == '__main__':
     BASE_DIR = Path(__file__).resolve().parent / "data"
     BASE_DIR.mkdir(parents=True, exist_ok=True)
 
-    json_path = BASE_DIR / "upec_sample200_keywords_domains.json"
+    json_path = BASE_DIR / FILE
    
     # Save to JSON (via your apimodule function)
     savetojson(df_sample, json_path.name)  # ✅ will save to /api/data/

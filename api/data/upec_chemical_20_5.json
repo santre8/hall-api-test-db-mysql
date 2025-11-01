@@ -1,0 +1,244 @@
+[
+  {
+    "docid":"1006198",
+    "halId_s":"hal-01006198",
+    "title_s":"Harmonic mechanical excitations of steady convective instabilities: a means to get more uniform heat transfers in mixed convection flows?",
+    "abstract_s":"In laminar mixed convection flows, steady thermoconvective patterns generate non uniform heat and\/or mass transfers at walls that can be detrimental in some industrial processes. For instance the longitudinal thermoconvective patterns of Poiseuille-Rayleigh-Bénard (PRB) flows generate non uniform thin films or coatings when they are present in cold wall horizontal Chemical Vapor Deposition (CVD) reactors. The aim of this paper is to show that, when the basic steady flow is convectively unstable against an unsteady flow regime, introducing small harmonic mechanical excitations in the basic flow may enable to obtain more uniform time averaged heat transfers. More specifically, three-dimensional direct numerical simulations are used to characterize the temperature field and wall heat transfer associated with unsteady wavy convective instabilities of PRB flows that result from harmonic excitations of the longitudinal thermoconvective rolls at channel inlet. A design of experiments is used to build cubic response surfaces of the different quantities analyzed (growth length of the wavy rolls, magnitude of their spanwise oscillations, wall Nusselt number ...) on a wide range of the flow parameters. Air PRB flows (Pr=0.71) in channels of aspect ratios equal to Width\/Height=10 and 150 < =Length\/Height < =300, for Reynolds numbers 100 < =Re < =300 and Rayleigh numbers 5000 < =Ra < =16000 are considered. Comparisons with experiments are presented and a good agreement is obtained. The optimal conditions to have uniform heat transfers on the horizontal walls of PRB flows correspond to the minimal growth length of the wavy rolls until saturation and the maximum magnitude of their spanwise oscillations. They are approximately obtained for moderate Reynolds number (Re≈150), high Rayleigh numbers (Ra≈15000), low excitation frequency and rather high excitation magnitude. A discussion of these results for the applications to CVD in horizontal rectangular reactors at atmospheric pressure is finally proposed.",
+    "keywords_joined":"3D numerical simulations; CVD; Convective instability; Design of experiments; Harmonic inlet excitation; Mixed convection; Poiseuille-Rayleigh-Bénard flow; Rectangular channel",
+    "domain_codes":"phys.meca.mefl; spi.meca.mefl",
+    "discipline":"Chemical Engineering",
+    "url_primary":"http:\/\/hal-upec-upem.archives-ouvertes.fr\/docs\/01\/00\/61\/98\/PDF\/Nicolas_Mergui_IJHMT2014_HAL.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Xavier",
+      "S."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Nicolas",
+      "Mergui"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Mixed convection",
+      "Poiseuille-Rayleigh-Bénard flow",
+      "Convective instability",
+      "Rectangular channel",
+      "Harmonic inlet excitation",
+      "CVD",
+      "3D numerical simulations",
+      "Design of experiments"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1025697",
+    "halId_s":"hal-01025697",
+    "title_s":"Identification of a new pseudo-binary hydroxide during calendar corrosion of (La, Mg)2Ni7-type hydrogen storage alloys for Nickel-Metal Hydride batteries",
+    "abstract_s":"To improve the performances of Nickel-Metal Hydride batteries, an important step is the understanding of the corrosion processes that take place in the electrode material. In particular, the present study focuses for the first time on the model (La, Mg)2Ni7 system. The calendar corrosion in 8.7 M KOH medium was investigated from 6 h to 16 weeks immersion. By a unique combination of structural and elemental characterisations, the corrosion products are evidenced in those systems. In particular, we demonstrate that Ni and Mg combine in a pseudo-binary hydroxide Mg1−xNix(OH)2 whereas La corrodes into nanoporous La(OH)3 needles with inner hollow nanochannels.",
+    "keywords_joined":"Combination of techniques; Corrosion; Ni-MH batteries; Raman micro spectroscopy; TEM",
+    "domain_codes":"chim.othe",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.archives-ouvertes.fr\/hal-01025697\/file\/Post-print_P1428.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "J.",
+      "H.",
+      "Suzanne",
+      "J.",
+      "M."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Monnier",
+      "Chen",
+      "Joiret",
+      "Bourgon",
+      "Latroche"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Corrosion",
+      "Ni-MH batteries",
+      "Raman micro spectroscopy",
+      "TEM",
+      "Combination of techniques"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1060481",
+    "halId_s":"hal-01060481",
+    "title_s":"π-Conjugated sulfonium-based photoacid generators: an integrated molecular approach for efficient one and two-photon polymerization",
+    "abstract_s":"The cationic photoinitiating abilities of a series of 'push-pull' sulfonium-based photoacid generators (PAGs) have been investigated. In this linear π-conjugated series, a 4-<i>N,N<\/i>-diphenylaminostilbene subunit is associated with different types of sulfonium substituents, which are connected to the stilbene moiety either in the 4′ position or in the 3′ position. This <i>para<\/i>-to-<i>meta<\/i> substitution effect leads to a strong increase of the quantum yield for acid generation with a maximum value of <i>ca<\/i>. 0.5. Such a positioning effect has a strong influence on the efficiency of the S-C bond cleavage. A detailed photolysis mechanism has been proposed. In contrast to commercially available sulfonium salts, these highly reactive π-conjugated PAGs all exhibit large absorption in the visible range as well as large two-photon absorption cross-sections (δ<sub>max<\/sub> > 600 GM) in the near-infrared region. As a consequence, efficient one and two-photon polymerization reactions are observed at 405 nm and 800 nm, respectively, using typical monomers such as cyclohexene oxide, <i>n<\/i>-butyl vinyl ether or SU-8 photoresists. By the fabrication of well resolved two-dimensional microstructures, we finally demonstrate the potential use of these new generation PAGs in the fields of one and two-photon lithography.",
+    "keywords_joined":"20902069; 21074094; 51173134; National natural science foundation of china; Nsfc",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01060481",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "M.",
+      "H.",
+      "J.",
+      "J.P.",
+      "A.",
+      "O.",
+      "D.",
+      "H.",
+      "D.L.",
+      "T.",
+      "Patrice",
+      "O.",
+      "S."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Jin",
+      "Hong",
+      "Xie",
+      "Malval",
+      "Spangenberg",
+      "Soppera",
+      "Wan",
+      "Pu",
+      "Versace",
+      "Leclerc",
+      "Baldeck",
+      "Poizat",
+      "Knopf"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "20902069",
+      "Nsfc",
+      "National natural science foundation of china",
+      "21074094",
+      "51173134"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1064801",
+    "halId_s":"hal-01064801",
+    "title_s":"Nucleophilic or Electrophilic Interactions of C2 with HX systems (X=F, Cl, Br)",
+    "abstract_s":"Highly correlated ab-initio wavefunctions within the MRCI approach are used in a comparative study of the interactions between C2 and the three hydrogen halides HX (X = F, Cl, Br). Test calculations are also presented using the UCCSD(T)-F12 approach. The asymptotic regions are investigated for different relative orientations of the two moieties. It is shown that the three systems C2 + HX are bound, for intermolecular distances close to 3 Ang, through nucleophilic interactions between C2 and HX for approaches perpendicular to the C-C axis, with decreasing interaction energies from HF to HBr. For HX approaching C2 along its axis, the interactions, governed by the electrophilic character of C2 are decreasing from HBr to HF. Even though the reactions towards the molecular systems HCCX or CCHX are exothermic, activation barriers (0.58 eV and more) are calculated at short distances, preventing the direct reactions towards the corresponding tetra-atomic systems",
+    "keywords_joined":"Ab-initio calculations; Hydrogen halides; Long range interactions; Potential curves",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01064801",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "D.",
+      "H.",
+      "Gilberte"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Khiri",
+      "Gritli",
+      "Chambaud"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Potential curves",
+      "Long range interactions",
+      "Ab-initio calculations",
+      "Hydrogen halides"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1067996",
+    "halId_s":"hal-01067996",
+    "title_s":"In situ analysis of Titan's tholins by Laser 2 steps Desorption Ionisation",
+    "abstract_s":"The main objective of the whole project developed in collaboration (LISA\/LATMOS) is to provide a better understanding of the chemical composition of Titan aerosols laboratory analogs, called tholins, and thereby of their formation pathways. The tholins are produced in the PAMPRE reactor (French acronyme for Aerosols Microgravity Production by Reactives Plasmas) developed at LATMOS. These tholins are generated in levitation (wall effects are thus limited) in a low pressure radiofrequency plasma. Up to now, the determination of the physical and chemical properties of these tholins was achieved after their collection and ex-situ analysis by several methods. Their bulk composition was then determined but their insoluble part is still unknown. Other studies were performed after the transfer of the soluble part of the aerosols to different analytical instruments. Therefore, possible artifacts could have influenced the results. We present the SMARD (a French acronym for Mass Spectrometry of Aerosols by InfraRed Laser Desorption) program. A challenging issue of our work is to perform the soluble and unsoluble parts of PAMPRE tholins' analysis in real time and in situ. The coupling of the PAMPRE reactor to a unique instrument (Single Particle Laser Ablation Mass Spectrometry) developed at LISA should allow determining in real time and in situ the characteristics (chemical composition together with granulometry) of the nanometric aerosols. The later are introduced in the analytical instrument using an aerodynamic lens device. Their detection and aerodynamic diameter are determined using two continuous diode lasers operating at λ = 403 nm. Then, the L2DI (Laser 2 steps Desorption Ionisation) technique is used in order to access to the chemical composition of individual particles: they are vaporized using a 10 μm CO2 pulsed laser and the gas produced is then ionized by a 248 nm KrF Excimer laser. Finally, the molecular ions are analyzed by a 1 m linear time-of-flight mass spectrometer. As a first step, tests have been realized using a model of aerosols particles [Dioctylphthalate, C6H4(COOC8H17)2, PM = 390] as well as tholins which have been solubilized in water. Both types of particles have been introduced in the system via a nebulizer placed at the entrance of the aerodynamic lens device. The results, that demonstrate the feasibility of the L2DI technique, will be presented. Aware that the KrF Excimer laser might induce dissociative ionization and only allow to detect aromatic molecular compounds, we plan to use a VUV (λ = 121.56 nm) laser. This would promote direct ionization (one photon process) of all kinds of species according to their respective threshold. The final step will be to directly analyze the tholins generated in the PAMPRE reactor.",
+    "keywords_joined":"0305 ATMOSPHERIC COMPOSITION AND STRUCTURE Aerosols and particles; 5210 PLANETARY SCIENCES ASTROBIOLOGY Planetary atmospheres; 5405 PLANETARY SCIENCES SOLID SURFACE PLANETS Atmospheres; And hazes; Clouds",
+    "domain_codes":"sdu.astr.ep; phys.astr.ep",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01067996",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Y.",
+      "Nathalie",
+      "Guy",
+      "M.",
+      "Ahmed",
+      "Cyril",
+      "M."
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Benilan",
+      "Carrasco",
+      "Cernogora",
+      "Gazeau",
+      "Mahjoub",
+      "Szopa",
+      "Schwell"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "5210 PLANETARY SCIENCES ASTROBIOLOGY Planetary atmospheres",
+      "Clouds",
+      "And hazes",
+      "5405 PLANETARY SCIENCES SOLID SURFACE PLANETS Atmospheres",
+      "0305 ATMOSPHERIC COMPOSITION AND STRUCTURE Aerosols and particles"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  }
+]

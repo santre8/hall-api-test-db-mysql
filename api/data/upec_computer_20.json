@@ -1,0 +1,915 @@
+[
+  {
+    "docid":"1021415",
+    "halId_s":"hal-01021415",
+    "title_s":"A simple game generator for creating audio\/tactile games",
+    "abstract_s":"We present in this paper a new game generator that aims at facilitating educators to provide new games scenarios to young visually disabled children. A game scenario description is stored in a XML file without any necessary knowledge of this format from the educator. Moreover, scenarios could be easily shared via a web server.",
+    "keywords_joined":"Blind; Computer game; Game authoring tool; Tactile interface; Visually disabled",
+    "domain_codes":"info.info-cy",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01021415",
+    "authOrganismId_i":[
+      300298
+    ],
+    "authFirstName_s":[
+      "Arnaud",
+      "Dominique",
+      "Nicolas",
+      "Mohamed"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Puret",
+      "Archambault",
+      "Monmarché",
+      "Slimane"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":[
+      "Université de Tours"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Tactile interface",
+      "Computer game",
+      "Game authoring tool",
+      "Blind",
+      "Visually disabled"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1052672",
+    "halId_s":"hal-01052672",
+    "title_s":"Belief functions in telecommunications and network technologies: an overview",
+    "abstract_s":"In the last few years, evidence theory, also known as Dempster-Shafer theory or belief functions theory, have received growing attention in many fields such as artificial intelligence, computer vision, telecommunications and networks, robotics, and finance. This is due to the fact that imperfect information permeates the real-world applications, and as a result, it must be incorporated into any information system that aims to provide a complete and accurate model of the real world. Although, it is in an early stage of development relative to classical probability theory, evidence theory has proved to be particularly useful to represent and reason with imperfect information in a wide range of real-world applications. In such cases, evidence theory provides a flexible framework for handling and mining uncertainty and imprecision as well as combining evidence obtained from multiple sources and modeling the conflict between them. The purpose of this paper is threefold. First, it introduces the basics of the belief functions theory with emphasis on the transferable belief model. Second, it provides a practical case study to show how the belief functions theory was used in a real network application, thereby providing guidelines for how the evidence theory may be used in telecommunications and networks. Lastly, it surveys and discusses a number of examples of applications of the evidence theory in telecommunications and network technologies.",
+    "keywords_joined":"INCERTITUDE; RESEAU DE TELECOMMUNICATIONS; TELECOMMUNICATION; THEORIE DES PROBABILITES",
+    "domain_codes":"shs.stat; info.info-ni",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01052672",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Mustapha Reda",
+      "Abdelhamid",
+      "Mohamed Abdelkrim",
+      "Latifa"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Senouci",
+      "Mellouk",
+      "Senouci",
+      "Oukhellou"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "THEORIE DES PROBABILITES",
+      "TELECOMMUNICATION",
+      "RESEAU DE TELECOMMUNICATIONS",
+      "INCERTITUDE"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1053257",
+    "halId_s":"hal-01053257",
+    "title_s":"Belief functions and uncertainty management in networks and telecommunication",
+    "abstract_s":"In the last few years, Dempster–Shafer theory also known as Theory of Belief Functions (TBF) or Evidence theory has received growing attention in many fields of applications such as finance, technology, biomedicine, etc. This theory may be seen as a generalization framework of different instances such as probability, fuzzy sets, and possibility theories. Using Dempster–Shafer belief functions to express available information allows considering two kinds of uncertainty: aleatory uncertainty due to the variability of the variable of interest in the population and epistemic uncertainty due to a lack of knowledge on the state of the variable. Different sources of uncertainty and imprecision may arise in network and telecommunication domains. Such imperfection may be due to imprecision of many aspects regarding the environment: signal, data link, network, etc. For example, it may be due to communication links that might be unreliable, either due to operational tolerance levels or environmental factors. As detailed in the survey paper proposed par Mustapha Reda Senouci, Abdelhamid Mellouk, Mohamed Abdelkrim Senouci, and Latifa Oukhellou in this special issue, the Theory of Belief Functions has proved to be particularly useful to represent and reason with partial information in a wide range of applications, including signal processing, coding, supervision, localization, resource provisioning, etc. In such case, the belief function theory provides a flexible framework for handling and mining imprecision and uncertainty as well as combining different disparate evidence about uncertain events. Indeed, this theory allows modeling different concepts such as imprecision, ambiguity, and ignorance. Also, a variety of combination operators is available in the fusion process. This special issue of Annals of Telecommunications is intended to provide the recent advances on the use of the Theory of Belief Functions and machine learning approaches in telecommunication and network technologies. It focused on how belief functions and machine learning have affected different aspects (protocols, algorithms, paradigm, energy, signal coding, etc.) for a large family of applications (healthcare, medical, underwater, vehicular, robotic, etc.) using network technologies (sensor networks, MANET, VANET, etc.).",
+    "keywords_joined":"INCERTITUDE; RESEAU DE TELECOMMUNICATIONS; TELECOMMUNICATION",
+    "domain_codes":"info.info-ni",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/link.springer.com\/content\/pdf\/10.1007\/s12243-014-0425-8.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Abdelhamid",
+      "Latifa",
+      "Lei",
+      "Glenn"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Mellouk",
+      "Oukhellou",
+      "Shu",
+      "Shafer"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "TELECOMMUNICATION",
+      "INCERTITUDE",
+      "RESEAU DE TELECOMMUNICATIONS"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1059165",
+    "halId_s":"inserm-01059165",
+    "title_s":"Using Pharmacokinetic and Viral Kinetic Modeling To Estimate the Antiviral Effectiveness of Telaprevir, Boceprevir, and Pegylated Interferon during Triple Therapy in Treatment-Experienced Hepatitis C Virus-Infected Cirrhotic Patients.",
+    "abstract_s":"Triple therapy combining a protease inhibitor (PI) (telaprevir or boceprevir), pegylated interferon (PEG-IFN), and ribavirin (RBV) has dramatically increased the chance of eradicating hepatitis C virus (HCV). However, the efficacy of this treatment remains suboptimal in cirrhotic treatment-experienced patients. Here, we aimed to better understand the origin of this impaired response by estimating the antiviral effectiveness of each drug. Fifteen HCV genotype 1-infected patients with compensated cirrhosis, who were nonresponders to prior PEG-IFN\/RBV therapy, were enrolled in a nonrandomized study. HCV RNA and concentrations of PIs, PEG-IFN, and RBV were frequently assessed in the first 12 weeks of treatment and were analyzed using a pharmacokinetic\/viral kinetic model. The two PIs achieved similar levels of molar concentrations (P = 0.5), but there was a significant difference in the 50% effective concentrations (EC50) (P = 0.008), leading to greater effectiveness for telaprevir than for boceprevir in blocking viral production (99.8% versus 99.0%, respectively, P = 0.002). In all patients, the antiviral effectiveness of PEG-IFN was modest (43.4%), and there was no significant contribution of RBV exposure to the total antiviral effectiveness. The second phase of viral decline, which is attributed to the loss rate of infected cells, was slow (0.19 day(-1)) and was higher in patients who subsequently eradicated HCV (P = 0.03). The two PIs achieved high levels of antiviral effectiveness. However, the suboptimal antiviral effectiveness of PEG-IFN\/RBV and the low loss of infected cells suggest that a longer treatment duration might be needed in cirrhotic treatment-experienced patients and that a future IFN-free regimen may be particularly beneficial in these patients.",
+    "keywords_joined":"Early viral kinetics; Hepatitis C virus; Mathematical modeling; Non-linear mixed effect models; Pegylated-interferon; Pharmacokinetic; Protease inhibitor; Ribavirin",
+    "domain_codes":"sdv.spee; sdv.bibs; info.info-bi",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/aac.asm.org\/content\/58\/9\/5332.full.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Cédric",
+      "Patrick",
+      "Martine",
+      "Feryel",
+      "Nathalie",
+      "Fabien",
+      "Lawrence",
+      "Jean-Pierre",
+      "Michelle",
+      "Olivier",
+      "Tarik",
+      "Céline",
+      "Christophe",
+      "Fabrice",
+      "Florence",
+      "Gilles",
+      "France",
+      "Jeremie"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Laouénan",
+      "Marcellin",
+      "Lapalus",
+      "Khelifa-Mouri",
+      "Boyer",
+      "Zoulim",
+      "Serfaty",
+      "Bronowicki",
+      "Martinot-Peignoux",
+      "Lada",
+      "Asselah",
+      "Dorival",
+      "Hézode",
+      "Carrat",
+      "Nicot",
+      "Peytavin",
+      "Mentré",
+      "Guedj"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Pharmacokinetic",
+      "Mathematical modeling",
+      "Ribavirin",
+      "Pegylated-interferon",
+      "Protease inhibitor",
+      "Hepatitis C virus",
+      "Non-linear mixed effect models",
+      "Early viral kinetics"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1064711",
+    "halId_s":"hal-01058198",
+    "title_s":"Turing degree spectra of minimal subshifts",
+    "abstract_s":"Subshifts are shift invariant closed subsets of $\\Sigma^{\\mathbb{Z}^d}$ , minimal subshifts are subshifts in which all points contain the same patterns. It has been proved by Jeandel and Vanier that the Turing degree spectra of non-periodic minimal subshifts always contain the cone of Turing degrees above any of its degree. It was however not known whether each minimal subshift's spectrum was formed of exactly one cone or not. We construct inductively a minimal subshift whose spectrum consists of an uncountable number of cones with disjoint base.",
+    "keywords_joined":"Cone; Minimal subshift; Spectra; Subshift; Turing degree",
+    "domain_codes":"info.info-dm; math.math-ds; info.info-lo",
+    "discipline":"Computer Science",
+    "url_primary":"http:\/\/arxiv.org\/pdf\/1408.6487",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Michael",
+      "Pascal"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Hochman",
+      "Vanier"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Minimal subshift",
+      "Spectra",
+      "Cone",
+      "Subshift",
+      "Turing degree"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1066522",
+    "halId_s":"hal-01066522",
+    "title_s":"Maximum entropy modeling of discrete uncertain properties with application to friction",
+    "abstract_s":"The first part of the present investigation focuses on the formulation of a novel stochastic model of uncertain properties of media homogenous in the mean which are represented as stationary processes. In keeping with standard spatial discretization methods (e.g., finite elements), the process is discrete. It is further required to exhibit a specified mean, standard deviation, and a global measure of the correlation length. The specification of the random process is completed by imposing that it yields a maximum of the entropy. If no constraint on the sign of the process exists, the maximum entropy is achieved for a Gaussian process the autocorrelation of which is constructed. The case of a positive process is considered next and an algorithm is formulated to simulate the non-Gaussian process yielding the maximum entropy. In the second part of the paper, this non-Gaussian model is used to represent the uncertain friction coefficient in a simple, lumped mass model of an elastic structure resting on a frictional support. The dynamic response of this uncertain system to a random excitation at its end is studied, focusing in particular on the occurrence of slip and stick.",
+    "keywords_joined":"Friction; Maximum entropy; Microslip; Simulation; Stochastic process; Uncertainty",
+    "domain_codes":"spi.meca; math.math-pr; math.math-st",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01066522",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "R.",
+      "B.-K.",
+      "X.Q.",
+      "M. C.",
+      "M. P.",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Murthy",
+      "Choi",
+      "Wang",
+      "Sipperley",
+      "Mignolet",
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Friction",
+      "Uncertainty",
+      "Microslip",
+      "Stochastic process",
+      "Maximum entropy",
+      "Simulation"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1068081",
+    "halId_s":"hal-01068081",
+    "title_s":"The Nearest Neighbor entropy estimate: an adequate tool for adaptive MCMC evaluation",
+    "abstract_s":"Many recent and often adaptive Markov Chain Monte Carlo (MCMC) methods are associated in practice to unknown rates of convergence. We propose a simulation-based methodology to estimate MCMC efficiency, grounded on a Kullback divergence criterion requiring an estimate of the entropy of the algorithm successive densities, computed from iid simulated chains. We recently proved in Chauveau and Vandekerkhove (2013) some consistency results in MCMC setup for an entropy estimate based on Monte-Carlo integration of a kernel density estimate based on Györfi and Van Der Meulen (1989). Since this estimate requires some tuning parameters and deteriorates as dimension increases, we investigate here an alternative estimation technique based on Nearest Neighbor estimates. This approach has been initiated by Kozachenko and Leonenko (1987) but used mostly in univariate situations until recently when entropy estimation has been considered in other fields like neuroscience. Theoretically, we prove that, under certain uniform control conditions, the successive densities of a generic class of Adaptive Metropolis-Hastings algorithms to which most of the strategies proposed in the recent literature belong can be estimated consistently with our method. We then show that in MCMC setup where moderate to large dimensions are common, this estimate seems appealing for both computational and operational considerations, and that the problem inherent to a non neglictible bias arising in high dimension can be overcome. All our algorithms for MCMC simulation and entropy estimation are implemented in an R package taking advantage of recent advances in high performance (parallel) computing.",
+    "keywords_joined":"Adaptive MCMC algorithms; Bayesian model; Entropy; Kullback divergence; Metropolis-Hastings algorithm; Nearest neighbor estimation; Nonparametric statistic",
+    "domain_codes":"math.math-st; stat.th",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01068081",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Didier",
+      "Pierre"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Chauveau",
+      "Vandekerkhove"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Adaptive MCMC algorithms",
+      "Bayesian model",
+      "Entropy",
+      "Kullback divergence",
+      "Metropolis-Hastings algorithm",
+      "Nearest neighbor estimation",
+      "Nonparametric statistic"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1075166",
+    "halId_s":"hal-01075166",
+    "title_s":"On the use of information theory for the generation of accelerograms compatible with specifications",
+    "abstract_s":"This research concerns the generation of seismic accelerograms compatible with physical properties, a given response spectrum and other design specifications. The accelerogram is modeled by a time series represented by a random vector in high dimension. The specifications related to the accelerograms are directly taken into account in the construction of the probability distribution of this random vector by using the Maximum Entropy (MaxEnt) principle under constraints defined by an appropriate available information. A new algorithm, adapted to the high stochastic dimension, is proposed to identify the Lagrange multipliers introduced in the MaxEnt principle to take into account the constraints. This algorithm is based on (1) the minimization of an appropriate convex functional and (2) the construction of the probability distribution defined as the invariant measure of an Itô Stochastic Differential Equation in order to estimate the integrals in high dimension of the problem. The algorithm is validated through an application for which the available information is related to the envelop of the accelerogram, statistics on the response spectrum, statistics on the Peak Ground Acceleration (PGA), statistics on the Cumulative Absolute Velocity (CAV), statistics on the Arias Intensity (AI), the end-velocity and the end-displacement.",
+    "keywords_joined":"Accelerograms; Earthquake; Generation of Accelerograms; Information theory; Maximum Entropy; Stochastic process",
+    "domain_codes":"spi.meca; math.math-pr; math.math-st",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01075166",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Anas",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Batou",
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Accelerograms",
+      "Earthquake",
+      "Stochastic process",
+      "Information theory",
+      "Maximum Entropy",
+      "Generation of Accelerograms"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1083743",
+    "halId_s":"hal-01083743",
+    "title_s":"Optimization of the optical particle properties for a high temperature solar particle receiver,",
+    "abstract_s":"A non-homogeneous slab of particle dispersion composed of two-layers at high temperature, submitted to a concentrated and collimated solar radiation flux with a reflective receiver bottom wall is considered as a model of a solar particle receiver. The Radiative Transfer Equation (RTE) is solved using a twostream method and an appropriate hybrid modified Eddington-delta function approximation. The single particle optical properties are modeled using the Lorenz-Mie theory, the single particle phase function is approximated by the Henyey-Greenstein phase function. A Particle Swarm Optimization (PSO) algorithm is used to optimize the particle radius (0.1 μm ≤ r ≤ 100 μm), the volume fraction (1 × 10−7 ≤ fv ≤ 1 × 10−4) and the refractive index (2.0 ≤ n ≤ 4.5 and 0.0001 ≤ k ≤ 25) of an ideal theoretical material to use in a solar particle receiver. Single- and two-layer receivers with known temperature profiles were optimized to maximize the receiver efficiencies. Spectral selective behavior of the optimized refractive index is discussed with the influence of particle radii and volume fractions. The theoretical ideal optical properties found for the particles have given the maximum efficiency reachable by the studied receivers and have shown that an optimized single-layer receiver will perform as well as a two-layer receiver.",
+    "keywords_joined":"High temperature; Receiver efficiency; Solar particle receiver",
+    "domain_codes":"phys.meca.ther",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-KWG6N0X1-V\/fulltext.pdf?sid=hal",
+    "authOrganismId_i":[
+      441569
+    ],
+    "authFirstName_s":[
+      "F.",
+      "Cyril",
+      "Françoise",
+      "Guy"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Ordonez",
+      "Caliot",
+      "Bataille",
+      "Lauriat"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":[
+      "Centre National de la Recherche Scientifique"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Solar particle receiver",
+      "Receiver efficiency",
+      "High temperature"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1084536",
+    "halId_s":"hal-00869727",
+    "title_s":"Directed connected operators: Asymmetric hierarchies for image filtering and segmentation",
+    "abstract_s":"Connected operators provide well-established solutions for digital image processing, typically in conjunction with hierarchical schemes. In graph-based frameworks, such operators basically rely on symmetric adjacency relations between pixels. In this article, we introduce a notion of directed connected operators for hierarchical image processing, by also considering non-symmetric adjacency relations. The induced image representation models are no longer partition hierarchies (i.e., trees), but directed acyclic graphs that generalize standard morphological tree structures such as component trees, binary partition trees or hierarchical watersheds. We describe how to efficiently build and handle these richer data structures, and we illustrate the versatility of the proposed framework in image filtering and image segmentation.",
+    "keywords_joined":"Antiextensive filtering; Connected operators; Hierarchical image representation; Mathematical morphology; Segmentation",
+    "domain_codes":"info.info-ti; info.info-cv",
+    "discipline":"Computer Science",
+    "url_primary":"http:\/\/hal.inria.fr\/docs\/00\/86\/97\/27\/PDF\/internalReport-DirectedConnectedOperators.pdf",
+    "authOrganismId_i":[
+      7569
+    ],
+    "authFirstName_s":[
+      "Benjamin",
+      "Jean",
+      "Olena",
+      "Hugues",
+      "Nicolas"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Perret",
+      "Cousty",
+      "Tankyevych",
+      "Talbot",
+      "Passat"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":[
+      "Université de Reims Champagne-Ardenne"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Mathematical morphology",
+      "Segmentation",
+      "Antiextensive filtering",
+      "Hierarchical image representation",
+      "Connected operators"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1090627",
+    "halId_s":"hal-01090627",
+    "title_s":"A Stretching Algorithm for Parallel Real-time DAG Tasks on Multiprocessor Systems",
+    "abstract_s":"Parallelism is becoming more important nowadays due to the increasing use of multiprocessor systems. In this paper, we study the problem of scheduling periodic parallel real-time Directed Acyclic graph (DAG) tasks on m homogeneous multiprocessor systems. A DAG task is an example of inter-subtask parallelism. It consists of a collection of dependent subtasks under precedence constraints. The dependencies between subtasks make scheduling process more challenging. We propose a stretching algorithm applied on each DAG tasks to transform them into a set of independent sequential threads with intermediate offsets and deadlines. The threads obtained with the transformation are two types, (i) fully-stretched master threads with utilization equal to 1 and (ii) constrained-deadline independent threads. The fully-stretched master threads are assigned to dedicated processors and the remaining processors m' ≤ m, are scheduled using global EDF scheduling algorithm. Then, we prove that preemptive global EDF scheduling of stretched threads has a resource augmentation bound equal to (3+ √ 5)\/2 for all tasksets with n < ϕ * m , where n is the number of tasks in the taskset and ϕ is the golden ratio 1 .",
+    "keywords_joined":"Directed Acyclic Graphs; Global EDF scheduling; Parallel tasks; Real-time scheduling; Speedup factor",
+    "domain_codes":"info; info.info-ds; info.info-dc",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01090627\/file\/ManarQamhieh_RTNS2014.pdf",
+    "authOrganismId_i":[
+      302035
+    ],
+    "authFirstName_s":[
+      "Manar",
+      "Laurent",
+      "Serge"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Qamhieh",
+      "George",
+      "Midonnet"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":[
+      "ESIEE Paris"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Speedup factor",
+      "Global EDF scheduling",
+      "Directed Acyclic Graphs",
+      "Parallel tasks",
+      "Real-time scheduling"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1090755",
+    "halId_s":"hal-01090755",
+    "title_s":"Discrete curvature: theory and applications",
+    "abstract_s":"The present volume contains the proceedings of the 2013 Meeting on discrete curvature, held at CIRM, Luminy, France. The aim of this meeting was to bring together researchers from various backgrounds, ranging from mathematics to computer science, with a focus on both theory and applications. With 27 invited talks and 8 posters, the conference attracted 70 researchers from all over the world. The challenge of finding a common ground on the topic of discrete curvature was met with success, and these proceedings are a testimony of this work",
+    "keywords_joined":"Digital geometry; Discrete calculus; Discrete curvature; Geometry; Integrable theory; Laplace-Beltrami operator; Optimal transport",
+    "domain_codes":"math.math-dg; info.info-dm",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01090755",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Laurent",
+      "Pascal"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Najman",
+      "Romon"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "sad",
+      "sad"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Digital geometry",
+      "Integrable theory",
+      "Laplace-Beltrami operator",
+      "Optimal transport",
+      "Geometry",
+      "Discrete calculus",
+      "Discrete curvature"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1095274",
+    "halId_s":"hal-01095274",
+    "title_s":"OptiDis: A parallel Fast Multipole Dislocation Dynamics code",
+    "abstract_s":"Among all the steps involved in DD simulations, the computation of the internal elastic forces and energy are by far the most resources consuming. However, since these are long-ranged and fast decreasing interactions, hierarchical algorithms like the Fast Multipole Method (FMM) are well suited for their fast evaluation. The relatively low accuracy required for the interaction forces between dislocations brought us to develop a more efficient approximation method for the farfield. On the other hand, the nearfield interactions are still evaluated analytically, which required a rather performant implementation (AVX, GPU...). Regarding parallelism, our code benefits from a hybrid OpenMP\/MPI paradigm and a cache-conscious data structure. Finally, an accurate handling of topological elements intersecting the structure of the octree was considered. The latter feature implied careful modifications of the P2M\/L2P operators in order to deal with shared memory model of parallelism.",
+    "keywords_joined":"Dislocation Dynamics Simulations; Fast Fourier Transform; Fast Multipole Method",
+    "domain_codes":"info.info-mo; info.info-ds; phys.meca.msmeca",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01095274",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Pierre",
+      "Arnaud",
+      "Olivier",
+      "Laurent",
+      "Marc",
+      "Eric"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Blanchard",
+      "Etcheverry",
+      "Coulaud",
+      "Dupuy",
+      "Bletry",
+      "Darve"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Dislocation Dynamics Simulations",
+      "Fast Multipole Method",
+      "Fast Fourier Transform"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1095322",
+    "halId_s":"hal-01095322",
+    "title_s":"OptiDis: Toward fast anisotropic dislocation dynamics based on Stroh formalism",
+    "abstract_s":"Dislocation Dynamics (DD) simulations in the hypothesis of isotropic elasticity have proved great reliability in order to predict the plastic behaviour of crystalline materials. However it is often the case at high temperature (for instance in irradiated BCC iron) that the structural properties of a material will be better described using full anisotropic treatment of the elastic interaction between dislocations. The computation of the internal elastic forces is by far the most resources consuming step in DD simulations, which is even more true for anisotropic elasticity in the absence of explicit Green's function. L. Dupuy, J. Soulacroix and M. Fivel showed that the approaches based on Willis-Steed-Lothe or Brown formulae can be accelerated using spherical harmonics expansions of the Stroh matrices. This feature was implemented in the DD code OptiDis in order to power the anisotropic forces computation. Here we recall the formalism and we discuss optimizations, performances as well as motivations for future developments.",
+    "keywords_joined":"Anisotropic elasticity; Dislocation Dynamics Simulations; Spherical harmonics; Stroh formalism",
+    "domain_codes":"info.info-mo; info.info-ds; phys.meca.msmeca",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01095322",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Pierre",
+      "Arnaud",
+      "Olivier",
+      "Laurent",
+      "Marc"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Blanchard",
+      "Etcheverry",
+      "Coulaud",
+      "Dupuy",
+      "Bletry"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Spherical harmonics",
+      "Stroh formalism",
+      "Anisotropic elasticity",
+      "Dislocation Dynamics Simulations"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1100173",
+    "halId_s":"hal-01100173",
+    "title_s":"Itô SDE-based generator for a class of non-Gaussian vector-valued random fields in uncertainty quantification",
+    "abstract_s":"This paper is concerned with the derivation of a generic sampling technique for a class of non-Gaussian vector-valued random fields. Such an issue typically arises in uncertainty quantification for complex systems, where the input coefficients associated with the elliptic operators must be identified by solving statistical inverse problems. Specifically, we consider the case of non-Gaussian random fields with values in some arbitrary bounded or semi-bounded subsets of R^n. The approach involves two main features. The first one is the construction of a family of random fields converging, at a user-controlled rate, towards the target random field. Each of these auxialiary random fields can be subsequently simulated by solving a family of Itô stochastic differential equations. The second ingredient is the definition of an adaptive discretization algorithm. The latter allows refining the integration step on-the-fly and prevents the scheme from diverging. The proposed strategy is finally exemplified on three examples, each of which serving as a benchmark, either for the adaptivity procedure or for the convergence of the diffusions.",
+    "keywords_joined":"Adaptive algorithm; Itô stochastic differential equation; Random field; Uncertainty quantification",
+    "domain_codes":"math.math-pr; spi.meca",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01100173\/document",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "J.",
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Guilleminot",
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Random field",
+      "Itô stochastic differential equation",
+      "Adaptive algorithm",
+      "Uncertainty quantification"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1105959",
+    "halId_s":"hal-01105959",
+    "title_s":"Polynomial chaos expansion of a multimodal random vector",
+    "abstract_s":"A methodology and algorithms are proposed for constructing the polynomial chaos expansion (PCE) of multimodal random vectors. An algorithm is developed for generating independent realizations of any multimodal multivariate probability measure that is constructed from a set of independent realizations using the Gaussian kernel-density estimation method. The PCE is then performed with respect to this multimodal probability measure, for which the realizations of the polynomial chaos are computed with an adapted algorithm. Finally, a numerical application is presented for analyzing the convergence properties.",
+    "keywords_joined":"High dimension; Multimodal probability distribution; Polynomial chaos; Random vector",
+    "domain_codes":"math; math.math-pr; math.math-st; spi; spi.meca",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01105959\/file\/publi-2015-SIAM-ASA-JUQ-3%281%2934-60-soize-preprint.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Christian"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Soize"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Random vector",
+      "High dimension",
+      "Polynomial chaos",
+      "Multimodal probability distribution"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1107668",
+    "halId_s":"hal-01107668",
+    "title_s":"Job vs. portioned partitioning for the earliest deadline ﬁrst semi-partitioned scheduling",
+    "abstract_s":"In this paper, we focus on the semi-partitioned scheduling of sporadic tasks with constrained deadlines and identical processors. We study two cases of semi-partitioning: (i) the case where the worst case execution time (WCET) of a job can be portioned, each portion being executed on a dedicated processor, according to a static pattern of migration; (ii) the case where the jobs of a task are released on a processor, 1 time out of p, where p is an integer at most equal to the number of processors, according to a round-robin migration pattern. The first approach has been investigated in the state-of-the-art by migrating a job at its local deadline, computed from the deadline of the task it belongs to. We study several local deadline assignment heuristics (fair, based on processor utilization and based on the minimum acceptable local deadline for a job on a processor). In both cases, we propose feasibility conditions for the schedulability of sporadic tasks scheduled using earliest deadline first (EDF) semi-partitioned scheduling. We show that the load function used for global scheduling to establish the feasibility of sporadic task sets exhibits interesting properties in the semi-partitioning context. We carry out simulations to study the performance of the two approaches in terms of success rate and number of migrations, for platforms composed of four and eight processors. We compare the performance of these semi-partitioned heuristics with the performance of classical partitioned scheduling algorithms and with a global scheduling heuristic which is currently considered to have good performances.",
+    "keywords_joined":"Deadline assignment; EDF; Multiprocessor; Performance evaluation; Portioned scheduling; Real-time; Semi-partitioned scheduling",
+    "domain_codes":"info.info-ni",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-H1VNZDM3-N\/fulltext.pdf?sid=hal",
+    "authOrganismId_i":[
+      302035
+    ],
+    "authFirstName_s":[
+      "Laurent",
+      "Pierre",
+      "Yves"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "George",
+      "Courbin",
+      "Sorel"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":[
+      "ESIEE Paris"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Semi-partitioned scheduling",
+      "Multiprocessor",
+      "Real-time",
+      "Portioned scheduling",
+      "EDF",
+      "Performance evaluation",
+      "Deadline assignment"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1120299",
+    "halId_s":"hal-01120299",
+    "title_s":"Semantic interoperability platform for Healthcare Information Exchange",
+    "abstract_s":"Objectives: An important barrier to electronic healthcare information exchanges (HIE) is the lack of interoperability between information systems especially on the semantic level. In the scope of the ANR (Agence Nationale pour la Recherche)\/TeRSan (Terminology and Data Elements Repositories for Healthcare Interoperability) project, we propose to set and use a semantic interoperability platform, based on semantic web technologies, in order to facilitate standardized healthcare information exchanges between heterogeneous Electronic Healthcare Records (EHRs) in different care settings. Material and methods: The platform is a standard-based expressive and scalable semantic interoperability framework. It includes centrally managed Common Data Elements bounded to international\/national reference terminologies such as ICD10, CCAM, SNOMED CT, ICD-O, LOINC and PathLex. It offers semantic services such as dynamic mappings between reference and local terminologies. Results: A pilot implementation of semantic services was developed and evaluated within an HIE prototype in telepathology for remote expert advice. The semantic services developed for transcoding local terms into reference terms take into account the type of message and the exchange context defined within standard-based integration profiles. Conclusion: The TeRSan platform is an innovative semantic interoperability framework that (1) provides standard-based semantic services applicable to any HIE infrastructure and (2) preserves the use of local terminologies and local models by end users (health professionals' priority).",
+    "keywords_joined":"Health information systems; Information model; Interface terminology; Reference terminology; Semantic interoperability; Semantic web",
+    "domain_codes":"info.info-hc; sdv.mhep",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.sorbonne-universite.fr\/hal-01120299\/file\/Aim%C3%A9_Semantic.pdf",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Xavier",
+      "Lamine",
+      "Amina",
+      "Eric",
+      "David",
+      "Jean",
+      "Marie-Christine",
+      "Stefan",
+      "Nicolas",
+      "Florence",
+      "Lydia",
+      "Eric",
+      "Christel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Aimé",
+      "Traoré",
+      "Chniti",
+      "Sadou",
+      "Ouagne",
+      "Charlet",
+      "Jaulent",
+      "Darmoni",
+      "Griffon",
+      "Amardeilh",
+      "Bascarane",
+      "Lepage",
+      "Daniel"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Semantic interoperability",
+      "Health information systems",
+      "Information model",
+      "Reference terminology",
+      "Semantic web",
+      "Interface terminology"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1121520",
+    "halId_s":"hal-00798395",
+    "title_s":"When Van Gogh meets Mandelbrot: Multifractal classification of painting's texture",
+    "abstract_s":"Recently, a growing interest has emerged for examining the potential of Image Processing tools to assist Art Investigation. Simultaneously, several research works showed the interest of using multifractal analysis for the description of homogeneous textures in images. In this context, the goal of the present contribution is to study the benefits of using the wavelet leader based multifractal formalism to characterize paintings. After a brief review of the underlying key theoretical concepts, methods and tools, two sets of digitized paintings are analyzed. The first one, the Princeton Experiment, consists of a set of seven paintings and their replicas, made by the same artist. It enables examination of the potential of multifractal analysis in forgery detection. The second one is composed of paintings by Van Gogh and contemporaries, made available by the Van Gogh and Kroller- Muller Museums (Netherlands) in the framework of the ¨ Image processing for Art Investigation research program. It enables us to show various differences in the regularity of textures of Van Gogh’s paintings from different periods, or between Van Gogh’s and contemporaries’ paintings. These preliminary results plead for the constitution of interdisciplinary research teams consisting of experts in art, image processing, mathematics and computer sciences.",
+    "keywords_joined":"Forgery Detection; Image Processing; Multifractal Analysis; Paintings; Period Dating; Regularity; Texture Classification; Van Gogh; Wavelet Leaders",
+    "domain_codes":"info.info-gr; info.info-ts; info.info-ti; info.info-cv; info.info-ai; math.math-ca",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.archives-ouvertes.fr\/hal-00798395v2\/file\/Abry_12603.pdf",
+    "authOrganismId_i":[
+      441569
+    ],
+    "authFirstName_s":[
+      "Patrice",
+      "Herwig",
+      "Stéphane"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Abry",
+      "Wendt",
+      "Jaffard"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":[
+      "Centre National de la Recherche Scientifique"
+    ],
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Wavelet Leaders",
+      "Image Processing",
+      "Texture Classification",
+      "Regularity",
+      "Multifractal Analysis",
+      "Period Dating",
+      "Forgery Detection",
+      "Van Gogh",
+      "Paintings"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1126502",
+    "halId_s":"hal-01126502",
+    "title_s":"Socioprofessional trajectories and mortality in France, 1976?2002: a longitudinal follow-up of administrative data",
+    "abstract_s":"Background Occupying a low socioeconomic position is associated with increased mortality risk. To disentangle this association, previous studies considered various dimensions of socioeconomic trajectories across the life course. However, they used a limited number of stages. We simultaneously examined various dimensions of the whole professional trajectory and its association with mortality. Methods We used a large sample (337?706 men and 275?378 women) of the data obtained by linking individuals? annual occupation (collected in 1976?2002 from a representative panel of the French salaried population in the semipublic and private sectors) with causes of death obtained from registries. All-cause and cause-specific HRs were estimated using Cox's regression models adjusted for the occupational class at the beginning of the follow-up, the current occupational class, the transition rates between occupational categories and the duration of time spent in occupational categories. Results An increase in the time spent in the clerk class increased men and women's cardiovascular mortality risk compared with that in the upper class (HRs=1.59 (1.14 to 2.20) and 2.65 (1.14 to 6.13) for 10?years increase, respectively, for men and women). Men with a high rate of transitions had about a 1.2-fold increased risk of all-cause and external-cause mortality compared with those without transitions during their professional life. This association was also observed for women's all-cause mortality. Conclusions Strong associations between professional trajectories and mortality from different causes of death were found. Long exposure to lower socioeconomic conditions was associated with increased mortality risk from various causes of death. The results also suggest gradual associations between transition rates and mortality.",
+    "keywords_joined":"Cohort; Cohorte; Longitudinal; Longitudinale; Mortality; Mortalité",
+    "domain_codes":"info; math.math-st",
+    "discipline":"Computer Science",
+    "url_primary":"https:\/\/hal.science\/hal-01126502",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Maryam",
+      "Béatrice",
+      "Aurélie",
+      "Aurélien",
+      "Grégoire"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Karimi",
+      "Geoffroy-Perez",
+      "Fouquet",
+      "Latouche",
+      "Rey"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Cohort",
+      "Longitudinal",
+      "Mortality",
+      "Cohorte",
+      "Longitudinale",
+      "Mortalité"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  }
+]
